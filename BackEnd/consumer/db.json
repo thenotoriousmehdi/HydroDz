@@ -1,0 +1,4430 @@
+[
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 1.85,
+    "capteur2": 0.42,
+    "capteur3": 4.22,
+    "capteur4": 3.42,
+    "capteurSecours": 4.2,
+    "timestamp": "15/05/2025 14:18:01"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 7.45,
+    "capteur2": 4.07,
+    "capteur3": 9.58,
+    "capteur4": 8.23,
+    "capteurSecours": 2.66,
+    "timestamp": "15/05/2025 14:18:06"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 9.51,
+    "capteur2": 2.52,
+    "capteur3": 8.24,
+    "capteur4": 0.57,
+    "capteurSecours": 3.09,
+    "timestamp": "15/05/2025 14:18:11"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 0.98,
+    "capteur2": 1.87,
+    "capteur3": 0.18,
+    "capteur4": 0.63,
+    "capteurSecours": 8.05,
+    "timestamp": "15/05/2025 14:18:16"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 8.06,
+    "capteur2": 5.3,
+    "capteur3": 8.99,
+    "capteur4": 5.03,
+    "capteurSecours": 9.56,
+    "timestamp": "15/05/2025 14:18:21"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 9.53,
+    "capteur2": 2.51,
+    "capteur3": 5.55,
+    "capteur4": 0.18,
+    "capteurSecours": 0.49,
+    "timestamp": "15/05/2025 14:18:26"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 5.66,
+    "capteur2": 9.87,
+    "capteur3": 7.25,
+    "capteur4": 4.84,
+    "capteurSecours": 5.67,
+    "timestamp": "15/05/2025 14:18:32"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 4.17,
+    "capteur2": 8.92,
+    "capteur3": 3.19,
+    "capteur4": 5.05,
+    "capteurSecours": 7.08,
+    "timestamp": "15/05/2025 14:18:37"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 0.15,
+    "capteur2": 4.05,
+    "capteur3": 8.38,
+    "capteur4": 5.55,
+    "capteurSecours": 4.05,
+    "timestamp": "15/05/2025 14:18:42"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 6.54,
+    "capteur2": 7.07,
+    "capteur3": 2.83,
+    "capteur4": 3.83,
+    "capteurSecours": 0.93,
+    "timestamp": "15/05/2025 14:18:47"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 9.07,
+    "capteur2": 4.54,
+    "capteur3": 5.05,
+    "capteur4": 0.59,
+    "capteurSecours": 3.51,
+    "timestamp": "15/05/2025 14:18:52"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 0.18,
+    "capteur2": 9.88,
+    "capteur3": 9.83,
+    "capteur4": 2.8,
+    "capteurSecours": 2.7,
+    "timestamp": "15/05/2025 14:18:57"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 5.44,
+    "capteur2": 6.44,
+    "capteur3": 0.14,
+    "capteur4": 8.7,
+    "capteurSecours": 9.68,
+    "timestamp": "15/05/2025 14:19:02"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 1.42,
+    "capteur2": 5.43,
+    "capteur3": 0.54,
+    "capteur4": 8.33,
+    "capteurSecours": 3.6,
+    "timestamp": "15/05/2025 14:19:07"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 1.94,
+    "capteur2": 6.77,
+    "capteur3": 9.36,
+    "capteur4": 2,
+    "capteurSecours": 0.58,
+    "timestamp": "15/05/2025 14:19:12"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 3.16,
+    "capteur2": 5.57,
+    "capteur3": 1.95,
+    "capteur4": 6.39,
+    "capteurSecours": 7.5,
+    "timestamp": "15/05/2025 14:19:17"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 5.23,
+    "capteur2": 7.22,
+    "capteur3": 3.86,
+    "capteur4": 2.07,
+    "capteurSecours": 0.59,
+    "timestamp": "15/05/2025 14:19:23"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 4.07,
+    "capteur2": 6.06,
+    "capteur3": 8.37,
+    "capteur4": 0.9,
+    "capteurSecours": 1.22,
+    "timestamp": "15/05/2025 14:19:28"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 0.17,
+    "capteur2": 1.69,
+    "capteur3": 5.07,
+    "capteur4": 3.52,
+    "capteurSecours": 2.03,
+    "timestamp": "15/05/2025 14:19:33"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 4.01,
+    "capteur2": 5.71,
+    "capteur3": 5.07,
+    "capteur4": 6.17,
+    "capteurSecours": 3.71,
+    "timestamp": "15/05/2025 14:19:38"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 6.96,
+    "capteur2": 5.91,
+    "capteur3": 3.23,
+    "capteur4": 4.34,
+    "capteurSecours": 2.29,
+    "timestamp": "15/05/2025 14:36:02"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 3.11,
+    "capteur2": 3.11,
+    "capteur3": 4.43,
+    "capteur4": 6.4,
+    "capteurSecours": 6.52,
+    "timestamp": "15/05/2025 14:36:07"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 0.3,
+    "capteur2": 5.13,
+    "capteur3": 4.67,
+    "capteur4": 6.9,
+    "capteurSecours": 9.78,
+    "timestamp": "15/05/2025 14:36:12"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 3.36,
+    "capteur2": 8.43,
+    "capteur3": 1.04,
+    "capteur4": 5.31,
+    "capteurSecours": 5.66,
+    "timestamp": "15/05/2025 14:36:17"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 7.74,
+    "capteur2": 9.2,
+    "capteur3": 4.31,
+    "capteur4": 4.4,
+    "capteurSecours": 0.75,
+    "timestamp": "15/05/2025 14:36:22"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 4.65,
+    "capteur2": 3.45,
+    "capteur3": 3.03,
+    "capteur4": 7,
+    "capteurSecours": 1.03,
+    "timestamp": "15/05/2025 14:36:27"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 9.13,
+    "capteur2": 3.33,
+    "capteur3": 2.99,
+    "capteur4": 1.13,
+    "capteurSecours": 0.17,
+    "timestamp": "15/05/2025 14:36:33"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 2.76,
+    "capteur2": 6.21,
+    "capteur3": 6.41,
+    "capteur4": 1.25,
+    "capteurSecours": 1.45,
+    "timestamp": "15/05/2025 14:36:38"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 5.48,
+    "capteur2": 2.79,
+    "capteur3": 9.38,
+    "capteur4": 9.18,
+    "capteurSecours": 0.32,
+    "timestamp": "15/05/2025 14:36:43"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 4.57,
+    "capteur2": 8.39,
+    "capteur3": 5.41,
+    "capteur4": 9.4,
+    "capteurSecours": 3.2,
+    "timestamp": "15/05/2025 14:36:48"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 6.15,
+    "capteur2": 1.07,
+    "capteur3": 1.9,
+    "capteur4": 3.61,
+    "capteurSecours": 2.84,
+    "timestamp": "15/05/2025 14:36:53"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 7.65,
+    "capteur2": 1.78,
+    "capteur3": 7,
+    "capteur4": 8.98,
+    "capteurSecours": 8.84,
+    "timestamp": "15/05/2025 14:36:58"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 4.22,
+    "capteur2": 3.11,
+    "capteur3": 5.6,
+    "capteur4": 0.31,
+    "capteurSecours": 5.19,
+    "timestamp": "15/05/2025 14:37:03"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 9.91,
+    "capteur2": 8.02,
+    "capteur3": 0.42,
+    "capteur4": 2.63,
+    "capteurSecours": 6.46,
+    "timestamp": "15/05/2025 14:37:08"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 4.23,
+    "capteur2": 0.92,
+    "capteur3": 4.66,
+    "capteur4": 5.09,
+    "capteurSecours": 7.32,
+    "timestamp": "15/05/2025 14:37:13"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 4.31,
+    "capteur2": 4.76,
+    "capteur3": 5.69,
+    "capteur4": 3.79,
+    "capteurSecours": 4.79,
+    "timestamp": "15/05/2025 14:37:19"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 3.79,
+    "capteur2": 4.11,
+    "capteur3": 4.08,
+    "capteur4": 1.57,
+    "capteurSecours": 8.26,
+    "timestamp": "15/05/2025 14:40:07"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 3.05,
+    "capteur2": 7.56,
+    "capteur3": 5.66,
+    "capteur4": 5.7,
+    "capteurSecours": 0.54,
+    "timestamp": "15/05/2025 14:40:12"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 2.85,
+    "capteur2": 1.44,
+    "capteur3": 1.02,
+    "capteur4": 0.26,
+    "capteurSecours": 7.83,
+    "timestamp": "15/05/2025 14:40:17"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 0.9,
+    "capteur2": 2.74,
+    "capteur3": 4.09,
+    "capteur4": 9.77,
+    "capteurSecours": 4.76,
+    "timestamp": "15/05/2025 14:40:22"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 8.88,
+    "capteur2": 6.09,
+    "capteur3": 4.34,
+    "capteur4": 8.54,
+    "capteurSecours": 3.23,
+    "timestamp": "15/05/2025 14:40:27"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 3.33,
+    "capteur2": 2.51,
+    "capteur3": 5.78,
+    "capteur4": 6.86,
+    "capteurSecours": 5.29,
+    "timestamp": "15/05/2025 14:40:33"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 3.84,
+    "capteur2": 7.79,
+    "capteur3": 6.87,
+    "capteur4": 4.51,
+    "capteurSecours": 1.17,
+    "timestamp": "15/05/2025 14:40:38"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 7.84,
+    "capteur2": 4.33,
+    "capteur3": 7.58,
+    "capteur4": 3.96,
+    "capteurSecours": 8.68,
+    "timestamp": "15/05/2025 14:40:43"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 6.91,
+    "capteur2": 5.98,
+    "capteur3": 7,
+    "capteur4": 3.01,
+    "capteurSecours": 8.47,
+    "timestamp": "15/05/2025 14:40:48"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 8.54,
+    "capteur2": 1.43,
+    "capteur3": 6.58,
+    "capteur4": 3.26,
+    "capteurSecours": 8.31,
+    "timestamp": "15/05/2025 14:40:53"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 3.31,
+    "capteur2": 6.11,
+    "capteur3": 8.99,
+    "capteur4": 9,
+    "capteurSecours": 0.17,
+    "timestamp": "15/05/2025 14:40:58"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 7.91,
+    "capteur2": 4.93,
+    "capteur3": 8.01,
+    "capteur4": 0.8,
+    "capteurSecours": 1.74,
+    "timestamp": "15/05/2025 14:41:03"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 0.91,
+    "capteur2": 6.84,
+    "capteur3": 3.67,
+    "capteur4": 8.12,
+    "capteurSecours": 0.55,
+    "timestamp": "15/05/2025 14:41:08"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 9.32,
+    "capteur2": 8.6,
+    "capteur3": 8,
+    "capteur4": 10,
+    "capteurSecours": 2.69,
+    "timestamp": "15/05/2025 14:41:13"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 5.8,
+    "capteur2": 5.46,
+    "capteur3": 0.4,
+    "capteur4": 7.78,
+    "capteurSecours": 5.31,
+    "timestamp": "15/05/2025 14:41:19"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 1.31,
+    "capteur2": 8.04,
+    "capteur3": 0.96,
+    "capteur4": 0.9,
+    "capteurSecours": 6.4,
+    "timestamp": "15/05/2025 14:41:24"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 6.2,
+    "capteur2": 1.92,
+    "capteur3": 9.33,
+    "capteur4": 3.08,
+    "capteurSecours": 7.08,
+    "timestamp": "15/05/2025 14:41:29"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 4.89,
+    "capteur2": 5.96,
+    "capteur3": 2.57,
+    "capteur4": 1.2,
+    "capteurSecours": 1.58,
+    "timestamp": "15/05/2025 14:41:34"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 0.27,
+    "capteur2": 4.75,
+    "capteur3": 9.29,
+    "capteur4": 1.68,
+    "capteurSecours": 5.35,
+    "timestamp": "15/05/2025 14:41:39"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 3.12,
+    "capteur2": 2.71,
+    "capteur3": 3.96,
+    "capteur4": 2.89,
+    "capteurSecours": 1.94,
+    "timestamp": "15/05/2025 14:41:44"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 4.15,
+    "capteur2": 3.95,
+    "capteur3": 2.64,
+    "capteur4": 7.38,
+    "capteurSecours": 6.04,
+    "timestamp": "15/05/2025 14:41:49"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 4.32,
+    "capteur2": 2.43,
+    "capteur3": 8.99,
+    "capteur4": 0.68,
+    "capteurSecours": 6.78,
+    "timestamp": "15/05/2025 14:41:54"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 3.64,
+    "capteur2": 0.31,
+    "capteur3": 2.84,
+    "capteur4": 4.19,
+    "capteurSecours": 1.13,
+    "timestamp": "15/05/2025 14:41:59"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 5.56,
+    "capteur2": 2.71,
+    "capteur3": 4.28,
+    "capteur4": 4.35,
+    "capteurSecours": 7.53,
+    "timestamp": "15/05/2025 14:42:05"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 7.82,
+    "capteur2": 6.59,
+    "capteur3": 8.32,
+    "capteur4": 1.98,
+    "capteurSecours": 2.19,
+    "timestamp": "15/05/2025 14:42:10"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 3.92,
+    "capteur2": 9.67,
+    "capteur3": 3.83,
+    "capteur4": 5.41,
+    "capteurSecours": 5.7,
+    "timestamp": "15/05/2025 14:42:15"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 2.83,
+    "capteur2": 7.28,
+    "capteur3": 2.38,
+    "capteur4": 8.91,
+    "capteurSecours": 7.98,
+    "timestamp": "15/05/2025 14:42:20"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 5.5,
+    "capteur2": 6.31,
+    "capteur3": 3.14,
+    "capteur4": 8.16,
+    "capteurSecours": 3.27,
+    "timestamp": "15/05/2025 14:42:25"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 3.85,
+    "capteur2": 2.72,
+    "capteur3": 8.83,
+    "capteur4": 5.62,
+    "capteurSecours": 0.78,
+    "timestamp": "15/05/2025 14:42:30"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 9.89,
+    "capteur2": 5.01,
+    "capteur3": 8.37,
+    "capteur4": 8.82,
+    "capteurSecours": 4.67,
+    "timestamp": "15/05/2025 14:42:35"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 4.74,
+    "capteur2": 0.72,
+    "capteur3": 3.53,
+    "capteur4": 3.4,
+    "capteurSecours": 1.3,
+    "timestamp": "15/05/2025 14:42:40"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 6.51,
+    "capteur2": 8.66,
+    "capteur3": 0.91,
+    "capteur4": 3,
+    "capteurSecours": 4.41,
+    "timestamp": "15/05/2025 14:42:45"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 3.24,
+    "capteur2": 8.69,
+    "capteur3": 3.02,
+    "capteur4": 5.61,
+    "capteurSecours": 1.96,
+    "timestamp": "15/05/2025 14:42:51"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 3.86,
+    "capteur2": 0.67,
+    "capteur3": 6.84,
+    "capteur4": 7.95,
+    "capteurSecours": 5.33,
+    "timestamp": "15/05/2025 14:42:56"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 3.07,
+    "capteur2": 3.41,
+    "capteur3": 1.4,
+    "capteur4": 6.19,
+    "capteurSecours": 3.55,
+    "timestamp": "15/05/2025 14:43:01"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 2.54,
+    "capteur2": 5.1,
+    "capteur3": 5.48,
+    "capteur4": 7.73,
+    "capteurSecours": 3.79,
+    "timestamp": "15/05/2025 14:43:06"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 8.01,
+    "capteur2": 0.78,
+    "capteur3": 2.81,
+    "capteur4": 5.96,
+    "capteurSecours": 5.3,
+    "timestamp": "15/05/2025 14:43:11"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 3.99,
+    "capteur2": 3.95,
+    "capteur3": 7.77,
+    "capteur4": 3.5,
+    "capteurSecours": 1.46,
+    "timestamp": "15/05/2025 14:43:16"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 7.97,
+    "capteur2": 7.34,
+    "capteur3": 1.82,
+    "capteur4": 6.16,
+    "capteurSecours": 8.91,
+    "timestamp": "15/05/2025 14:43:21"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 3.34,
+    "capteur2": 1.38,
+    "capteur3": 8.29,
+    "capteur4": 5.13,
+    "capteurSecours": 5.09,
+    "timestamp": "15/05/2025 14:43:26"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 9.37,
+    "capteur2": 5.42,
+    "capteur3": 3.86,
+    "capteur4": 2.23,
+    "capteurSecours": 9.31,
+    "timestamp": "15/05/2025 14:43:31"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 7.93,
+    "capteur2": 9.5,
+    "capteur3": 8.57,
+    "capteur4": 1.63,
+    "capteurSecours": 2.66,
+    "timestamp": "15/05/2025 14:43:37"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 4.32,
+    "capteur2": 9.75,
+    "capteur3": 1.51,
+    "capteur4": 8.83,
+    "capteurSecours": 7.87,
+    "timestamp": "15/05/2025 14:43:42"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 4.86,
+    "capteur2": 8.42,
+    "capteur3": 9.99,
+    "capteur4": 4.98,
+    "capteurSecours": 2.33,
+    "timestamp": "15/05/2025 14:43:47"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 0.95,
+    "capteur2": 4.73,
+    "capteur3": 7.39,
+    "capteur4": 7.57,
+    "capteurSecours": 7.76,
+    "timestamp": "15/05/2025 14:43:52"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 2.27,
+    "capteur2": 9.27,
+    "capteur3": 3.26,
+    "capteur4": 1.99,
+    "capteurSecours": 4.39,
+    "timestamp": "15/05/2025 14:43:57"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 1.81,
+    "capteur2": 1.33,
+    "capteur3": 3.81,
+    "capteur4": 5.49,
+    "capteurSecours": 9.58,
+    "timestamp": "15/05/2025 14:44:02"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 3.59,
+    "capteur2": 8.73,
+    "capteur3": 3.39,
+    "capteur4": 7.11,
+    "capteurSecours": 4.28,
+    "timestamp": "15/05/2025 14:44:07"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 6.68,
+    "capteur2": 6.88,
+    "capteur3": 5.41,
+    "capteur4": 3.6,
+    "capteurSecours": 1.45,
+    "timestamp": "15/05/2025 14:44:12"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 2.33,
+    "capteur2": 9.7,
+    "capteur3": 8.55,
+    "capteur4": 3.94,
+    "capteurSecours": 9.85,
+    "timestamp": "15/05/2025 14:44:17"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 7.6,
+    "capteur2": 5.53,
+    "capteur3": 8.8,
+    "capteur4": 7.79,
+    "capteurSecours": 4.79,
+    "timestamp": "15/05/2025 14:44:22"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 4.8,
+    "capteur2": 2.92,
+    "capteur3": 7.88,
+    "capteur4": 4.44,
+    "capteurSecours": 3.42,
+    "timestamp": "15/05/2025 14:44:28"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 9.56,
+    "capteur2": 6.71,
+    "capteur3": 2.96,
+    "capteur4": 6.06,
+    "capteurSecours": 5.39,
+    "timestamp": "15/05/2025 14:44:33"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 4.12,
+    "capteur2": 6.55,
+    "capteur3": 7.69,
+    "capteur4": 1.5,
+    "capteurSecours": 1.31,
+    "timestamp": "15/05/2025 14:44:38"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 4.67,
+    "capteur2": 7.31,
+    "capteur3": 9.91,
+    "capteur4": 3.67,
+    "capteurSecours": 4.34,
+    "timestamp": "15/05/2025 14:44:43"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 2.62,
+    "capteur2": 2.16,
+    "capteur3": 1.81,
+    "capteur4": 6.75,
+    "capteurSecours": 2.3,
+    "timestamp": "15/05/2025 14:44:48"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 7.63,
+    "capteur2": 8.97,
+    "capteur3": 1.47,
+    "capteur4": 4.8,
+    "capteurSecours": 0.91,
+    "timestamp": "15/05/2025 14:44:53"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 7.81,
+    "capteur2": 2.8,
+    "capteur3": 9.66,
+    "capteur4": 4.1,
+    "capteurSecours": 0.3,
+    "timestamp": "15/05/2025 14:44:58"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 9.48,
+    "capteur2": 3.13,
+    "capteur3": 8.98,
+    "capteur4": 5.19,
+    "capteurSecours": 7.06,
+    "timestamp": "15/05/2025 14:45:03"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 4.51,
+    "capteur2": 4.03,
+    "capteur3": 2.15,
+    "capteur4": 2.67,
+    "capteurSecours": 5.66,
+    "timestamp": "15/05/2025 14:45:08"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 8.89,
+    "capteur2": 4.9,
+    "capteur3": 6.77,
+    "capteur4": 9.19,
+    "capteurSecours": 4.12,
+    "timestamp": "15/05/2025 14:45:14"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 0.16,
+    "capteur2": 4.74,
+    "capteur3": 3.95,
+    "capteur4": 5.47,
+    "capteurSecours": 3.42,
+    "timestamp": "15/05/2025 14:45:19"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 5.42,
+    "capteur2": 2.13,
+    "capteur3": 2.02,
+    "capteur4": 4.6,
+    "capteurSecours": 8.04,
+    "timestamp": "15/05/2025 14:45:24"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 7.23,
+    "capteur2": 0.47,
+    "capteur3": 2.67,
+    "capteur4": 2.56,
+    "capteurSecours": 2.63,
+    "timestamp": "15/05/2025 14:45:29"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 6.45,
+    "capteur2": 9.32,
+    "capteur3": 5.05,
+    "capteur4": 5.67,
+    "capteurSecours": 8.15,
+    "timestamp": "15/05/2025 14:45:34"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 7.34,
+    "capteur2": 3.68,
+    "capteur3": 1.48,
+    "capteur4": 4.47,
+    "capteurSecours": 6.68,
+    "timestamp": "15/05/2025 14:45:39"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 5.02,
+    "capteur2": 1.39,
+    "capteur3": 9.13,
+    "capteur4": 8.24,
+    "capteurSecours": 7.39,
+    "timestamp": "15/05/2025 14:45:44"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 0.48,
+    "capteur2": 1.48,
+    "capteur3": 9.45,
+    "capteur4": 3.51,
+    "capteurSecours": 8.75,
+    "timestamp": "15/05/2025 14:45:49"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 4.31,
+    "capteur2": 4.08,
+    "capteur3": 0.4,
+    "capteur4": 8.09,
+    "capteurSecours": 8.97,
+    "timestamp": "15/05/2025 14:45:54"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 3.77,
+    "capteur2": 6.74,
+    "capteur3": 8.37,
+    "capteur4": 2.84,
+    "capteurSecours": 0.13,
+    "timestamp": "15/05/2025 14:46:00"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 0.05,
+    "capteur2": 7.54,
+    "capteur3": 1.05,
+    "capteur4": 7.17,
+    "capteurSecours": 9.91,
+    "timestamp": "15/05/2025 14:46:05"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 9.44,
+    "capteur2": 9.35,
+    "capteur3": 0.91,
+    "capteur4": 8.76,
+    "capteurSecours": 9.98,
+    "timestamp": "15/05/2025 14:46:10"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 5.35,
+    "capteur2": 5.49,
+    "capteur3": 0.4,
+    "capteur4": 0.21,
+    "capteurSecours": 7.92,
+    "timestamp": "15/05/2025 14:46:15"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 4.64,
+    "capteur2": 3.76,
+    "capteur3": 4.31,
+    "capteur4": 2.02,
+    "capteurSecours": 5.58,
+    "timestamp": "15/05/2025 14:46:20"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 2.6,
+    "capteur2": 9.69,
+    "capteur3": 9.24,
+    "capteur4": 7.65,
+    "capteurSecours": 4.85,
+    "timestamp": "15/05/2025 14:46:25"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 4.79,
+    "capteur2": 8.61,
+    "capteur3": 0.76,
+    "capteur4": 4.55,
+    "capteurSecours": 1.39,
+    "timestamp": "15/05/2025 14:46:30"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 3.64,
+    "capteur2": 6.63,
+    "capteur3": 0.66,
+    "capteur4": 3.44,
+    "capteurSecours": 3.37,
+    "timestamp": "15/05/2025 14:47:21"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 8.13,
+    "capteur2": 2.53,
+    "capteur3": 5.69,
+    "capteur4": 9.84,
+    "capteurSecours": 7.62,
+    "timestamp": "15/05/2025 14:47:26"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 0.64,
+    "capteur2": 3.11,
+    "capteur3": 7.22,
+    "capteur4": 7.41,
+    "capteurSecours": 1.76,
+    "timestamp": "15/05/2025 14:47:31"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 1.6,
+    "capteur2": 2.42,
+    "capteur3": 4.28,
+    "capteur4": 3.77,
+    "capteurSecours": 7.31,
+    "timestamp": "15/05/2025 14:47:37"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 3.73,
+    "capteur2": 9.81,
+    "capteur3": 0.66,
+    "capteur4": 9.15,
+    "capteurSecours": 6.56,
+    "timestamp": "15/05/2025 14:47:42"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 3.35,
+    "capteur2": 2,
+    "capteur3": 6.68,
+    "capteur4": 9.89,
+    "capteurSecours": 7.71,
+    "timestamp": "15/05/2025 14:47:47"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 2.96,
+    "capteur2": 8.68,
+    "capteur3": 3.12,
+    "capteur4": 5.56,
+    "capteurSecours": 7.17,
+    "timestamp": "15/05/2025 14:47:52"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 4.13,
+    "capteur2": 3.83,
+    "capteur3": 6.41,
+    "capteur4": 0.87,
+    "capteurSecours": 5.09,
+    "timestamp": "15/05/2025 14:47:57"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 8.31,
+    "capteur2": 2.66,
+    "capteur3": 8.56,
+    "capteur4": 7.12,
+    "capteurSecours": 5.86,
+    "timestamp": "15/05/2025 14:48:02"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 9.64,
+    "capteur2": 2.78,
+    "capteur3": 7.24,
+    "capteur4": 8.98,
+    "capteurSecours": 1.24,
+    "timestamp": "15/05/2025 14:48:07"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 1.91,
+    "capteur2": 1.53,
+    "capteur3": 7.07,
+    "capteur4": 3.83,
+    "capteurSecours": 3.25,
+    "timestamp": "15/05/2025 14:48:12"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 7.76,
+    "capteur2": 4.13,
+    "capteur3": 3.74,
+    "capteur4": 3.25,
+    "capteurSecours": 7.07,
+    "timestamp": "15/05/2025 14:48:17"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 4.28,
+    "capteur2": 4.05,
+    "capteur3": 9.87,
+    "capteur4": 8.71,
+    "capteurSecours": 9.05,
+    "timestamp": "15/05/2025 14:48:22"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 7.11,
+    "capteur2": 3.37,
+    "capteur3": 9.33,
+    "capteur4": 3.43,
+    "capteurSecours": 1.98,
+    "timestamp": "15/05/2025 14:48:28"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 3.7,
+    "capteur2": 5.02,
+    "capteur3": 0.6,
+    "capteur4": 6.14,
+    "capteurSecours": 5.63,
+    "timestamp": "15/05/2025 14:48:33"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 9.47,
+    "capteur2": 2.8,
+    "capteur3": 0.51,
+    "capteur4": 7.47,
+    "capteurSecours": 4.55,
+    "timestamp": "15/05/2025 14:48:38"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 7.78,
+    "capteur2": 9.41,
+    "capteur3": 2.61,
+    "capteur4": 1.84,
+    "capteurSecours": 7.31,
+    "timestamp": "15/05/2025 14:48:43"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 9.12,
+    "capteur2": 7.81,
+    "capteur3": 3.3,
+    "capteur4": 3.2,
+    "capteurSecours": 3.71,
+    "timestamp": "15/05/2025 14:48:48"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 3.12,
+    "capteur2": 7.75,
+    "capteur3": 3.13,
+    "capteur4": 2.3,
+    "capteurSecours": 5.3,
+    "timestamp": "15/05/2025 14:48:53"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 2.25,
+    "capteur2": 8.3,
+    "capteur3": 7.28,
+    "capteur4": 9.09,
+    "capteurSecours": 3.83,
+    "timestamp": "15/05/2025 14:48:58"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 4.77,
+    "capteur2": 1.75,
+    "capteur3": 8.72,
+    "capteur4": 8.65,
+    "capteurSecours": 4.92,
+    "timestamp": "15/05/2025 14:49:03"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 0.5,
+    "capteur2": 9.19,
+    "capteur3": 4.17,
+    "capteur4": 9.33,
+    "capteurSecours": 7.6,
+    "timestamp": "15/05/2025 14:49:08"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 6.95,
+    "capteur2": 7.13,
+    "capteur3": 7.17,
+    "capteur4": 1.29,
+    "capteurSecours": 1.24,
+    "timestamp": "15/05/2025 14:49:14"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 7.49,
+    "capteur2": 3.54,
+    "capteur3": 3.72,
+    "capteur4": 7.45,
+    "capteurSecours": 2.44,
+    "timestamp": "15/05/2025 14:49:19"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 2.81,
+    "capteur2": 7.58,
+    "capteur3": 2.52,
+    "capteur4": 9.13,
+    "capteurSecours": 0.41,
+    "timestamp": "15/05/2025 14:49:24"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 1.09,
+    "capteur2": 0.31,
+    "capteur3": 7.74,
+    "capteur4": 4.55,
+    "capteurSecours": 0.6,
+    "timestamp": "15/05/2025 14:49:29"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 6.58,
+    "capteur2": 5.29,
+    "capteur3": 5.44,
+    "capteur4": 3.22,
+    "capteurSecours": 8.71,
+    "timestamp": "15/05/2025 14:49:34"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 7.41,
+    "capteur2": 2.51,
+    "capteur3": 1.17,
+    "capteur4": 2.67,
+    "capteurSecours": 7.84,
+    "timestamp": "15/05/2025 14:49:44"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 9.96,
+    "capteur2": 0.41,
+    "capteur3": 4.68,
+    "capteur4": 3.24,
+    "capteurSecours": 3.69,
+    "timestamp": "15/05/2025 14:49:49"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 5.68,
+    "capteur2": 1.7,
+    "capteur3": 6.15,
+    "capteur4": 4.89,
+    "capteurSecours": 2.7,
+    "timestamp": "15/05/2025 14:49:54"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 4.22,
+    "capteur2": 7.7,
+    "capteur3": 4.87,
+    "capteur4": 0.98,
+    "capteurSecours": 2.67,
+    "timestamp": "15/05/2025 14:49:59"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 5.94,
+    "capteur2": 1.82,
+    "capteur3": 6.2,
+    "capteur4": 1.35,
+    "capteurSecours": 8.35,
+    "timestamp": "15/05/2025 14:50:05"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 3.03,
+    "capteur2": 8.94,
+    "capteur3": 2.75,
+    "capteur4": 9.76,
+    "capteurSecours": 7.48,
+    "timestamp": "15/05/2025 14:50:10"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 7.71,
+    "capteur2": 1.85,
+    "capteur3": 5.67,
+    "capteur4": 5.16,
+    "capteurSecours": 2.46,
+    "timestamp": "15/05/2025 14:50:15"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 1.18,
+    "capteur2": 0.9,
+    "capteur3": 7.11,
+    "capteur4": 9.44,
+    "capteurSecours": 5.09,
+    "timestamp": "15/05/2025 14:50:20"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 4.18,
+    "capteur2": 8.69,
+    "capteur3": 1.21,
+    "capteur4": 7.58,
+    "capteurSecours": 2.5,
+    "timestamp": "15/05/2025 14:50:25"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 4.53,
+    "capteur2": 8.31,
+    "capteur3": 5.11,
+    "capteur4": 9.96,
+    "capteurSecours": 3.52,
+    "timestamp": "15/05/2025 14:50:30"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 0.04,
+    "capteur2": 1.13,
+    "capteur3": 9.92,
+    "capteur4": 5.39,
+    "capteurSecours": 9.44,
+    "timestamp": "15/05/2025 14:50:35"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 4.04,
+    "capteur2": 8.92,
+    "capteur3": 3.63,
+    "capteur4": 5.22,
+    "capteurSecours": 7.71,
+    "timestamp": "15/05/2025 14:50:40"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 4.72,
+    "capteur2": 9.33,
+    "capteur3": 3.13,
+    "capteur4": 8.27,
+    "capteurSecours": 3.7,
+    "timestamp": "15/05/2025 14:50:45"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 6.45,
+    "capteur2": 0.63,
+    "capteur3": 6.86,
+    "capteur4": 6.24,
+    "capteurSecours": 3.83,
+    "timestamp": "15/05/2025 14:50:51"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 4.29,
+    "capteur2": 3.91,
+    "capteur3": 7.54,
+    "capteur4": 9.88,
+    "capteurSecours": 0.66,
+    "timestamp": "15/05/2025 14:50:56"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 9.16,
+    "capteur2": 8.92,
+    "capteur3": 7.41,
+    "capteur4": 4.45,
+    "capteurSecours": 1.39,
+    "timestamp": "15/05/2025 14:51:01"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 5.19,
+    "capteur2": 4.06,
+    "capteur3": 5.74,
+    "capteur4": 8.43,
+    "capteurSecours": 6.87,
+    "timestamp": "15/05/2025 14:51:06"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 7.88,
+    "capteur2": 2.93,
+    "capteur3": 0.91,
+    "capteur4": 0.32,
+    "capteurSecours": 0.59,
+    "timestamp": "15/05/2025 14:51:11"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 3.83,
+    "capteur2": 2.29,
+    "capteur3": 6.1,
+    "capteur4": 2.39,
+    "capteurSecours": 6.91,
+    "timestamp": "15/05/2025 14:51:16"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 0.21,
+    "capteur2": 6.41,
+    "capteur3": 8.37,
+    "capteur4": 7.38,
+    "capteurSecours": 8.93,
+    "timestamp": "15/05/2025 14:51:21"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 6.89,
+    "capteur2": 1.05,
+    "capteur3": 7.02,
+    "capteur4": 1.52,
+    "capteurSecours": 7.76,
+    "timestamp": "15/05/2025 14:51:26"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 6.72,
+    "capteur2": 9.31,
+    "capteur3": 5.65,
+    "capteur4": 5.61,
+    "capteurSecours": 7.36,
+    "timestamp": "15/05/2025 14:51:31"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 8.22,
+    "capteur2": 8.26,
+    "capteur3": 5.33,
+    "capteur4": 0.72,
+    "capteurSecours": 8.52,
+    "timestamp": "15/05/2025 14:51:37"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 6.42,
+    "capteur2": 5.4,
+    "capteur3": 2.43,
+    "capteur4": 1.39,
+    "capteurSecours": 8.84,
+    "timestamp": "15/05/2025 14:51:42"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 4.27,
+    "capteur2": 8.94,
+    "capteur3": 2.12,
+    "capteur4": 5.66,
+    "capteurSecours": 3.13,
+    "timestamp": "15/05/2025 14:51:52"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 5.1,
+    "capteur2": 2.86,
+    "capteur3": 1.94,
+    "capteur4": 3.09,
+    "capteurSecours": 7.29,
+    "timestamp": "15/05/2025 14:51:57"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 5,
+    "capteur2": 0.63,
+    "capteur3": 7.63,
+    "capteur4": 4.85,
+    "capteurSecours": 0.78,
+    "timestamp": "15/05/2025 14:52:02"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 6.54,
+    "capteur2": 2.16,
+    "capteur3": 8.47,
+    "capteur4": 0.63,
+    "capteurSecours": 5.55,
+    "timestamp": "15/05/2025 14:52:07"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 6.19,
+    "capteur2": 9.21,
+    "capteur3": 0.8,
+    "capteur4": 7.8,
+    "capteurSecours": 4.49,
+    "timestamp": "15/05/2025 14:52:12"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 9.53,
+    "capteur2": 5.4,
+    "capteur3": 2.58,
+    "capteur4": 0.96,
+    "capteurSecours": 2.6,
+    "timestamp": "15/05/2025 14:52:17"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 8.93,
+    "capteur2": 4.23,
+    "capteur3": 6,
+    "capteur4": 5.12,
+    "capteurSecours": 5.41,
+    "timestamp": "15/05/2025 14:52:22"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 3.41,
+    "capteur2": 7.43,
+    "capteur3": 9.33,
+    "capteur4": 6.98,
+    "capteurSecours": 6.22,
+    "timestamp": "15/05/2025 14:52:28"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 5.32,
+    "capteur2": 4.25,
+    "capteur3": 6.1,
+    "capteur4": 4.63,
+    "capteurSecours": 2.94,
+    "timestamp": "15/05/2025 14:52:33"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 8.62,
+    "capteur2": 0.25,
+    "capteur3": 9.45,
+    "capteur4": 0.34,
+    "capteurSecours": 8.4,
+    "timestamp": "15/05/2025 14:52:38"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 4.35,
+    "capteur2": 3.78,
+    "capteur3": 9.67,
+    "capteur4": 1.28,
+    "capteurSecours": 7.61,
+    "timestamp": "15/05/2025 14:52:43"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 5.64,
+    "capteur2": 3.01,
+    "capteur3": 0.61,
+    "capteur4": 6.74,
+    "capteurSecours": 4.94,
+    "timestamp": "15/05/2025 14:52:48"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 9.04,
+    "capteur2": 2.32,
+    "capteur3": 2.45,
+    "capteur4": 4.34,
+    "capteurSecours": 0.37,
+    "timestamp": "15/05/2025 14:52:53"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 5.23,
+    "capteur2": 6.05,
+    "capteur3": 5.16,
+    "capteur4": 7.12,
+    "capteurSecours": 0.75,
+    "timestamp": "15/05/2025 14:52:58"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 9.04,
+    "capteur2": 5.23,
+    "capteur3": 6.07,
+    "capteur4": 6.09,
+    "capteurSecours": 4.99,
+    "timestamp": "15/05/2025 14:53:03"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 2.38,
+    "capteur2": 7.53,
+    "capteur3": 5.79,
+    "capteur4": 1.73,
+    "capteurSecours": 6.29,
+    "timestamp": "15/05/2025 14:53:08"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 3.21,
+    "capteur2": 4.77,
+    "capteur3": 6.84,
+    "capteur4": 0.1,
+    "capteurSecours": 2.7,
+    "timestamp": "15/05/2025 14:53:14"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 4.64,
+    "capteur2": 8.29,
+    "capteur3": 8.1,
+    "capteur4": 8.55,
+    "capteurSecours": 6.56,
+    "timestamp": "15/05/2025 14:53:19"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 4.61,
+    "capteur2": 8.4,
+    "capteur3": 7.06,
+    "capteur4": 4.76,
+    "capteurSecours": 1.28,
+    "timestamp": "15/05/2025 14:53:24"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 1.98,
+    "capteur2": 3.74,
+    "capteur3": 6.75,
+    "capteur4": 6.77,
+    "capteurSecours": 3.49,
+    "timestamp": "15/05/2025 14:53:29"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 4.15,
+    "capteur2": 8.56,
+    "capteur3": 4.65,
+    "capteur4": 2.43,
+    "capteurSecours": 1.79,
+    "timestamp": "15/05/2025 14:53:34"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 9.25,
+    "capteur2": 8.85,
+    "capteur3": 6.1,
+    "capteur4": 8.96,
+    "capteurSecours": 5.31,
+    "timestamp": "15/05/2025 14:53:39"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 6.18,
+    "capteur2": 1.78,
+    "capteur3": 7.04,
+    "capteur4": 2.91,
+    "capteurSecours": 0.57,
+    "timestamp": "15/05/2025 14:53:44"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 5.97,
+    "capteur2": 6.61,
+    "capteur3": 9.05,
+    "capteur4": 5.65,
+    "capteurSecours": 6.89,
+    "timestamp": "15/05/2025 14:53:49"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 0.3,
+    "capteur2": 9.65,
+    "capteur3": 3.29,
+    "capteur4": 8.81,
+    "capteurSecours": 9.37,
+    "timestamp": "15/05/2025 14:53:54"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 4.53,
+    "capteur2": 6.21,
+    "capteur3": 7.64,
+    "capteur4": 0.34,
+    "capteurSecours": 9.7,
+    "timestamp": "15/05/2025 14:54:00"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 7.48,
+    "capteur2": 6.67,
+    "capteur3": 4.8,
+    "capteur4": 5.04,
+    "capteurSecours": 8.04,
+    "timestamp": "15/05/2025 14:54:05"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 6.66,
+    "capteur2": 9.02,
+    "capteur3": 5.55,
+    "capteur4": 4.42,
+    "capteurSecours": 7.1,
+    "timestamp": "15/05/2025 14:54:10"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 4.09,
+    "capteur2": 3.05,
+    "capteur3": 6.06,
+    "capteur4": 9.38,
+    "capteurSecours": 7.05,
+    "timestamp": "15/05/2025 14:54:15"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 0.04,
+    "capteur2": 8.66,
+    "capteur3": 8.77,
+    "capteur4": 4.97,
+    "capteurSecours": 8.63,
+    "timestamp": "15/05/2025 14:54:20"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 4.15,
+    "capteur2": 7.48,
+    "capteur3": 8.06,
+    "capteur4": 4.45,
+    "capteurSecours": 6.49,
+    "timestamp": "15/05/2025 14:54:25"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 8.47,
+    "capteur2": 2.28,
+    "capteur3": 2.95,
+    "capteur4": 4.65,
+    "capteurSecours": 0.95,
+    "timestamp": "15/05/2025 14:54:30"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 7.16,
+    "capteur2": 5.53,
+    "capteur3": 4.67,
+    "capteur4": 6.6,
+    "capteurSecours": 1.75,
+    "timestamp": "15/05/2025 14:54:35"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 5.88,
+    "capteur2": 7.18,
+    "capteur3": 1.55,
+    "capteur4": 3.35,
+    "capteurSecours": 2.88,
+    "timestamp": "15/05/2025 14:54:40"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 5.05,
+    "capteur2": 8.73,
+    "capteur3": 2.05,
+    "capteur4": 0.09,
+    "capteurSecours": 1.61,
+    "timestamp": "15/05/2025 14:54:45"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 5.19,
+    "capteur2": 7.78,
+    "capteur3": 10,
+    "capteur4": 2.59,
+    "capteurSecours": 3.41,
+    "timestamp": "15/05/2025 14:54:51"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 2.14,
+    "capteur2": 8.76,
+    "capteur3": 2.56,
+    "capteur4": 7.26,
+    "capteurSecours": 0.89,
+    "timestamp": "15/05/2025 14:54:56"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 3.26,
+    "capteur2": 1.69,
+    "capteur3": 6.69,
+    "capteur4": 2.71,
+    "capteurSecours": 8.82,
+    "timestamp": "15/05/2025 14:55:01"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 4.41,
+    "capteur2": 6.29,
+    "capteur3": 7.74,
+    "capteur4": 6.5,
+    "capteurSecours": 5.53,
+    "timestamp": "15/05/2025 14:55:06"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 4.18,
+    "capteur2": 5.02,
+    "capteur3": 9.64,
+    "capteur4": 5.97,
+    "capteurSecours": 4.45,
+    "timestamp": "15/05/2025 14:55:11"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 5.84,
+    "capteur2": 6.72,
+    "capteur3": 0.57,
+    "capteur4": 1.68,
+    "capteurSecours": 2.32,
+    "timestamp": "15/05/2025 14:55:16"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 5.64,
+    "capteur2": 2.91,
+    "capteur3": 3.9,
+    "capteur4": 9.7,
+    "capteurSecours": 5.1,
+    "timestamp": "15/05/2025 14:55:21"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 5.74,
+    "capteur2": 5.02,
+    "capteur3": 7.53,
+    "capteur4": 9.11,
+    "capteurSecours": 7.61,
+    "timestamp": "15/05/2025 14:55:26"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 8.85,
+    "capteur2": 5.22,
+    "capteur3": 8.44,
+    "capteur4": 4.51,
+    "capteurSecours": 3.2,
+    "timestamp": "15/05/2025 14:55:31"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 9.91,
+    "capteur2": 7.31,
+    "capteur3": 1.71,
+    "capteur4": 5.32,
+    "capteurSecours": 7.94,
+    "timestamp": "15/05/2025 14:55:37"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 8.3,
+    "capteur2": 5.02,
+    "capteur3": 6.57,
+    "capteur4": 4.46,
+    "capteurSecours": 0.66,
+    "timestamp": "15/05/2025 14:55:42"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 0.54,
+    "capteur2": 2.18,
+    "capteur3": 1.36,
+    "capteur4": 9.61,
+    "capteurSecours": 9.85,
+    "timestamp": "15/05/2025 14:55:47"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 5.79,
+    "capteur2": 5.75,
+    "capteur3": 9.36,
+    "capteur4": 4.94,
+    "capteurSecours": 5.85,
+    "timestamp": "15/05/2025 14:55:52"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 5.84,
+    "capteur2": 4.89,
+    "capteur3": 7.96,
+    "capteur4": 4.65,
+    "capteurSecours": 0.91,
+    "timestamp": "15/05/2025 14:55:57"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 7.76,
+    "capteur2": 7.95,
+    "capteur3": 5.43,
+    "capteur4": 6.02,
+    "capteurSecours": 9.42,
+    "timestamp": "15/05/2025 14:56:02"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 3.91,
+    "capteur2": 0.13,
+    "capteur3": 3.26,
+    "capteur4": 7.66,
+    "capteurSecours": 2.37,
+    "timestamp": "15/05/2025 14:56:07"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 1.39,
+    "capteur2": 4.56,
+    "capteur3": 7.81,
+    "capteur4": 0.33,
+    "capteurSecours": 9.21,
+    "timestamp": "15/05/2025 14:56:12"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 5.49,
+    "capteur2": 7.61,
+    "capteur3": 7.54,
+    "capteur4": 2.77,
+    "capteurSecours": 6.5,
+    "timestamp": "15/05/2025 14:56:17"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 6.65,
+    "capteur2": 2.93,
+    "capteur3": 3.54,
+    "capteur4": 1.79,
+    "capteurSecours": 4.06,
+    "timestamp": "15/05/2025 14:56:23"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 6.15,
+    "capteur2": 4.09,
+    "capteur3": 0.65,
+    "capteur4": 3.45,
+    "capteurSecours": 3.75,
+    "timestamp": "15/05/2025 14:56:28"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 6.23,
+    "capteur2": 1.09,
+    "capteur3": 3.44,
+    "capteur4": 7.13,
+    "capteurSecours": 6.31,
+    "timestamp": "15/05/2025 14:56:33"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 8.95,
+    "capteur2": 2.16,
+    "capteur3": 2.9,
+    "capteur4": 0.99,
+    "capteurSecours": 5.96,
+    "timestamp": "15/05/2025 14:56:38"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 1.82,
+    "capteur2": 8.62,
+    "capteur3": 6.52,
+    "capteur4": 7.74,
+    "capteurSecours": 9.65,
+    "timestamp": "15/05/2025 14:56:43"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 2.99,
+    "capteur2": 3.47,
+    "capteur3": 5.15,
+    "capteur4": 4.45,
+    "capteurSecours": 7.67,
+    "timestamp": "15/05/2025 14:56:48"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 4.09,
+    "capteur2": 2.7,
+    "capteur3": 6.03,
+    "capteur4": 2.78,
+    "capteurSecours": 7.12,
+    "timestamp": "15/05/2025 14:56:53"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 3.37,
+    "capteur2": 4.85,
+    "capteur3": 9.93,
+    "capteur4": 7,
+    "capteurSecours": 6.54,
+    "timestamp": "15/05/2025 14:56:58"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 4.3,
+    "capteur2": 3.58,
+    "capteur3": 9.49,
+    "capteur4": 8.95,
+    "capteurSecours": 5.34,
+    "timestamp": "15/05/2025 14:57:03"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 4.65,
+    "capteur2": 2.26,
+    "capteur3": 9.39,
+    "capteur4": 2.21,
+    "capteurSecours": 1.62,
+    "timestamp": "15/05/2025 14:57:09"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 3.74,
+    "capteur2": 4.72,
+    "capteur3": 5.6,
+    "capteur4": 7.4,
+    "capteurSecours": 9.44,
+    "timestamp": "15/05/2025 14:57:14"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 2.86,
+    "capteur2": 8.66,
+    "capteur3": 3.02,
+    "capteur4": 3.66,
+    "capteurSecours": 8.02,
+    "timestamp": "15/05/2025 14:57:19"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 6.79,
+    "capteur2": 3.23,
+    "capteur3": 7.99,
+    "capteur4": 8.39,
+    "capteurSecours": 0.41,
+    "timestamp": "15/05/2025 14:57:24"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 3.88,
+    "capteur2": 9.63,
+    "capteur3": 6.99,
+    "capteur4": 9.46,
+    "capteurSecours": 9.21,
+    "timestamp": "15/05/2025 14:57:29"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 6.73,
+    "capteur2": 1.25,
+    "capteur3": 4.79,
+    "capteur4": 0.15,
+    "capteurSecours": 2.2,
+    "timestamp": "15/05/2025 14:57:34"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 7.68,
+    "capteur2": 0.12,
+    "capteur3": 5.45,
+    "capteur4": 5.16,
+    "capteurSecours": 8.21,
+    "timestamp": "15/05/2025 14:57:39"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 1.24,
+    "capteur2": 2.82,
+    "capteur3": 7.59,
+    "capteur4": 0.26,
+    "capteurSecours": 8.14,
+    "timestamp": "15/05/2025 14:57:44"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 9.25,
+    "capteur2": 2.38,
+    "capteur3": 3.25,
+    "capteur4": 2.68,
+    "capteurSecours": 5.97,
+    "timestamp": "15/05/2025 14:57:49"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 7.5,
+    "capteur2": 3.33,
+    "capteur3": 7.7,
+    "capteur4": 4.74,
+    "capteurSecours": 9.75,
+    "timestamp": "15/05/2025 14:57:55"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 8.41,
+    "capteur2": 4.4,
+    "capteur3": 6.08,
+    "capteur4": 9.08,
+    "capteurSecours": 9.91,
+    "timestamp": "15/05/2025 14:58:00"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 2.39,
+    "capteur2": 3.32,
+    "capteur3": 0.91,
+    "capteur4": 5.16,
+    "capteurSecours": 1.94,
+    "timestamp": "15/05/2025 14:58:05"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 7.72,
+    "capteur2": 0.57,
+    "capteur3": 3.07,
+    "capteur4": 9.45,
+    "capteurSecours": 5.66,
+    "timestamp": "15/05/2025 14:58:10"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 0.96,
+    "capteur2": 6.92,
+    "capteur3": 2.75,
+    "capteur4": 8.96,
+    "capteurSecours": 4.51,
+    "timestamp": "15/05/2025 14:58:15"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 8.39,
+    "capteur2": 4.87,
+    "capteur3": 1.44,
+    "capteur4": 8.99,
+    "capteurSecours": 5.42,
+    "timestamp": "15/05/2025 14:58:20"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 7.42,
+    "capteur2": 7.17,
+    "capteur3": 7.72,
+    "capteur4": 7.78,
+    "capteurSecours": 4.76,
+    "timestamp": "15/05/2025 14:58:25"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 7.38,
+    "capteur2": 0.58,
+    "capteur3": 1.39,
+    "capteur4": 5.73,
+    "capteurSecours": 1.35,
+    "timestamp": "15/05/2025 14:58:30"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 7.53,
+    "capteur2": 3.31,
+    "capteur3": 0.37,
+    "capteur4": 3.2,
+    "capteurSecours": 0.23,
+    "timestamp": "15/05/2025 14:58:35"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 2.06,
+    "capteur2": 8.55,
+    "capteur3": 7.52,
+    "capteur4": 3.34,
+    "capteurSecours": 4.65,
+    "timestamp": "15/05/2025 14:58:40"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 4.52,
+    "capteur2": 6.65,
+    "capteur3": 9.5,
+    "capteur4": 6.36,
+    "capteurSecours": 6.7,
+    "timestamp": "15/05/2025 14:58:46"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 8.54,
+    "capteur2": 9.87,
+    "capteur3": 9.94,
+    "capteur4": 0.83,
+    "capteurSecours": 6.01,
+    "timestamp": "15/05/2025 14:58:51"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 3.2,
+    "capteur2": 8.21,
+    "capteur3": 4.7,
+    "capteur4": 3.51,
+    "capteurSecours": 6.82,
+    "timestamp": "15/05/2025 14:58:56"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 4.32,
+    "capteur2": 9.49,
+    "capteur3": 1.1,
+    "capteur4": 3.46,
+    "capteurSecours": 1.95,
+    "timestamp": "15/05/2025 14:59:01"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 8.24,
+    "capteur2": 7.22,
+    "capteur3": 3.28,
+    "capteur4": 8.27,
+    "capteurSecours": 3.76,
+    "timestamp": "15/05/2025 14:59:06"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 8.12,
+    "capteur2": 8.13,
+    "capteur3": 1.15,
+    "capteur4": 2.27,
+    "capteurSecours": 9.69,
+    "timestamp": "15/05/2025 14:59:11"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 9.87,
+    "capteur2": 4.89,
+    "capteur3": 7.3,
+    "capteur4": 0.36,
+    "capteurSecours": 7.37,
+    "timestamp": "15/05/2025 14:59:16"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 2.14,
+    "capteur2": 3.37,
+    "capteur3": 1.24,
+    "capteur4": 0.9,
+    "capteurSecours": 9.59,
+    "timestamp": "15/05/2025 14:59:21"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 6.9,
+    "capteur2": 2.68,
+    "capteur3": 9.16,
+    "capteur4": 2.89,
+    "capteurSecours": 8.64,
+    "timestamp": "15/05/2025 14:59:28"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 8.15,
+    "capteur2": 4.39,
+    "capteur3": 2.54,
+    "capteur4": 8.08,
+    "capteurSecours": 2.39,
+    "timestamp": "15/05/2025 14:59:34"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 2.45,
+    "capteur2": 6.43,
+    "capteur3": 8.58,
+    "capteur4": 2.64,
+    "capteurSecours": 4.85,
+    "timestamp": "15/05/2025 14:59:39"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 7.75,
+    "capteur2": 2.85,
+    "capteur3": 8.63,
+    "capteur4": 1.19,
+    "capteurSecours": 3.73,
+    "timestamp": "15/05/2025 14:59:44"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 3.7,
+    "capteur2": 6.77,
+    "capteur3": 2.06,
+    "capteur4": 4.64,
+    "capteurSecours": 8.57,
+    "timestamp": "15/05/2025 14:59:49"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 8.72,
+    "capteur2": 0.1,
+    "capteur3": 4.06,
+    "capteur4": 4.83,
+    "capteurSecours": 6.33,
+    "timestamp": "15/05/2025 14:59:54"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 6.31,
+    "capteur2": 8.85,
+    "capteur3": 1.97,
+    "capteur4": 9.39,
+    "capteurSecours": 7.99,
+    "timestamp": "15/05/2025 14:59:59"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 7.63,
+    "capteur2": 6.73,
+    "capteur3": 3.18,
+    "capteur4": 5.43,
+    "capteurSecours": 2.2,
+    "timestamp": "15/05/2025 15:00:04"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 4.07,
+    "capteur2": 3.59,
+    "capteur3": 6.26,
+    "capteur4": 6.85,
+    "capteurSecours": 3.81,
+    "timestamp": "15/05/2025 15:00:09"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 3.52,
+    "capteur2": 9.76,
+    "capteur3": 3.07,
+    "capteur4": 5.76,
+    "capteurSecours": 0.42,
+    "timestamp": "15/05/2025 15:00:14"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 8.32,
+    "capteur2": 0.84,
+    "capteur3": 1.56,
+    "capteur4": 2.09,
+    "capteurSecours": 4.12,
+    "timestamp": "15/05/2025 15:00:20"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 0.38,
+    "capteur2": 7.23,
+    "capteur3": 9.51,
+    "capteur4": 3.55,
+    "capteurSecours": 2.91,
+    "timestamp": "15/05/2025 15:00:25"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 0.86,
+    "capteur2": 1.44,
+    "capteur3": 0.52,
+    "capteur4": 2.1,
+    "capteurSecours": 6.39,
+    "timestamp": "15/05/2025 15:00:30"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 5.7,
+    "capteur2": 5.79,
+    "capteur3": 2.74,
+    "capteur4": 7.08,
+    "capteurSecours": 2.45,
+    "timestamp": "15/05/2025 15:00:35"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 9.37,
+    "capteur2": 4.63,
+    "capteur3": 3.21,
+    "capteur4": 2.96,
+    "capteurSecours": 9.64,
+    "timestamp": "15/05/2025 15:00:40"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 7.02,
+    "capteur2": 3.4,
+    "capteur3": 1.74,
+    "capteur4": 5.74,
+    "capteurSecours": 8.81,
+    "timestamp": "15/05/2025 15:00:45"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 2.86,
+    "capteur2": 9.39,
+    "capteur3": 7.16,
+    "capteur4": 0.21,
+    "capteurSecours": 6.08,
+    "timestamp": "15/05/2025 15:00:50"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 1.28,
+    "capteur2": 0.57,
+    "capteur3": 4.02,
+    "capteur4": 6.89,
+    "capteurSecours": 2.99,
+    "timestamp": "15/05/2025 15:00:55"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 7.53,
+    "capteur2": 4.72,
+    "capteur3": 2.5,
+    "capteur4": 2.89,
+    "capteurSecours": 8.43,
+    "timestamp": "15/05/2025 15:01:00"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 0.97,
+    "capteur2": 2.83,
+    "capteur3": 2.33,
+    "capteur4": 5.25,
+    "capteurSecours": 5.5,
+    "timestamp": "15/05/2025 15:01:05"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "min": 3,
+    "max": 7,
+    "capteur1": 3.24,
+    "capteur2": 4.42,
+    "capteur3": 5.21,
+    "capteur4": 4.6,
+    "capteurSecours": 2.03,
+    "timestamp": "15/05/2025 15:01:11"
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "min": 2,
+    "max": 6,
+    "capteur1": 3.14,
+    "capteur2": 1.2,
+    "capteur3": 4.63,
+    "capteur4": 9.13,
+    "capteurSecours": 9.93,
+    "timestamp": "15/05/2025 15:01:16"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 4.14,
+    "capteur2": 5.39,
+    "capteur3": 3.39,
+    "capteur4": 1.69,
+    "capteurSecours": 6.34,
+    "timestamp": "15/05/2025 15:01:21"
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "min": 1,
+    "max": 4,
+    "capteur1": 7.46,
+    "capteur2": 8.42,
+    "capteur3": 2.58,
+    "capteur4": 3.76,
+    "capteurSecours": 1.21,
+    "timestamp": "15/05/2025 15:01:26"
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "min": 5,
+    "max": 10,
+    "capteur1": 1.61,
+    "capteur2": 0.19,
+    "capteur3": 8.51,
+    "capteur4": 8.67,
+    "capteurSecours": 1.53,
+    "timestamp": "15/05/2025 15:01:31"
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "min": 6,
+    "max": 12,
+    "capteur1": 6.74,
+    "capteur2": 3.26,
+    "capteur3": 5.92,
+    "capteur4": 8,
+    "capteurSecours": 1.21,
+    "timestamp": "15/05/2025 15:01:36"
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 22:31:32",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 22:31:37",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 22:31:42",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "timestamp": "15/05/2025 22:31:48",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "timestamp": "15/05/2025 22:31:53",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 22:31:58",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "timestamp": "15/05/2025 22:32:03",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "timestamp": "15/05/2025 22:32:08",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "timestamp": "15/05/2025 22:32:13",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 22:32:18",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 22:32:23",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 22:32:28",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "timestamp": "15/05/2025 22:32:34",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "timestamp": "15/05/2025 22:32:39",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "timestamp": "15/05/2025 22:32:44",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 22:32:49",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "timestamp": "15/05/2025 22:32:54",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "timestamp": "15/05/2025 22:32:59",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "timestamp": "15/05/2025 22:33:04",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 22:33:09",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "timestamp": "15/05/2025 22:33:14",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 22:33:19",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 22:33:25",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "timestamp": "15/05/2025 22:33:30",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 22:33:35",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "timestamp": "15/05/2025 22:33:40",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "timestamp": "15/05/2025 22:33:45",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "timestamp": "15/05/2025 22:33:50",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "timestamp": "15/05/2025 22:33:55",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 22:34:00",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "timestamp": "15/05/2025 22:34:05",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 22:34:11",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "timestamp": "15/05/2025 22:34:16",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 22:34:21",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "timestamp": "15/05/2025 22:34:26",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "timestamp": "15/05/2025 22:34:31",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "timestamp": "15/05/2025 22:34:36",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "timestamp": "15/05/2025 22:34:41",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "timestamp": "15/05/2025 22:34:46",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "timestamp": "15/05/2025 22:34:51",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "timestamp": "15/05/2025 22:34:57",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 22:35:02",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "timestamp": "15/05/2025 22:35:07",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "timestamp": "15/05/2025 22:22:00",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "timestamp": "15/05/2025 22:35:12",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 22:35:17",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "timestamp": "15/05/2025 22:35:22",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 22:35:27",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "timestamp": "15/05/2025 22:35:32",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "timestamp": "15/05/2025 22:35:37",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 22:35:42",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "timestamp": "15/05/2025 22:35:48",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "timestamp": "15/05/2025 22:35:53",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "timestamp": "15/05/2025 22:35:58",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "timestamp": "15/05/2025 22:36:03",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 22:36:08",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "timestamp": "15/05/2025 22:36:13",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "timestamp": "15/05/2025 22:36:18",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 22:36:23",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "timestamp": "15/05/2025 22:36:28",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 22:36:34",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "timestamp": "15/05/2025 22:36:39",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "timestamp": "15/05/2025 22:36:44",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "timestamp": "15/05/2025 22:36:49",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 22:36:54",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "timestamp": "15/05/2025 22:36:59",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 22:37:04",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 22:37:09",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 22:37:14",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 22:37:20",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 22:37:25",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 22:37:30",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "timestamp": "15/05/2025 22:37:35",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 22:37:40",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "timestamp": "15/05/2025 22:37:45",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 22:37:50",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 22:37:55",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 22:38:00",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "timestamp": "15/05/2025 22:38:05",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 22:38:11",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "timestamp": "15/05/2025 22:38:16",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 22:38:21",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 22:38:26",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "timestamp": "15/05/2025 22:38:31",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 22:38:36",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 22:38:41",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "timestamp": "15/05/2025 22:38:46",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 22:38:51",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "timestamp": "15/05/2025 22:38:57",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 22:39:02",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "timestamp": "15/05/2025 22:39:07",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 22:39:12",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "timestamp": "15/05/2025 22:39:17",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "timestamp": "15/05/2025 22:39:22",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "timestamp": "15/05/2025 22:39:27",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "timestamp": "15/05/2025 22:39:32",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "timestamp": "15/05/2025 22:39:37",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 22:39:43",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "timestamp": "15/05/2025 22:39:48",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "timestamp": "15/05/2025 22:39:53",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 22:39:58",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "timestamp": "15/05/2025 22:40:03",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 22:40:08",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "timestamp": "15/05/2025 22:40:13",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "timestamp": "15/05/2025 22:40:18",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 22:40:23",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 22:40:28",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "timestamp": "15/05/2025 22:40:34",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 22:40:39",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 22:40:44",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 22:40:49",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "timestamp": "15/05/2025 22:40:54",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "timestamp": "15/05/2025 22:40:59",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 22:41:04",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 22:41:09",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "timestamp": "15/05/2025 22:41:14",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "timestamp": "15/05/2025 22:41:20",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "timestamp": "15/05/2025 22:41:25",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 22:41:30",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "timestamp": "15/05/2025 22:41:35",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "timestamp": "15/05/2025 22:41:40",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 22:41:45",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 22:41:50",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 22:41:55",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 22:42:00",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "timestamp": "15/05/2025 22:42:06",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 22:42:11",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "timestamp": "15/05/2025 22:42:16",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 22:42:21",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "timestamp": "15/05/2025 22:42:26",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "timestamp": "15/05/2025 22:42:31",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 22:42:36",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 22:42:41",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "timestamp": "15/05/2025 22:42:46",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 22:42:52",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "timestamp": "15/05/2025 22:42:57",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 22:43:02",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "timestamp": "15/05/2025 22:43:07",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "timestamp": "15/05/2025 22:43:12",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "timestamp": "15/05/2025 22:43:17",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "timestamp": "15/05/2025 22:43:22",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 22:43:27",
+    "valeur": 11.8
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "timestamp": "15/05/2025 23:14:14",
+    "valeur": 5.47
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "timestamp": "15/05/2025 23:14:19",
+    "valeur": 3.96
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "timestamp": "15/05/2025 23:14:24",
+    "valeur": 5.85
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 23:14:29",
+    "valeur": 3.63
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 23:14:34",
+    "valeur": 4.86
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 23:14:39",
+    "valeur": 7.06
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "timestamp": "15/05/2025 23:14:44",
+    "valeur": 5.5
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "timestamp": "15/05/2025 23:14:49",
+    "valeur": 7.14
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 23:14:54",
+    "valeur": 3.12
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 23:15:00",
+    "valeur": 6.8
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "timestamp": "15/05/2025 23:15:05",
+    "valeur": 4.64
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "timestamp": "15/05/2025 23:15:10",
+    "valeur": 6.44
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "timestamp": "15/05/2025 23:15:15",
+    "valeur": 6.09
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "timestamp": "15/05/2025 23:15:20",
+    "valeur": 5.51
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "timestamp": "15/05/2025 23:15:25",
+    "valeur": 4.96
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "timestamp": "15/05/2025 23:15:30",
+    "valeur": 5.87
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "timestamp": "15/05/2025 23:15:35",
+    "valeur": 6.49
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "timestamp": "15/05/2025 23:15:40",
+    "valeur": 9.02
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 23:15:46",
+    "valeur": 8.05
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 23:15:51",
+    "valeur": 3.49
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "timestamp": "15/05/2025 23:15:56",
+    "valeur": 6.78
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "timestamp": "15/05/2025 23:16:01",
+    "valeur": 6.01
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "timestamp": "15/05/2025 23:16:06",
+    "valeur": 6.01
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "timestamp": "15/05/2025 23:16:11",
+    "valeur": 6.48
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 23:16:16",
+    "valeur": 5.84
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 23:16:21",
+    "valeur": 2.97
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 23:16:26",
+    "valeur": 3.89
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "timestamp": "15/05/2025 23:16:32",
+    "valeur": 6.83
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 23:16:37",
+    "valeur": 4.09
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "timestamp": "15/05/2025 23:16:42",
+    "valeur": 4.61
+  },
+  {
+    "barrageId": "DAM005",
+    "wilaya": "Annaba",
+    "timestamp": "15/05/2025 23:16:47",
+    "valeur": 7.32
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 23:16:52",
+    "valeur": 3.52
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 23:16:57",
+    "valeur": 6.29
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 23:17:02",
+    "valeur": 3.16
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 23:17:11",
+    "valeur": 4.25
+  },
+  {
+    "barrageId": "DAM003",
+    "wilaya": "Tizi Ouzou",
+    "timestamp": "15/05/2025 23:17:16",
+    "valeur": 5.04
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 23:17:21",
+    "valeur": 4.06
+  },
+  {
+    "barrageId": "DAM004",
+    "wilaya": "Oran",
+    "timestamp": "15/05/2025 23:17:26",
+    "valeur": 6.87
+  },
+  {
+    "barrageId": "DAM002",
+    "wilaya": "Blida",
+    "timestamp": "15/05/2025 23:17:31",
+    "valeur": 4.42
+  },
+  {
+    "barrageId": "DAM001",
+    "wilaya": "Alger",
+    "timestamp": "15/05/2025 23:17:36",
+    "valeur": 8.01
+  }
+]

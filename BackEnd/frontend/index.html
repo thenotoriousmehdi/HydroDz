@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Données Barrage</title>
+</head>
+<body>
+  <h1>Données du barrage</h1>
+  <ul id="list"></ul>
+
+ <script>
+  async function fetchData() {
+    try {
+      console.log("Fetching data...");
+      const res = await fetch("http://localhost:5100/data");
+
+      if (!res.ok) {
+        throw new Error(`HTTP error! status: ${res.status}`);
+      }
+
+      console.log("Response received");
+      const data = await res.json();
+
+      const list = document.getElementById("list");
+      list.innerHTML = "";
+
+      data.forEach(item => {
+        const li = document.createElement("li");
+        li.innerText = `${item.timestamp} - Principal: ${item.capteur1}, Secours: ${item.capteurSecours}`;
+        list.appendChild(li);
+      });
+
+    } catch (error) {
+      console.error("Erreur lors de la récupération des données :", error);
+    }
+  }
+
+  setInterval(fetchData, 5100);
+  fetchData();
+</script>
+
+</body>
+</html>
