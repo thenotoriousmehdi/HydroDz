@@ -6,6 +6,7 @@ import RoleProtectedRoute from "./routes/RoleProtectedRoute";
 import React from 'react';
 import Login from "./pages/Login";
 import Forbidden from "./pages/Forbidden";
+import Home from "./pages/Home";
 
 
 function App() {
@@ -14,13 +15,12 @@ function App() {
       <Routes>
         <Route path="/Login" element={<Login />} />
         <Route element={<ProtectedRoute />}>
-          <Route path="/" element={<Dashboard />} />
+          <Route path="/" element={<Home/>} />
           <Route element={<RoleProtectedRoute allowedRoles={["admin"]} />}>
             <Route path="Dashboard" element={<Dashboard />} />
           </Route>
           <Route path="/403" element={<Forbidden />} />
         </Route>
-        <Route path="*" element={<NotFound/>} />
       </Routes>
     </Router>
   );
