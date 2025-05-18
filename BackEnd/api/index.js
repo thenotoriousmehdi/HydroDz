@@ -11,7 +11,7 @@ function getLastEntriesByBarrageId(data) {
 
   data.forEach(entry => {
     if (!entry.valeurs || !entry.valeurs.barrageId || !entry.valeurs.timestamp) {
-      return; // Skip entries without barrageId or timestamp
+      return; 
     }
     const id = entry.valeurs.barrageId;
     const currentTimestamp = new Date(entry.valeurs.timestamp);
@@ -34,3 +34,4 @@ const latestByBarrage = getLastEntriesByBarrageId(data);
 app.listen(5100, '0.0.0.0',() => {
   console.log("📡 API sur http://localhost:/data");
 });
+
