@@ -1,242 +1,122 @@
 {
   "c1": {
-<<<<<<< HEAD
-    "temperature": 20.72,
-    "pression": 71.16,
-    "niveau_eau": 15.59,
-    "humidite": 51.88
-  },
-  "c2": {
-    "temperature": 20.79,
-    "pression": 71.26,
-    "niveau_eau": 15.87,
-    "humidite": 51.84
-  },
-  "c3": {
-    "temperature": 21.56,
-    "pression": 70.98,
-    "niveau_eau": 15.19,
-    "humidite": 51.06
-  },
-  "c4": {
-    "temperature": 20.13,
-    "pression": 71.56,
-    "niveau_eau": 15.85,
-    "humidite": 50.74
-  },
-  "c9": {
-    "temperature": 21.89,
-    "pression": 71.21,
-    "niveau_eau": 16.86,
-    "humidite": 51.56
-  },
-  "c10": {
-    "temperature": 20.17,
-    "pression": 70.11,
-    "niveau_eau": 15.59,
-    "humidite": 51.12
-  },
-  "c11": {
-    "temperature": 20.62,
-    "pression": 71.84,
-    "niveau_eau": 15.01,
-    "humidite": 51.92
-  },
-  "c12": {
-    "temperature": 21.66,
-    "pression": 71.3,
-    "niveau_eau": 16.46,
-    "humidite": 51.28
-  },
-  "c17": {
-    "temperature": 21.9,
-    "pression": 71.66,
-    "niveau_eau": 16.3,
-    "humidite": 50.13
-  },
-  "c18": {
-    "temperature": 21.11,
-    "pression": 71.12,
-    "niveau_eau": 16.55,
-    "humidite": 50.7
-  },
-  "c19": {
-    "temperature": 20.3,
-    "pression": 70.24,
-    "niveau_eau": 15.66,
-    "humidite": 51.58
-  },
-  "c20": {
-    "temperature": 20.56,
-    "pression": 70.77,
-    "niveau_eau": 15.84,
-    "humidite": 51.98
-  },
-  "c5": {
-    "temperature": 21.73,
-    "pression": 70.45,
-    "niveau_eau": 15.08,
-    "humidite": 51.05
-  },
-  "c6": {
-    "temperature": 20.15,
-    "pression": 71.44,
-=======
-    "temperature": 20.79,
-    "pression": 70.87,
-    "niveau_eau": 15.18,
-    "humidite": 50.9
-  },
-  "c2": {
-    "temperature": 21.25,
-    "pression": 71.67,
-    "niveau_eau": 16.63,
-    "humidite": 51.89
-  },
-  "c3": {
-    "temperature": 21.85,
-    "pression": 70.88,
-    "niveau_eau": 15.54,
-    "humidite": 50.21
-  },
-  "c4": {
-    "temperature": 21.43,
-    "pression": 71.98,
-    "niveau_eau": 16.6,
-    "humidite": 50.35
-  },
-  "c9": {
-    "temperature": 21.46,
-    "pression": 70.2,
-    "niveau_eau": 15.81,
-    "humidite": 51.52
-  },
-  "c10": {
-    "temperature": 21.55,
-    "pression": 70.49,
-    "niveau_eau": 16.65,
-    "humidite": 50.31
-  },
-  "c11": {
-    "temperature": 21.38,
-    "pression": 70.04,
-    "niveau_eau": 15.04,
-    "humidite": 51.01
-  },
-  "c12": {
-    "temperature": 21.18,
-    "pression": 70.94,
-    "niveau_eau": 16.02,
-    "humidite": 50.96
-  },
-  "c17": {
-    "temperature": 20.17,
-    "pression": 71.14,
-    "niveau_eau": 16.65,
-    "humidite": 50.68
-  },
-  "c18": {
-    "temperature": 21.2,
-    "pression": 71.22,
-    "niveau_eau": 15.62,
+    "temperature": 20.63,
+    "pression": 71.48,
+    "niveau_eau": 15.37,
     "humidite": 51.85
   },
+  "c2": {
+    "temperature": 21.6,
+    "pression": 70.5,
+    "niveau_eau": 16.21,
+    "humidite": 51.91
+  },
+  "c3": {
+    "temperature": 21.88,
+    "pression": 70.34,
+    "niveau_eau": 15.19,
+    "humidite": 50.02
+  },
+  "c4": {
+    "temperature": 20.45,
+    "pression": 71.1,
+    "niveau_eau": 15.58,
+    "humidite": 51.43
+  },
+  "c17": {
+    "temperature": 21.26,
+    "pression": 70.72,
+    "niveau_eau": 15.36,
+    "humidite": 50.15
+  },
+  "c18": {
+    "temperature": 21.39,
+    "pression": 71.19,
+    "niveau_eau": 16.41,
+    "humidite": 50.57
+  },
   "c19": {
-    "temperature": 20.78,
-    "pression": 70.31,
-    "niveau_eau": 16.76,
-    "humidite": 51.63
+    "temperature": 21.85,
+    "pression": 70.03,
+    "niveau_eau": 15.4,
+    "humidite": 50.31
   },
   "c20": {
-    "temperature": 20.37,
-    "pression": 71.15,
-    "niveau_eau": 15.88,
-    "humidite": 51.18
-  },
-  "c5": {
-    "temperature": 21.87,
-    "pression": 71.26,
-    "niveau_eau": 16.68,
-    "humidite": 51.6
-  },
-  "c6": {
-    "temperature": 21.01,
-    "pression": 71.8,
->>>>>>> main
-    "niveau_eau": 15.57,
-    "humidite": 51.01
-  },
-  "c7": {
-<<<<<<< HEAD
-    "temperature": 21,
-    "pression": 71.38,
-    "niveau_eau": 16.37,
-    "humidite": 51.63
-  },
-  "c8": {
-    "temperature": 21.1,
-    "pression": 71.04,
+    "temperature": 21.43,
+    "pression": 71.69,
     "niveau_eau": 16.28,
-    "humidite": 51.24
+    "humidite": 51.2
   },
-  "c13": {
-    "temperature": 20.64,
-    "pression": 70.87,
-    "niveau_eau": 15.53,
-    "humidite": 51.08
-  },
-  "c14": {
-    "temperature": 20.86,
-    "pression": 70.39,
-    "niveau_eau": 16.23,
-    "humidite": 51.62
-  },
-  "c15": {
-    "temperature": 21.36,
-    "pression": 70.57,
-    "niveau_eau": 15.59,
+  "c9": {
+    "temperature": 21.56,
+    "pression": 71.03,
+    "niveau_eau": 16.2,
     "humidite": 51.76
   },
-  "c16": {
-    "temperature": 21.09,
-    "pression": 70.17,
-    "niveau_eau": 15.72,
+  "c10": {
+    "temperature": 21.93,
+    "pression": 71.31,
+    "niveau_eau": 16.07,
     "humidite": 50.84
-=======
-    "temperature": 21.28,
-    "pression": 70.02,
-    "niveau_eau": 16.15,
-    "humidite": 51.11
   },
-  "c8": {
-    "temperature": 20.26,
-    "pression": 71.32,
-    "niveau_eau": 16.28,
+  "c11": {
+    "temperature": 20.79,
+    "pression": 71.15,
+    "niveau_eau": 15.65,
+    "humidite": 50.38
+  },
+  "c12": {
+    "temperature": 20.99,
+    "pression": 70.35,
+    "niveau_eau": 16.16,
+    "humidite": 50.57
+  },
+  "c5": {
+    "temperature": 20.54,
+    "pression": 71.14,
+    "niveau_eau": 15.62,
+    "humidite": 51.91
+  },
+  "c6": {
+    "temperature": 21.29,
+    "pression": 70.55,
+    "niveau_eau": 15.14,
+    "humidite": 50.61
+  },
+  "c7": {
+    "temperature": 21.66,
+    "pression": 71.38,
+    "niveau_eau": 15.44,
     "humidite": 51.4
   },
+  "c8": {
+    "temperature": 20.91,
+    "pression": 70.52,
+    "niveau_eau": 16.47,
+    "humidite": 51.97
+  },
   "c13": {
-    "temperature": 20.05,
-    "pression": 70.8,
-    "niveau_eau": 16.21,
-    "humidite": 51.54
+    "temperature": 20.32,
+    "pression": 70.67,
+    "niveau_eau": 15.99,
+    "humidite": 50.2
   },
   "c14": {
-    "temperature": 20.3,
-    "pression": 71.4,
-    "niveau_eau": 15,
-    "humidite": 50.86
+    "temperature": 20.58,
+    "pression": 71.87,
+    "niveau_eau": 16.09,
+    "humidite": 51.7
   },
   "c15": {
-    "temperature": 21.73,
-    "pression": 70.79,
-    "niveau_eau": 15.95,
-    "humidite": 51.83
+    "temperature": 20.48,
+    "pression": 71.83,
+    "niveau_eau": 15.79,
+    "humidite": 51
   },
   "c16": {
-    "temperature": 20.7,
-    "pression": 70.93,
-    "niveau_eau": 16.59,
-    "humidite": 50.37
->>>>>>> main
+    "temperature": 21.74,
+    "pression": 70.47,
+    "niveau_eau": 15.1,
+    "humidite": 50.69
   }
 }
