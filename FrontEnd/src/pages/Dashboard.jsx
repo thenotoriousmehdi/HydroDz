@@ -110,6 +110,29 @@ const DamCard = ({ dam }) => {
   )
 }
 
+// Queue Status Card Component
+const QueueStatusCard = ({ title, value, icon, bgColor, textColor }) => {
+  return (
+    <div className="bg-white rounded-lg shadow-md p-6 flex items-center">
+      <div className={`rounded-full ${bgColor} p-3 mr-4`}>
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          className={`h-6 w-6 ${textColor}`}
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
+        >
+          {icon}
+        </svg>
+      </div>
+      <div>
+        <div className="text-sm font-medium text-gray-500">{title}</div>
+        <div className="text-2xl font-semibold text-gray-900">{value}</div>
+      </div>
+    </div>
+  )
+}
+
 // Helper function to get dam name from ID
 const getDamNameById = (id) => {
   const damNames = {
@@ -139,11 +162,18 @@ function DamMonitoring() {
   const [searchQuery, setSearchQuery] = useState("")
   const [userMenuOpen, setUserMenuOpen] = useState(false)
   const [damsData, setDamsData] = useState([])
+  const [queueData, setQueueData] = useState({
+    queuesLength: { high: 0, medium: 0, low: 0 },
+    status: { kafkaConnected: false, stats: { processed: 0, failed: 0, retried: 0 } }
+  })
   const [loading, setLoading] = useState(true)
+  const [queueLoading, setQueueLoading] = useState(true)
   const [error, setError] = useState(null)
+  const [queueError, setQueueError] = useState(null)
   const [lastUpdated, setLastUpdated] = useState(null)
+  const [queueLastUpdated, setQueueLastUpdated] = useState(null)
 
-  // Fetch data from API
+  // Fetch dam data from API
   const fetchDamData = async () => {
     try {
       const response = await fetch("http://localhost:5100/data");
@@ -156,25 +186,49 @@ function DamMonitoring() {
       setLoading(false);
     } catch (error) {
       console.error("Error fetching dam data:", error);
-      setError("Failed to load data. Please try again later.");
+      setError("Failed to load dam data. Please try again later.");
       setLoading(false);
     }
   };
 
+  // Fetch queue data from API
+  const fetchQueueData = async () => {
+    try {
+      const response = await fetch("http://localhost:4000/queue-status");
+      if (!response.ok) {
+        throw new Error("Queue API response was not ok");
+      }
+      const data = await response.json();
+      setQueueData(data);
+      setQueueLastUpdated(new Date());
+      setQueueLoading(false);
+    } catch (error) {
+      console.error("Error fetching queue data:", error);
+      setQueueError("Failed to load queue data. Please try again later.");
+      setQueueLoading(false);
+    }
+  };
   
   useEffect(() => {
-  
+    // Initial data fetch
     fetchDamData();
+    fetchQueueData();
 
-
-    const intervalId = setInterval(() => {
+    // Set up intervals for data refresh
+    const damIntervalId = setInterval(() => {
       fetchDamData();
     }, 5000);
 
+    const queueIntervalId = setInterval(() => {
+      fetchQueueData();
+    }, 5000);
 
-    return () => clearInterval(intervalId);
+    // Clean up intervals on component unmount
+    return () => {
+      clearInterval(damIntervalId);
+      clearInterval(queueIntervalId);
+    };
   }, []);
-
   
   const filteredDams = damsData.filter(
     (dam) => {
@@ -187,7 +241,6 @@ function DamMonitoring() {
         wilaya.toLowerCase().includes(searchQuery.toLowerCase());
     }
   );
-
   
   const statusCounts = damsData.reduce(
     (acc, dam) => {
@@ -196,6 +249,11 @@ function DamMonitoring() {
     },
     { normal: 0, warning: 0, critical: 0 }
   );
+
+  // Calculate total items in queue
+  const totalQueueItems = queueData.queuesLength 
+    ? Object.values(queueData.queuesLength).reduce((sum, current) => sum + current, 0)
+    : 0;
 
   return (
     <div className="min-h-screen bg-gray-100">
@@ -278,196 +336,302 @@ function DamMonitoring() {
             >
               Overview
             </button>
-           
-        
+            <button
+              className={`${
+                activeTab === "queue"
+                  ? "border-cyan-700 text-cyan-700"
+                  : "border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300"
+              } whitespace-nowrap py-4 px-1 border-b-2 font-medium text-sm transition-all duration-200`}
+              onClick={() => setActiveTab("queue")}
+            >
+              Queue Monitor
+            </button>
           </nav>
         </div>
 
-        {/* Data loading status */}
-        {lastUpdated && (
-          <div className="flex justify-between items-center mb-4">
-            <span className="text-sm text-gray-500">
-              Last data update: {formatDate(lastUpdated)}
-            </span>
-            <button 
-              onClick={fetchDamData}
-              className="text-sm text-cyan-700 hover:text-cyan-800 flex items-center"
-            >
-              <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
-              </svg>
-              Refresh
-            </button>
-          </div>
-        )}
-
-        {loading && !error && (
-          <div className="flex justify-center items-center py-12">
-            <div className="animate-spin rounded-full h-10 w-10 border-b-2 border-cyan-700"></div>
-            <span className="ml-3 text-cyan-700">Loading data...</span>
-          </div>
-        )}
-
-        {error && (
-          <div className="bg-red-50 p-4 rounded-md mb-8">
-            <div className="flex">
-              <div className="flex-shrink-0">
-                <svg className="h-5 w-5 text-red-400" viewBox="0 0 20 20" fill="currentColor">
-                  <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM8.707 7.293a1 1 0 00-1.414 1.414L8.586 10l-1.293 1.293a1 1 0 101.414 1.414L10 11.414l1.293 1.293a1 1 0 001.414-1.414L11.414 10l1.293-1.293a1 1 0 00-1.414-1.414L10 8.586 8.707 7.293z" clipRule="evenodd" />
-                </svg>
-              </div>
-              <div className="ml-3">
-                <h3 className="text-sm font-medium text-red-800">Error</h3>
-                <div className="mt-2 text-sm text-red-700">{error}</div>
-                <div className="mt-3">
-                  <button
-                    type="button"
-                    onClick={fetchDamData}
-                    className="inline-flex items-center px-3 py-2 border border-transparent text-sm leading-4 font-medium rounded-md text-red-700 bg-red-100 hover:bg-red-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500"
-                  >
-                    Retry
-                  </button>
-                </div>
-              </div>
-            </div>
-          </div>
-        )}
-
-        {!loading && !error && (
+        {/* Overview Tab Content */}
+        {activeTab === "overview" && (
           <>
-            {/* Status summary */}
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
-              <div className="bg-white rounded-lg shadow-md p-6 flex items-center">
-                <div className="rounded-full bg-green-100 p-3 mr-4">
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    className="h-6 w-6 text-green-600"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                    stroke="currentColor"
-                  >
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+            {/* Data loading status */}
+            {lastUpdated && (
+              <div className="flex justify-between items-center mb-4">
+                <span className="text-sm text-gray-500">
+                  Last data update: {formatDate(lastUpdated)}
+                </span>
+                <button 
+                  onClick={fetchDamData}
+                  className="text-sm text-cyan-700 hover:text-cyan-800 flex items-center"
+                >
+                  <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
                   </svg>
-                </div>
-                <div>
-                  <div className="text-sm font-medium text-gray-500">Normal</div>
-                  <div className="text-2xl font-semibold text-gray-900">{statusCounts.normal || 0} Dams</div>
+                  Refresh
+                </button>
+              </div>
+            )}
+
+            {loading && !error && (
+              <div className="flex justify-center items-center py-12">
+                <div className="animate-spin rounded-full h-10 w-10 border-b-2 border-cyan-700"></div>
+                <span className="ml-3 text-cyan-700">Loading data...</span>
+              </div>
+            )}
+
+            {error && (
+              <div className="bg-red-50 p-4 rounded-md mb-8">
+                <div className="flex">
+                  <div className="flex-shrink-0">
+                    <svg className="h-5 w-5 text-red-400" viewBox="0 0 20 20" fill="currentColor">
+                      <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM8.707 7.293a1 1 0 00-1.414 1.414L8.586 10l-1.293 1.293a1 1 0 101.414 1.414L10 11.414l1.293 1.293a1 1 0 001.414-1.414L11.414 10l1.293-1.293a1 1 0 00-1.414-1.414L10 8.586 8.707 7.293z" clipRule="evenodd" />
+                    </svg>
+                  </div>
+                  <div className="ml-3">
+                    <h3 className="text-sm font-medium text-red-800">Error</h3>
+                    <div className="mt-2 text-sm text-red-700">{error}</div>
+                    <div className="mt-3">
+                      <button
+                        type="button"
+                        onClick={fetchDamData}
+                        className="inline-flex items-center px-3 py-2 border border-transparent text-sm leading-4 font-medium rounded-md text-red-700 bg-red-100 hover:bg-red-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500"
+                      >
+                        Retry
+                      </button>
+                    </div>
+                  </div>
                 </div>
               </div>
+            )}
 
-              <div className="bg-white rounded-lg shadow-md p-6 flex items-center">
-                <div className="rounded-full bg-yellow-100 p-3 mr-4">
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    className="h-6 w-6 text-yellow-600"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                    stroke="currentColor"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={2}
-                      d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"
-                    />
-                  </svg>
+            {!loading && !error && (
+              <>
+                {/* Status summary */}
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
+                  <div className="bg-white rounded-lg shadow-md p-6 flex items-center">
+                    <div className="rounded-full bg-green-100 p-3 mr-4">
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        className="h-6 w-6 text-green-600"
+                        fill="none"
+                        viewBox="0 0 24 24"
+                        stroke="currentColor"
+                      >
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                      </svg>
+                    </div>
+                    <div>
+                      <div className="text-sm font-medium text-gray-500">Normal</div>
+                      <div className="text-2xl font-semibold text-gray-900">{statusCounts.normal || 0} Dams</div>
+                    </div>
+                  </div>
+
+                  <div className="bg-white rounded-lg shadow-md p-6 flex items-center">
+                    <div className="rounded-full bg-yellow-100 p-3 mr-4">
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        className="h-6 w-6 text-yellow-600"
+                        fill="none"
+                        viewBox="0 0 24 24"
+                        stroke="currentColor"
+                      >
+                        <path
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
+                          strokeWidth={2}
+                          d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"
+                        />
+                      </svg>
+                    </div>
+                    <div>
+                      <div className="text-sm font-medium text-gray-500">Warning</div>
+                      <div className="text-2xl font-semibold text-gray-900">{statusCounts.warning || 0} Dams</div>
+                    </div>
+                  </div>
+
+                  <div className="bg-white rounded-lg shadow-md p-6 flex items-center">
+                    <div className="rounded-full bg-red-100 p-3 mr-4">
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        className="h-6 w-6 text-red-600"
+                        fill="none"
+                        viewBox="0 0 24 24"
+                        stroke="currentColor"
+                      >
+                        <path
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
+                          strokeWidth={2}
+                          d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+                        />
+                      </svg>
+                    </div>
+                    <div>
+                      <div className="text-sm font-medium text-gray-500">Critical</div>
+                      <div className="text-2xl font-semibold text-gray-900">{statusCounts.critical || 0} Dams</div>
+                    </div>
+                  </div>
                 </div>
-                <div>
-                  <div className="text-sm font-medium text-gray-500">Warning</div>
-                  <div className="text-2xl font-semibold text-gray-900">{statusCounts.warning || 0} Dams</div>
+
+                {/* Dam cards */}
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                  {filteredDams.length > 0 ? (
+                    filteredDams.map((dam, index) => <DamCard key={index} dam={dam} />)
+                  ) : (
+                    <div className="col-span-3 text-center py-12">
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        className="h-12 w-12 mx-auto text-gray-400"
+                        fill="none"
+                        viewBox="0 0 24 24"
+                        stroke="currentColor"
+                      >
+                        <path
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
+                          strokeWidth={2}
+                          d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+                        />
+                      </svg>
+                      <h3 className="mt-2 text-lg font-medium text-gray-900">No dams found</h3>
+                      <p className="mt-1 text-sm text-gray-500">Try adjusting your search query.</p>
+                    </div>
+                  )}
+                </div>
+              </>
+            )}
+          </>
+        )}
+
+        {/* Queue Monitor Tab Content */}
+        {activeTab === "queue" && (
+          <>
+            {/* Queue data loading status */}
+            {queueLastUpdated && (
+              <div className="flex justify-between items-center mb-4">
+                <span className="text-sm text-gray-500">
+                  Last queue update: {formatDate(queueLastUpdated)}
+                </span>
+                <button 
+                  onClick={fetchQueueData}
+                  className="text-sm text-cyan-700 hover:text-cyan-800 flex items-center"
+                >
+                  <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+                  </svg>
+                  Refresh
+                </button>
+              </div>
+            )}
+
+            {queueLoading && !queueError && (
+              <div className="flex justify-center items-center py-12">
+                <div className="animate-spin rounded-full h-10 w-10 border-b-2 border-cyan-700"></div>
+                <span className="ml-3 text-cyan-700">Loading queue data...</span>
+              </div>
+            )}
+
+            {queueError && (
+              <div className="bg-red-50 p-4 rounded-md mb-8">
+                <div className="flex">
+                  <div className="flex-shrink-0">
+                    <svg className="h-5 w-5 text-red-400" viewBox="0 0 20 20" fill="currentColor">
+                      <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM8.707 7.293a1 1 0 00-1.414 1.414L8.586 10l-1.293 1.293a1 1 0 101.414 1.414L10 11.414l1.293 1.293a1 1 0 001.414-1.414L11.414 10l1.293-1.293a1 1 0 00-1.414-1.414L10 8.586 8.707 7.293z" clipRule="evenodd" />
+                    </svg>
+                  </div>
+                  <div className="ml-3">
+                    <h3 className="text-sm font-medium text-red-800">Error</h3>
+                    <div className="mt-2 text-sm text-red-700">{queueError}</div>
+                    <div className="mt-3">
+                      <button
+                        type="button"
+                        onClick={fetchQueueData}
+                        className="inline-flex items-center px-3 py-2 border border-transparent text-sm leading-4 font-medium rounded-md text-red-700 bg-red-100 hover:bg-red-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500"
+                      >
+                        Retry
+                      </button>
+                    </div>
+                  </div>
                 </div>
               </div>
+            )}
 
-              <div className="bg-white rounded-lg shadow-md p-6 flex items-center">
-                <div className="rounded-full bg-red-100 p-3 mr-4">
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    className="h-6 w-6 text-red-600"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                    stroke="currentColor"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={2}
-                      d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
-                    />
-                  </svg>
+            {!queueLoading && !queueError && (
+              <>
+                {/* Kafka Connection Status */}
+                <div className="bg-white rounded-lg shadow-md p-6 mb-6">
+                  <div className="flex items-center justify-between">
+                    <div className="flex items-center">
+                      <div className={`rounded-full ${queueData.status.kafkaConnected ? 'bg-green-100' : 'bg-red-100'} p-3 mr-4`}>
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          className={`h-6 w-6 ${queueData.status.kafkaConnected ? 'text-green-600' : 'text-red-600'}`}
+                          fill="none"
+                          viewBox="0 0 24 24"
+                          stroke="currentColor"
+                        >
+                          <path
+                            strokeLinecap="round"
+                            strokeLinejoin="round"
+                            strokeWidth={2}
+                            d={queueData.status.kafkaConnected ? 
+                              "M5 13l4 4L19 7" : 
+                              "M6 18L18 6M6 6l12 12"}
+                          />
+                        </svg>
+                      </div>
+                      <div>
+                        <div className="text-sm font-medium text-gray-500">Kafka Connection</div>
+                        <div className="text-xl font-semibold text-gray-900">
+                          {queueData.status.kafkaConnected ? "Connected" : "Disconnected"}
+                        </div>
+                      </div>
+                    </div>
+                    <div className="text-sm text-gray-500">
+                      Total Items in Queue: <span className="font-semibold">{totalQueueItems}</span>
+                    </div>
+                  </div>
                 </div>
-                <div>
-                  <div className="text-sm font-medium text-gray-500">Critical</div>
-                  <div className="text-2xl font-semibold text-gray-900">{statusCounts.critical || 0} Dams</div>
-                </div>
-              </div>
-            </div>
 
-            {/* Dam cards */}
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-              {filteredDams.length > 0 ? (
-                filteredDams.map((dam, index) => <DamCard key={index} dam={dam} />)
-              ) : (
-                <div className="col-span-3 text-center py-12">
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    className="h-12 w-12 mx-auto text-gray-400"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                    stroke="currentColor"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={2}
-                      d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
-                    />
-                  </svg>
-                  <h3 className="mt-2 text-lg font-medium text-gray-900">No dams found</h3>
-                  <p className="mt-1 text-sm text-gray-500">Try adjusting your search query.</p>
+                {/* Queue Summary */}
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
+                  <QueueStatusCard
+                    title="High Priority Queue"
+                    value={queueData.queuesLength.high}
+                    icon={<path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />}
+                    bgColor="bg-red-100"
+                    textColor="text-red-600"
+                  />
+                  
+                  <QueueStatusCard
+                    title="Medium Priority Queue"
+                    value={queueData.queuesLength.medium}
+                    icon={<path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 12h14M12 5l7 7-7 7" />}
+                    bgColor="bg-yellow-100"
+                    textColor="text-yellow-600"
+                  />
+                  
+                  <QueueStatusCard
+                    title="Low Priority Queue"
+                    value={queueData.queuesLength.low}
+                    icon={<path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 14l-7 7m0 0l-7-7m7 7V3" />}
+                    bgColor="bg-blue-100"
+                    textColor="text-blue-600"
+                  />
+
+                  <QueueStatusCard
+                    title="Processed"
+                    value={queueData.status.stats.processed}
+                    icon={<path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />}
+                    bgColor="bg-green-100"
+                    textColor="text-green-600"
+                  />
                 </div>
-              )}
-            </div>
+              </>
+            )}
           </>
         )}
       </main>
-
-      {/* CSS for custom styling */}
-      <style>
-        {`
-          /* Custom colors */
-          .bg-cyan-700 { background-color: #087cb2; }
-          .bg-cyan-800 { background-color: #065d85; }
-          .text-cyan-700 { color: #087cb2; }
-          .border-cyan-700 { border-color: #087cb2; }
-          .hover\\:bg-cyan-800:hover { background-color: #065d85; }
-          .hover\\:text-cyan-800:hover { color: #065d85; }
-          .focus\\:ring-cyan-600:focus { --tw-ring-color: rgba(8, 124, 178, 0.6); }
-          
-          /* Transitions */
-          .transition-all { transition-property: all; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-duration: 200ms; }
-          .duration-200 { transition-duration: 200ms; }
-          
-          /* Animations */
-          @keyframes pulse {
-            0%, 100% { opacity: 1; }
-            50% { opacity: 0.5; }
-          }
-          .animate-pulse {
-            animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
-          }
-          
-          /* Loading spinner */
-          @keyframes spin {
-            from { transform: rotate(0deg); }
-            to { transform: rotate(360deg); }
-          }
-          .animate-spin {
-            animation: spin 1s linear infinite;
-          }
-        `}
-      </style>
     </div>
-  )
+  );
 }
 
-export default DamMonitoring
+export default DamMonitoring;

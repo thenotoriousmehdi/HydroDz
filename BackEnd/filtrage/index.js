@@ -1,18 +1,15 @@
-
-
 const express = require("express");
+const app = express();
 const bodyParser = require("body-parser");
+const cors = require("cors");
 const { Kafka } = require("kafkajs");
 const fs = require("fs");
 const path = require("path");
 const {pipeFilter} = require("./pipeFilter.js");
 
-const app = express();
-
-
-//  Middlewares
+// Enable CORS for all routes
+app.use(cors());
 app.use(bodyParser.json());
-
 
 // Configuration du gestionnaire de files
 class QueueManager {
@@ -230,28 +227,8 @@ class QueueManager {
   }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 const kafka = new Kafka({ clientId: "filtrage", brokers: ["localhost:9092"] });
 const producer = kafka.producer();
-app.use(bodyParser.json());
 
 const saveData = (data) => {
   const db = "./db.json";
@@ -261,9 +238,6 @@ const saveData = (data) => {
 };
 
 const queueManager = new QueueManager();
-
-
-
 
 // Configurer la connexion Kafka
 async function setupKafka() {
@@ -302,7 +276,6 @@ app.post("/filtrer", async (req, res) => {
 app.get("/queue-status", (req, res) => {
   res.json(queueManager.getStatus());
 });
-
 
 app.listen(4000, async () => {
     await setupKafka();
