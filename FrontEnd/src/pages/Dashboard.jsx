@@ -1,88 +1,7 @@
-import { useState } from "react"
+import { useState, useEffect } from "react"
 import React from 'react';
-// Import the logo directly - assuming it's in the right path
-// You'll need to adjust this path based on your project structure
+
 import logo from "../assets/logohydrodz.png"
-const damsData = [
-  {
-    timestamp: "2025-05-14T08:00:00Z",
-    barrage_id: "BRG01",
-    barrage_name: "Barrage Beni Haroun",
-    capteur_id: "CAP001",
-    temperature: 22.4,
-    pression: 1012.3,
-    niveau_eau: 4.5,
-    humidite: 60.2,
-    status: "normal",
-    location: "Constantine",
-    wilaya: "Constantine",
-  },
-  {
-    timestamp: "2025-05-14T08:05:00Z",
-    barrage_id: "BRG02",
-    barrage_name: "Barrage Koudiat Acerdoune",
-    capteur_id: "CAP002",
-    temperature: 23.1,
-    pression: 1010.8,
-    niveau_eau: 3.8,
-    humidite: 58.7,
-    status: "warning",
-    location: "Bouira",
-    wilaya: "Bouira",
-  },
-  {
-    timestamp: "2025-05-14T08:10:00Z",
-    barrage_id: "BRG03",
-    barrage_name: "Barrage Taksebt",
-    capteur_id: "CAP003",
-    temperature: 21.9,
-    pression: 1013.5,
-    niveau_eau: 5.2,
-    humidite: 62.4,
-    status: "normal",
-    location: "Tizi Ouzou",
-    wilaya: "Tizi Ouzou",
-  },
-  {
-    timestamp: "2025-05-14T08:15:00Z",
-    barrage_id: "BRG04",
-    barrage_name: "Barrage Ghrib",
-    capteur_id: "CAP004",
-    temperature: 24.3,
-    pression: 1009.7,
-    niveau_eau: 2.9,
-    humidite: 55.1,
-    status: "critical",
-    location: "Ain Defla",
-    wilaya: "Ain Defla",
-  },
-  {
-    timestamp: "2025-05-14T08:20:00Z",
-    barrage_id: "BRG05",
-    barrage_name: "Barrage Foum El Gherza",
-    capteur_id: "CAP005",
-    temperature: 26.7,
-    pression: 1008.2,
-    niveau_eau: 3.4,
-    humidite: 48.9,
-    status: "normal",
-    location: "Biskra",
-    wilaya: "Biskra",
-  },
-  {
-    timestamp: "2025-05-14T08:25:00Z",
-    barrage_id: "BRG06",
-    barrage_name: "Barrage Béni Bahdel",
-    capteur_id: "CAP006",
-    temperature: 22.8,
-    pression: 1011.6,
-    niveau_eau: 4.1,
-    humidite: 59.5,
-    status: "normal",
-    location: "Tlemcen",
-    wilaya: "Tlemcen",
-  },
-]
 
 // Helper function to format date
 const formatDate = (dateString) => {
@@ -137,44 +56,52 @@ const Gauge = ({ value, max, label, unit, color }) => {
 
 // Dam card component
 const DamCard = ({ dam }) => {
+  // Extract data differently based on the API response format
+  const barrageData = dam.valeurs || dam;
+  const damName = getDamNameById(barrageData.barrageId);
+  const location = getLocationByWilaya(barrageData.wilaya);
+
   return (
     <div className="bg-white rounded-lg shadow-lg overflow-hidden">
       <div className="p-4 border-b border-gray-100">
         <div className="flex justify-between items-center">
-          <h3 className="text-lg font-semibold text-gray-900">{dam.barrage_name}</h3>
+          <h3 className="text-lg font-semibold text-gray-900">{damName}</h3>
           <StatusIndicator status={dam.status} />
         </div>
         <div className="text-sm text-gray-500 mt-1">
-          ID: {dam.barrage_id} • {dam.location}
+          ID: {barrageData.barrageId} • {location}
         </div>
-        <div className="text-sm text-gray-500 mt-1">Wilaya: {dam.wilaya}</div>
+        <div className="text-sm text-gray-500 mt-1">Wilaya: {barrageData.wilaya}</div>
       </div>
 
       <div className="p-4">
         <div className="grid grid-cols-2 gap-4 mb-4">
           <div className="flex flex-col">
             <span className="text-sm text-gray-500">Temperature</span>
-            <span className="text-xl font-semibold text-gray-900">{dam.temperature}°C</span>
+            <span className="text-xl font-semibold text-gray-900">{barrageData.temperature}°C</span>
           </div>
           <div className="flex flex-col">
             <span className="text-sm text-gray-500">Water Level</span>
-            <span className="text-xl font-semibold text-gray-900">{dam.niveau_eau}m</span>
+            <span className="text-xl font-semibold text-gray-900">{barrageData.niveau_eau}m</span>
           </div>
         </div>
 
         <div className="space-y-3">
-          <Gauge value={dam.humidite} max={100} label="Humidity" unit="%" color="bg-cyan-700" />
-          <Gauge value={dam.pression} max={1030} label="Pressure" unit="hPa" color="bg-cyan-700" />
+          <Gauge value={barrageData.humidite} max={100} label="Humidity" unit="%" color="bg-cyan-700" />
+          <Gauge value={barrageData.pression} max={1030} label="Pressure" unit="hPa" color="bg-cyan-700" />
         </div>
 
-        <div className="mt-4 text-xs text-gray-500">Last updated: {formatDate(dam.timestamp)}</div>
+        <div className="mt-4 text-xs text-gray-500">Last updated: {formatDate(barrageData.timestamp)}</div>
+        {barrageData.confiance && (
+          <div className="mt-1 text-xs text-gray-500">Confidence: {barrageData.confiance}</div>
+        )}
       </div>
 
       <div className="px-4 py-3 bg-gray-50 border-t border-gray-100">
         <button
           type="button"
           className="w-full py-2 px-4 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-cyan-700 hover:bg-cyan-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-cyan-600 transition-all duration-200"
-          onClick={() => alert(`View details for ${dam.barrage_name}`)}
+          onClick={() => alert(`View details for ${damName}`)}
         >
           View Details
         </button>
@@ -183,28 +110,92 @@ const DamCard = ({ dam }) => {
   )
 }
 
+// Helper function to get dam name from ID
+const getDamNameById = (id) => {
+  const damNames = {
+    "DAM001": "Barrage Beni Haroun",
+    "BRG01": "Barrage Beni Haroun",
+    "BRG02": "Barrage Koudiat Acerdoune",
+    "BRG03": "Barrage Taksebt",
+    "BRG04": "Barrage Ghrib",
+    "BRG05": "Barrage Foum El Gherza",
+    "BRG06": "Barrage Béni Bahdel",
+    "DAM002": "Barrage Keddara",
+    "DAM003": "Barrage Taksebt",
+    "DAM004": "Barrage Ghrib",
+    "DAM005": "Barrage Foum El Gherza",
+    "DAM006": "Barrage Béni Bahdel",
+  };
+  return damNames[id] || `Dam ${id}`;
+};
+
+// Helper function to get location from wilaya
+const getLocationByWilaya = (wilaya) => {
+  return wilaya || "Unknown";
+};
+
 function DamMonitoring() {
   const [activeTab, setActiveTab] = useState("overview")
   const [searchQuery, setSearchQuery] = useState("")
   const [userMenuOpen, setUserMenuOpen] = useState(false)
+  const [damsData, setDamsData] = useState([])
+  const [loading, setLoading] = useState(true)
+  const [error, setError] = useState(null)
+  const [lastUpdated, setLastUpdated] = useState(null)
+
+  // Fetch data from API
+  const fetchDamData = async () => {
+    try {
+      const response = await fetch("http://localhost:5100/data");
+      if (!response.ok) {
+        throw new Error("Network response was not ok");
+      }
+      const data = await response.json();
+      setDamsData(data);
+      setLastUpdated(new Date());
+      setLoading(false);
+    } catch (error) {
+      console.error("Error fetching dam data:", error);
+      setError("Failed to load data. Please try again later.");
+      setLoading(false);
+    }
+  };
+
+  // Set up interval to fetch data every 5 seconds
+  useEffect(() => {
+    // Initial fetch
+    fetchDamData();
+
+    // Set up interval for subsequent fetches
+    const intervalId = setInterval(() => {
+      fetchDamData();
+    }, 5000);
+
+    // Clear interval on component unmount
+    return () => clearInterval(intervalId);
+  }, []);
 
   // Filter dams based on search query
   const filteredDams = damsData.filter(
-    (dam) =>
-      dam.barrage_name.toLowerCase().includes(searchQuery.toLowerCase()) ||
-      dam.barrage_id.toLowerCase().includes(searchQuery.toLowerCase()) ||
-      dam.location.toLowerCase().includes(searchQuery.toLowerCase()) ||
-      dam.wilaya.toLowerCase().includes(searchQuery.toLowerCase()),
-  )
+    (dam) => {
+      const damId = dam.valeurs?.barrageId || "";
+      const damName = getDamNameById(damId);
+      const wilaya = dam.valeurs?.wilaya || "";
+      
+      return damName.toLowerCase().includes(searchQuery.toLowerCase()) ||
+        damId.toLowerCase().includes(searchQuery.toLowerCase()) ||
+        wilaya.toLowerCase().includes(searchQuery.toLowerCase());
+    }
+  );
 
   // Count dams by status
   const statusCounts = damsData.reduce(
     (acc, dam) => {
-      acc[dam.status] = (acc[dam.status] || 0) + 1
-      return acc
+      acc[dam.status] = (acc[dam.status] || 0) + 1;
+      return acc;
     },
-    { normal: 0, warning: 0, critical: 0 },
-  )
+    { normal: 0, warning: 0, critical: 0 }
+  );
 
   return (
     <div className="min-h-screen bg-gray-100">
@@ -320,98 +311,152 @@ function DamMonitoring() {
           </nav>
         </div>
 
-        {/* Status summary */}
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
-          <div className="bg-white rounded-lg shadow-md p-6 flex items-center">
-            <div className="rounded-full bg-green-100 p-3 mr-4">
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                className="h-6 w-6 text-green-600"
-                fill="none"
-                viewBox="0 0 24 24"
-                stroke="currentColor"
-              >
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+        {/* Data loading status */}
+        {lastUpdated && (
+          <div className="flex justify-between items-center mb-4">
+            <span className="text-sm text-gray-500">
+              Last data update: {formatDate(lastUpdated)}
+            </span>
+            <button 
+              onClick={fetchDamData}
+              className="text-sm text-cyan-700 hover:text-cyan-800 flex items-center"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
               </svg>
-            </div>
-            <div>
-              <div className="text-sm font-medium text-gray-500">Normal</div>
-              <div className="text-2xl font-semibold text-gray-900">{statusCounts.normal} Dams</div>
+              Refresh
+            </button>
+          </div>
+        )}
+
+        {loading && !error && (
+          <div className="flex justify-center items-center py-12">
+            <div className="animate-spin rounded-full h-10 w-10 border-b-2 border-cyan-700"></div>
+            <span className="ml-3 text-cyan-700">Loading data...</span>
+          </div>
+        )}
+
+        {error && (
+          <div className="bg-red-50 p-4 rounded-md mb-8">
+            <div className="flex">
+              <div className="flex-shrink-0">
+                <svg className="h-5 w-5 text-red-400" viewBox="0 0 20 20" fill="currentColor">
+                  <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM8.707 7.293a1 1 0 00-1.414 1.414L8.586 10l-1.293 1.293a1 1 0 101.414 1.414L10 11.414l1.293 1.293a1 1 0 001.414-1.414L11.414 10l1.293-1.293a1 1 0 00-1.414-1.414L10 8.586 8.707 7.293z" clipRule="evenodd" />
+                </svg>
+              </div>
+              <div className="ml-3">
+                <h3 className="text-sm font-medium text-red-800">Error</h3>
+                <div className="mt-2 text-sm text-red-700">{error}</div>
+                <div className="mt-3">
+                  <button
+                    type="button"
+                    onClick={fetchDamData}
+                    className="inline-flex items-center px-3 py-2 border border-transparent text-sm leading-4 font-medium rounded-md text-red-700 bg-red-100 hover:bg-red-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500"
+                  >
+                    Retry
+                  </button>
+                </div>
+              </div>
             </div>
           </div>
+        )}
 
-          <div className="bg-white rounded-lg shadow-md p-6 flex items-center">
-            <div className="rounded-full bg-yellow-100 p-3 mr-4">
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                className="h-6 w-6 text-yellow-600"
-                fill="none"
-                viewBox="0 0 24 24"
-                stroke="currentColor"
-              >
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  strokeWidth={2}
-                  d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"
-                />
-              </svg>
-            </div>
-            <div>
-              <div className="text-sm font-medium text-gray-500">Warning</div>
-              <div className="text-2xl font-semibold text-gray-900">{statusCounts.warning} Dams</div>
-            </div>
-          </div>
+        {!loading && !error && (
+          <>
+            {/* Status summary */}
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
+              <div className="bg-white rounded-lg shadow-md p-6 flex items-center">
+                <div className="rounded-full bg-green-100 p-3 mr-4">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    className="h-6 w-6 text-green-600"
+                    fill="none"
+                    viewBox="0 0 24 24"
+                    stroke="currentColor"
+                  >
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                  </svg>
+                </div>
+                <div>
+                  <div className="text-sm font-medium text-gray-500">Normal</div>
+                  <div className="text-2xl font-semibold text-gray-900">{statusCounts.normal || 0} Dams</div>
+                </div>
+              </div>
 
-          <div className="bg-white rounded-lg shadow-md p-6 flex items-center">
-            <div className="rounded-full bg-red-100 p-3 mr-4">
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                className="h-6 w-6 text-red-600"
-                fill="none"
-                viewBox="0 0 24 24"
-                stroke="currentColor"
-              >
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  strokeWidth={2}
-                  d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
-                />
-              </svg>
-            </div>
-            <div>
-              <div className="text-sm font-medium text-gray-500">Critical</div>
-              <div className="text-2xl font-semibold text-gray-900">{statusCounts.critical} Dams</div>
-            </div>
-          </div>
-        </div>
+              <div className="bg-white rounded-lg shadow-md p-6 flex items-center">
+                <div className="rounded-full bg-yellow-100 p-3 mr-4">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    className="h-6 w-6 text-yellow-600"
+                    fill="none"
+                    viewBox="0 0 24 24"
+                    stroke="currentColor"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={2}
+                      d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"
+                    />
+                  </svg>
+                </div>
+                <div>
+                  <div className="text-sm font-medium text-gray-500">Warning</div>
+                  <div className="text-2xl font-semibold text-gray-900">{statusCounts.warning || 0} Dams</div>
+                </div>
+              </div>
 
-        {/* Dam cards */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {filteredDams.length > 0 ? (
-            filteredDams.map((dam) => <DamCard key={dam.barrage_id} dam={dam} />)
-          ) : (
-            <div className="col-span-3 text-center py-12">
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                className="h-12 w-12 mx-auto text-gray-400"
-                fill="none"
-                viewBox="0 0 24 24"
-                stroke="currentColor"
-              >
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  strokeWidth={2}
-                  d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
-                />
-              </svg>
-              <h3 className="mt-2 text-lg font-medium text-gray-900">No dams found</h3>
-              <p className="mt-1 text-sm text-gray-500">Try adjusting your search query.</p>
+              <div className="bg-white rounded-lg shadow-md p-6 flex items-center">
+                <div className="rounded-full bg-red-100 p-3 mr-4">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    className="h-6 w-6 text-red-600"
+                    fill="none"
+                    viewBox="0 0 24 24"
+                    stroke="currentColor"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={2}
+                      d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+                    />
+                  </svg>
+                </div>
+                <div>
+                  <div className="text-sm font-medium text-gray-500">Critical</div>
+                  <div className="text-2xl font-semibold text-gray-900">{statusCounts.critical || 0} Dams</div>
+                </div>
+              </div>
             </div>
-          )}
-        </div>
+
+            {/* Dam cards */}
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+              {filteredDams.length > 0 ? (
+                filteredDams.map((dam, index) => <DamCard key={index} dam={dam} />)
+              ) : (
+                <div className="col-span-3 text-center py-12">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    className="h-12 w-12 mx-auto text-gray-400"
+                    fill="none"
+                    viewBox="0 0 24 24"
+                    stroke="currentColor"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={2}
+                      d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+                    />
+                  </svg>
+                  <h3 className="mt-2 text-lg font-medium text-gray-900">No dams found</h3>
+                  <p className="mt-1 text-sm text-gray-500">Try adjusting your search query.</p>
+                </div>
+              )}
+            </div>
+          </>
+        )}
       </main>
 
       {/* CSS for custom styling */}
@@ -437,6 +482,15 @@ function DamMonitoring() {
           }
           .animate-pulse {
             animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+          }
+          
+          /* Loading spinner */
+          @keyframes spin {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+          }
+          .animate-spin {
+            animation: spin 1s linear infinite;
           }
         `}
       </style>

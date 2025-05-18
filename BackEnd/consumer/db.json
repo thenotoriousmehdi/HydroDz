@@ -1749,5 +1749,3028 @@
     "status": "anomalie",
     "message": "Capteurs incohérents entre eux",
     "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.83,
+      "pression": 65.22,
+      "niveau_eau": 5.53,
+      "humidite": 55.9,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:12:49.736Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.799999999999997,
+      "pression": 65.5,
+      "niveau_eau": 5.455,
+      "humidite": 55.7,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T09:13:05.038Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.55,
+      "pression": 65.37,
+      "niveau_eau": 5.93,
+      "humidite": 55.66,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:13:20.340Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.880000000000003,
+      "pression": 65.32499999999999,
+      "niveau_eau": 5.5600000000000005,
+      "humidite": 55.17,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T09:14:26.651Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.79,
+      "pression": 65.64,
+      "niveau_eau": 5.94,
+      "humidite": 55.56,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:14:31.752Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.435000000000002,
+      "pression": 65.255,
+      "niveau_eau": 5.785,
+      "humidite": 55.65,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T09:14:57.253Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.6,
+      "pression": 65.46,
+      "niveau_eau": 5.44,
+      "humidite": 55.95,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:15:27.855Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.335,
+      "pression": 65.22999999999999,
+      "niveau_eau": 5.375,
+      "humidite": 55.25,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T09:15:38.057Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.42,
+      "pression": 65.1,
+      "niveau_eau": 5.49,
+      "humidite": 55.42,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T09:15:48.258Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.5,
+      "pression": 65.31,
+      "niveau_eau": 5.445,
+      "humidite": 55.795,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T09:16:03.560Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.07,
+      "pression": 65.68,
+      "niveau_eau": 5.46,
+      "humidite": 55.87,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:16:13.761Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.09,
+      "pression": 65.65,
+      "niveau_eau": 5.27,
+      "humidite": 55.24,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:16:18.862Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.43,
+      "pression": 65.58,
+      "niveau_eau": 5.67,
+      "humidite": 55.4,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T09:16:34.165Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.79,
+      "pression": 65.74,
+      "niveau_eau": 5.36,
+      "humidite": 55.43,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:16:49.466Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.095,
+      "pression": 65.195,
+      "niveau_eau": 5.425,
+      "humidite": 55.62,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:17:40.474Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.47,
+      "pression": 65.41,
+      "niveau_eau": 5.47,
+      "humidite": 55.18,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T09:17:50.675Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.48,
+      "pression": 65.37,
+      "niveau_eau": 5.37,
+      "humidite": 55.58,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:18:05.977Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.16,
+      "pression": 65.77,
+      "niveau_eau": 5.05,
+      "humidite": 55.77,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:18:21.278Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.63,
+      "pression": 65.55,
+      "niveau_eau": 5.8,
+      "humidite": 55.83,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:18:36.580Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.365000000000002,
+      "pression": 65.485,
+      "niveau_eau": 5.779999999999999,
+      "humidite": 55.555,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:18:56.984Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.42,
+      "pression": 65.9,
+      "niveau_eau": 5.51,
+      "humidite": 55.3,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:19:32.688Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.165,
+      "pression": 65.19,
+      "niveau_eau": 5.695,
+      "humidite": 55.365,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T09:19:37.788Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.3,
+      "pression": 65.62,
+      "niveau_eau": 5.86,
+      "humidite": 55.6,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:19:42.888Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.16,
+      "pression": 65.41,
+      "niveau_eau": 5.655,
+      "humidite": 55.445,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:20:18.594Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.65,
+      "pression": 65.72,
+      "niveau_eau": 5.23,
+      "humidite": 55.55,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:20:38.997Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.66,
+      "pression": 65.17,
+      "niveau_eau": 5.56,
+      "humidite": 55.09,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T09:20:44.098Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.505,
+      "pression": 65.065,
+      "niveau_eau": 5.555,
+      "humidite": 55.709999999999994,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T09:21:14.703Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.92,
+      "pression": 65.65,
+      "niveau_eau": 5.57,
+      "humidite": 55.25,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:21:50.410Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.81,
+      "pression": 65.77,
+      "niveau_eau": 5.84,
+      "humidite": 55.45,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T09:22:00.612Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.32,
+      "pression": 65.54,
+      "niveau_eau": 5.16,
+      "humidite": 55.61,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:22:21.016Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.93,
+      "pression": 65.68,
+      "niveau_eau": 5.78,
+      "humidite": 55.435,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T09:22:31.217Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.785,
+      "pression": 65.6,
+      "niveau_eau": 5.66,
+      "humidite": 55.32,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:23:01.823Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.93,
+      "pression": 65.35,
+      "niveau_eau": 5.74,
+      "humidite": 55.25,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:24:23.433Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.425,
+      "pression": 65.78,
+      "niveau_eau": 5.6899999999999995,
+      "humidite": 55.225,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T09:24:38.735Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.38,
+      "pression": 65.23,
+      "niveau_eau": 5.6,
+      "humidite": 55.19,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:25:09.341Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.57,
+      "pression": 65.42,
+      "niveau_eau": 5.58,
+      "humidite": 55.72,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:25:24.643Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.46,
+      "pression": 65.63,
+      "niveau_eau": 5.45,
+      "humidite": 55.59,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:25:34.845Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.310000000000002,
+      "pression": 65.495,
+      "niveau_eau": 5.755,
+      "humidite": 55.555,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T09:26:00.349Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.35,
+      "pression": 65.88,
+      "niveau_eau": 5.14,
+      "humidite": 55.5,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:26:05.450Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.58,
+      "pression": 65.28,
+      "niveau_eau": 5.63,
+      "humidite": 55.43,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:26:10.551Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.38,
+      "pression": 65.88,
+      "niveau_eau": 5.19,
+      "humidite": 55.72,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:26:25.853Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.6,
+      "pression": 65.32,
+      "niveau_eau": 5.83,
+      "humidite": 55.42,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T09:26:30.955Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.18,
+      "pression": 65.19,
+      "niveau_eau": 5.69,
+      "humidite": 55.64,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:26:51.358Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.19,
+      "pression": 65.57,
+      "niveau_eau": 5.77,
+      "humidite": 55.4,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:27:01.561Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.884999999999998,
+      "pression": 65.805,
+      "niveau_eau": 5.785,
+      "humidite": 55.45,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T09:27:21.964Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.46,
+      "pression": 65.37,
+      "niveau_eau": 5.83,
+      "humidite": 55.53,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T09:27:32.167Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.43,
+      "pression": 65.3,
+      "niveau_eau": 5.12,
+      "humidite": 55.25,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:27:37.267Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.91,
+      "pression": 65.42,
+      "niveau_eau": 5.6,
+      "humidite": 55.38,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:27:42.368Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.36,
+      "pression": 65.38,
+      "niveau_eau": 5.57,
+      "humidite": 55.93,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:28:07.871Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.79,
+      "pression": 65.38,
+      "niveau_eau": 5.75,
+      "humidite": 55.45,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T09:28:23.174Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.52,
+      "pression": 65.08,
+      "niveau_eau": 5.26,
+      "humidite": 55.35,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:29:24.387Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.16,
+      "pression": 65.31,
+      "niveau_eau": 5.74,
+      "humidite": 55.27,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:29:29.488Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.15,
+      "pression": 65.82,
+      "niveau_eau": 5.79,
+      "humidite": 55.375,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T09:29:39.688Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.435000000000002,
+      "pression": 65.46000000000001,
+      "niveau_eau": 5.905,
+      "humidite": 55.655,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T09:29:44.788Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.425,
+      "pression": 65.175,
+      "niveau_eau": 5.785,
+      "humidite": 55.45,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T09:29:49.888Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.3,
+      "pression": 65.65,
+      "niveau_eau": 5.61,
+      "humidite": 55.455,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:30:00.089Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.4,
+      "pression": 65.72,
+      "niveau_eau": 5.73,
+      "humidite": 55.45,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:30:10.289Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.37,
+      "pression": 65.8,
+      "niveau_eau": 5.12,
+      "humidite": 55.66,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:30:15.391Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.52,
+      "pression": 65.52,
+      "niveau_eau": 5.62,
+      "humidite": 55.15,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:30:35.793Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.76,
+      "pression": 65.65,
+      "niveau_eau": 5.27,
+      "humidite": 55.7,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T09:30:45.994Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.7,
+      "pression": 65.57,
+      "niveau_eau": 5.36,
+      "humidite": 55.62,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T09:31:01.295Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.53,
+      "pression": 65.72,
+      "niveau_eau": 5.22,
+      "humidite": 55.89,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:31:06.395Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.235,
+      "pression": 65.80000000000001,
+      "niveau_eau": 5.37,
+      "humidite": 55.3,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T09:31:26.798Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.13,
+      "pression": 65.51,
+      "niveau_eau": 5.42,
+      "humidite": 55.04,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:31:31.899Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.79,
+      "pression": 65.94,
+      "niveau_eau": 5.58,
+      "humidite": 55.33,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T09:31:52.301Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.32,
+      "pression": 65.79,
+      "niveau_eau": 5.99,
+      "humidite": 55.29,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:32:02.502Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.11,
+      "pression": 65.58,
+      "niveau_eau": 5.74,
+      "humidite": 55.19,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:32:12.704Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.13,
+      "pression": 65.85,
+      "niveau_eau": 5.21,
+      "humidite": 55.35,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:32:17.805Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.26,
+      "pression": 65.2,
+      "niveau_eau": 5.2,
+      "humidite": 55.3,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:32:28.007Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.59,
+      "pression": 65.36,
+      "niveau_eau": 5.61,
+      "humidite": 55.07,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:32:53.513Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.495,
+      "pression": 65.87,
+      "niveau_eau": 5.42,
+      "humidite": 55.355000000000004,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T09:33:03.715Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.59,
+      "pression": 65.63,
+      "niveau_eau": 5.31,
+      "humidite": 55.91,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:33:24.120Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.18,
+      "pression": 65.48,
+      "niveau_eau": 5.35,
+      "humidite": 55.58,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:33:34.321Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.79,
+      "pression": 65.36,
+      "niveau_eau": 5.28,
+      "humidite": 55.47,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:33:39.421Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.8,
+      "pression": 65.63,
+      "niveau_eau": 5.84,
+      "humidite": 55.82,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T09:33:59.825Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.33,
+      "pression": 65.25999999999999,
+      "niveau_eau": 5.66,
+      "humidite": 55.455,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T09:34:04.927Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.9,
+      "pression": 65.41,
+      "niveau_eau": 5.835000000000001,
+      "humidite": 55.400000000000006,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T09:34:20.227Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.4,
+      "pression": 65.43,
+      "niveau_eau": 5.43,
+      "humidite": 55.83,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:34:25.328Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "anomalie",
+    "message": "Capteurs incohérents entre eux",
+    "valeurs": null
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.575,
+      "pression": 70.985,
+      "niveau_eau": 16.115000000000002,
+      "humidite": 50.81,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:35:04.291Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.755,
+      "pression": 70.89,
+      "niveau_eau": 15.85,
+      "humidite": 50.629999999999995,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:35:09.391Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.265,
+      "pression": 70.91499999999999,
+      "niveau_eau": 16.775,
+      "humidite": 50.79,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:35:14.493Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.525,
+      "pression": 71,
+      "niveau_eau": 16.41,
+      "humidite": 51.475,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:35:19.593Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21,
+      "pression": 70.41,
+      "niveau_eau": 16,
+      "humidite": 50.985,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:35:24.693Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.725,
+      "pression": 70.935,
+      "niveau_eau": 15.89,
+      "humidite": 50.974999999999994,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:35:29.795Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.115000000000002,
+      "pression": 70.88,
+      "niveau_eau": 16.245,
+      "humidite": 51.394999999999996,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:35:34.895Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.43,
+      "pression": 71.71000000000001,
+      "niveau_eau": 15.815000000000001,
+      "humidite": 50.735,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:35:39.996Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.509999999999998,
+      "pression": 71.055,
+      "niveau_eau": 15.72,
+      "humidite": 51.224999999999994,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:35:45.097Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.53,
+      "pression": 71.155,
+      "niveau_eau": 16.1,
+      "humidite": 50.385000000000005,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:35:50.198Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.14,
+      "pression": 71.025,
+      "niveau_eau": 15.895,
+      "humidite": 50.585,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:35:55.299Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.875,
+      "pression": 71.515,
+      "niveau_eau": 15.51,
+      "humidite": 50.945,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:36:00.400Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.884999999999998,
+      "pression": 70.81,
+      "niveau_eau": 16.200000000000003,
+      "humidite": 50.72,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:36:05.501Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.185000000000002,
+      "pression": 70.92,
+      "niveau_eau": 16.095,
+      "humidite": 50.285,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:36:10.602Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.005000000000003,
+      "pression": 70.97999999999999,
+      "niveau_eau": 16.25,
+      "humidite": 50.269999999999996,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:36:15.701Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.71,
+      "pression": 70.745,
+      "niveau_eau": 15.875,
+      "humidite": 50.51,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:36:20.803Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.295,
+      "pression": 71.5,
+      "niveau_eau": 16.31,
+      "humidite": 50.935,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T09:36:25.903Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.55,
+      "pression": 70.58500000000001,
+      "niveau_eau": 16.31,
+      "humidite": 51.209999999999994,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:36:31.003Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.77,
+      "pression": 70.695,
+      "niveau_eau": 16.2,
+      "humidite": 51.095,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:36:36.104Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.92,
+      "pression": 70.95500000000001,
+      "niveau_eau": 16.36,
+      "humidite": 50.86,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:36:41.205Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.98,
+      "pression": 71.09,
+      "niveau_eau": 16.125,
+      "humidite": 51.09,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:36:46.307Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.174999999999997,
+      "pression": 71.505,
+      "niveau_eau": 16.205,
+      "humidite": 51.29,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:36:51.407Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.439999999999998,
+      "pression": 71.345,
+      "niveau_eau": 16.11,
+      "humidite": 50.835,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:36:56.508Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.895000000000003,
+      "pression": 70.775,
+      "niveau_eau": 16.585,
+      "humidite": 50.955,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:37:01.610Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.735,
+      "pression": 71.14,
+      "niveau_eau": 16.625,
+      "humidite": 51.55,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:37:06.710Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.134999999999998,
+      "pression": 70.705,
+      "niveau_eau": 16.405,
+      "humidite": 51.28,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:37:11.812Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.1,
+      "pression": 71.03,
+      "niveau_eau": 15.73,
+      "humidite": 50.540000000000006,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:37:16.912Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.365000000000002,
+      "pression": 70.915,
+      "niveau_eau": 15.935,
+      "humidite": 51.120000000000005,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:37:22.013Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.055,
+      "pression": 70.69999999999999,
+      "niveau_eau": 15.635000000000002,
+      "humidite": 50.97,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:37:27.114Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.005000000000003,
+      "pression": 70.805,
+      "niveau_eau": 16.45,
+      "humidite": 50.805,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:37:32.215Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.4,
+      "pression": 71.2,
+      "niveau_eau": 15.915,
+      "humidite": 50.82,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:37:37.315Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.740000000000002,
+      "pression": 71,
+      "niveau_eau": 15.59,
+      "humidite": 50.685,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:37:42.415Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.725,
+      "pression": 70.44,
+      "niveau_eau": 15.595,
+      "humidite": 50.6,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:37:47.516Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.97,
+      "pression": 70.39,
+      "niveau_eau": 16.355,
+      "humidite": 50.93,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:37:52.618Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.415,
+      "pression": 71.545,
+      "niveau_eau": 16.285,
+      "humidite": 51.239999999999995,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:37:57.719Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.63,
+      "pression": 70.995,
+      "niveau_eau": 15.27,
+      "humidite": 50.775,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:38:02.820Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.875,
+      "pression": 70.71000000000001,
+      "niveau_eau": 15.615,
+      "humidite": 50.965,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:38:07.920Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.125,
+      "pression": 70.95,
+      "niveau_eau": 15.850000000000001,
+      "humidite": 51.105000000000004,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:38:13.021Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.095,
+      "pression": 71.475,
+      "niveau_eau": 16.06,
+      "humidite": 50.9,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:38:18.122Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.32,
+      "pression": 70.43,
+      "niveau_eau": 15.63,
+      "humidite": 50.675,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:38:23.224Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.66,
+      "pression": 71.61,
+      "niveau_eau": 16.605,
+      "humidite": 51.045,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:38:28.324Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.865000000000002,
+      "pression": 70.74,
+      "niveau_eau": 16.384999999999998,
+      "humidite": 51.405,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:38:33.426Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.494999999999997,
+      "pression": 70.83000000000001,
+      "niveau_eau": 16.525,
+      "humidite": 50.7,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:38:38.526Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.535,
+      "pression": 70.91,
+      "niveau_eau": 16.47,
+      "humidite": 51.055,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:38:43.628Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.165,
+      "pression": 70.365,
+      "niveau_eau": 15.77,
+      "humidite": 50.595,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:38:48.729Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.5,
+      "pression": 70.75,
+      "niveau_eau": 16.09,
+      "humidite": 51.29,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:38:53.830Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.375,
+      "pression": 70.42,
+      "niveau_eau": 15.969999999999999,
+      "humidite": 50.644999999999996,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:38:58.931Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.44,
+      "pression": 70.6,
+      "niveau_eau": 16.21,
+      "humidite": 50.78,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:39:04.032Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.885,
+      "pression": 70.39500000000001,
+      "niveau_eau": 15.43,
+      "humidite": 51.459999999999994,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:39:09.133Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.315,
+      "pression": 70.47,
+      "niveau_eau": 16.32,
+      "humidite": 51.425,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:39:14.234Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.77,
+      "pression": 70.515,
+      "niveau_eau": 16.235,
+      "humidite": 51.94,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:39:19.335Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.805,
+      "pression": 70.97,
+      "niveau_eau": 15.97,
+      "humidite": 50.925,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:39:24.435Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.73,
+      "pression": 71.535,
+      "niveau_eau": 15.899999999999999,
+      "humidite": 51.42,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T09:39:29.536Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.58,
+      "pression": 70.63499999999999,
+      "niveau_eau": 15.965,
+      "humidite": 51.144999999999996,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:39:34.636Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.765,
+      "pression": 71.21000000000001,
+      "niveau_eau": 16.015,
+      "humidite": 51.1,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:39:39.736Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.09,
+      "pression": 70.44,
+      "niveau_eau": 16.345,
+      "humidite": 50.47,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:39:44.837Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.455,
+      "pression": 71.055,
+      "niveau_eau": 16.61,
+      "humidite": 51.245000000000005,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:39:49.938Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.595,
+      "pression": 70.96000000000001,
+      "niveau_eau": 15.68,
+      "humidite": 50.435,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:39:55.039Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.085,
+      "pression": 70.88,
+      "niveau_eau": 16.575,
+      "humidite": 51.47,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T09:40:00.139Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.52,
+      "pression": 70.59,
+      "niveau_eau": 16.025,
+      "humidite": 50.775,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:40:05.240Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.025,
+      "pression": 70.815,
+      "niveau_eau": 16.36,
+      "humidite": 51.084999999999994,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:40:10.341Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.015,
+      "pression": 70.985,
+      "niveau_eau": 15.355,
+      "humidite": 51.115,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:40:15.442Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.39,
+      "pression": 71.225,
+      "niveau_eau": 15.495000000000001,
+      "humidite": 50.614999999999995,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T09:40:20.543Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.29,
+      "pression": 71.32499999999999,
+      "niveau_eau": 16.375,
+      "humidite": 50.655,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:40:25.644Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.225,
+      "pression": 71.515,
+      "niveau_eau": 16.14,
+      "humidite": 51.55,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:40:30.744Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.700000000000003,
+      "pression": 71.3,
+      "niveau_eau": 15.879999999999999,
+      "humidite": 50.54,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:40:35.846Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.865000000000002,
+      "pression": 70.795,
+      "niveau_eau": 16.805,
+      "humidite": 50.565,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:40:40.946Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.045,
+      "pression": 70.66,
+      "niveau_eau": 15.524999999999999,
+      "humidite": 51.010000000000005,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:40:46.047Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.45,
+      "pression": 70.435,
+      "niveau_eau": 15.825000000000001,
+      "humidite": 51.105,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:40:51.148Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.6,
+      "pression": 70.16,
+      "niveau_eau": 15.885000000000002,
+      "humidite": 51.435,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:40:56.249Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.564999999999998,
+      "pression": 70.92,
+      "niveau_eau": 15.67,
+      "humidite": 51.650000000000006,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:41:01.349Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.985,
+      "pression": 70.18,
+      "niveau_eau": 15.96,
+      "humidite": 50.835,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:41:06.450Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.740000000000002,
+      "pression": 70.89,
+      "niveau_eau": 15.585,
+      "humidite": 51.230000000000004,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:41:11.551Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.22,
+      "pression": 71.13,
+      "niveau_eau": 15.535,
+      "humidite": 50.34,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:41:16.651Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.990000000000002,
+      "pression": 71.735,
+      "niveau_eau": 16.02,
+      "humidite": 50.545,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:41:21.751Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.479999999999997,
+      "pression": 71.2,
+      "niveau_eau": 15.835,
+      "humidite": 50.635000000000005,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:41:26.852Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.725,
+      "pression": 70.995,
+      "niveau_eau": 15.565000000000001,
+      "humidite": 51.745,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T09:41:31.954Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.990000000000002,
+      "pression": 70.33500000000001,
+      "niveau_eau": 16.450000000000003,
+      "humidite": 50.980000000000004,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:41:37.055Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.33,
+      "pression": 71.345,
+      "niveau_eau": 15.475,
+      "humidite": 51.34,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:41:42.155Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.045,
+      "pression": 70.975,
+      "niveau_eau": 16.365000000000002,
+      "humidite": 50.775,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:41:47.255Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.185000000000002,
+      "pression": 70.34,
+      "niveau_eau": 16.26,
+      "humidite": 51.655,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:41:52.355Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.705,
+      "pression": 70.22,
+      "niveau_eau": 16.05,
+      "humidite": 50.41,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:41:57.457Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.525,
+      "pression": 71.53999999999999,
+      "niveau_eau": 15.875,
+      "humidite": 50.975,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T09:42:02.559Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
   }
 ]
