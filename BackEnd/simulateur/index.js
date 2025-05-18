@@ -60,7 +60,7 @@ function generateCapteurs(mode, capteurIds) {
         temperature: +(20 + Math.random()).toFixed(2),
         pression: +(65 + Math.random()).toFixed(2),
         niveau_eau: index === 2
-          ? +(15 + Math.random() * 10).toFixed(2) // incohérent
+          ? +(15 + Math.random() * 10).toFixed(2) 
           : +(5 + Math.random()).toFixed(2),
         humidite: +(55 + Math.random()).toFixed(2),
       }));

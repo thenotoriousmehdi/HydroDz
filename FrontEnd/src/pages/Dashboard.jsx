@@ -78,17 +78,17 @@ const DamCard = ({ dam }) => {
         <div className="grid grid-cols-2 gap-4 mb-4">
           <div className="flex flex-col">
             <span className="text-sm text-gray-500">Temperature</span>
-            <span className="text-xl font-semibold text-gray-900">{barrageData.temperature}°C</span>
+            <span className="text-xl font-semibold text-gray-900">{barrageData.temperature.toFixed(3)}°C</span>
           </div>
           <div className="flex flex-col">
             <span className="text-sm text-gray-500">Water Level</span>
-            <span className="text-xl font-semibold text-gray-900">{barrageData.niveau_eau}m</span>
+            <span className="text-xl font-semibold text-gray-900">{barrageData.niveau_eau.toFixed(3)}m</span>
           </div>
         </div>
 
         <div className="space-y-3">
-          <Gauge value={barrageData.humidite} max={100} label="Humidity" unit="%" color="bg-cyan-700" />
-          <Gauge value={barrageData.pression} max={1030} label="Pressure" unit="hPa" color="bg-cyan-700" />
+          <Gauge value={barrageData.humidite.toFixed(3) } max={100} label="Humidity" unit="%" color="bg-cyan-700" />
+          <Gauge value={barrageData.pression.toFixed(3)} max={1030} label="Pressure" unit="hPa" color="bg-cyan-700" />
         </div>
 
         <div className="mt-4 text-xs text-gray-500">Last updated: {formatDate(barrageData.timestamp)}</div>
@@ -129,7 +129,7 @@ const getDamNameById = (id) => {
   return damNames[id] || `Dam ${id}`;
 };
 
-// Helper function to get location from wilaya
+
 const getLocationByWilaya = (wilaya) => {
   return wilaya || "Unknown";
 };
@@ -161,21 +161,21 @@ function DamMonitoring() {
     }
   };
 
-  // Set up interval to fetch data every 5 seconds
+  
   useEffect(() => {
-    // Initial fetch
+  
     fetchDamData();
 
-    // Set up interval for subsequent fetches
+
     const intervalId = setInterval(() => {
       fetchDamData();
     }, 5000);
 
-    // Clear interval on component unmount
+
     return () => clearInterval(intervalId);
   }, []);
 
-  // Filter dams based on search query
+  
   const filteredDams = damsData.filter(
     (dam) => {
       const damId = dam.valeurs?.barrageId || "";
@@ -188,7 +188,7 @@ function DamMonitoring() {
     }
   );
 
-  // Count dams by status
+  
   const statusCounts = damsData.reduce(
     (acc, dam) => {
       acc[dam.status] = (acc[dam.status] || 0) + 1;
@@ -240,7 +240,7 @@ function DamMonitoring() {
                   onClick={() => setUserMenuOpen(!userMenuOpen)}
                 >
                   <div className="h-8 w-8 rounded-full bg-cyan-700 flex items-center justify-center text-white">
-                    <span>AD</span>
+                    <span>MM</span>
                   </div>
                 </button>
 
@@ -278,36 +278,8 @@ function DamMonitoring() {
             >
               Overview
             </button>
-            <button
-              className={`${
-                activeTab === "alerts"
-                  ? "border-cyan-700 text-cyan-700"
-                  : "border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300"
-              } whitespace-nowrap py-4 px-1 border-b-2 font-medium text-sm transition-all duration-200`}
-              onClick={() => setActiveTab("alerts")}
-            >
-              Alerts
-            </button>
-            <button
-              className={`${
-                activeTab === "reports"
-                  ? "border-cyan-700 text-cyan-700"
-                  : "border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300"
-              } whitespace-nowrap py-4 px-1 border-b-2 font-medium text-sm transition-all duration-200`}
-              onClick={() => setActiveTab("reports")}
-            >
-              Reports
-            </button>
-            <button
-              className={`${
-                activeTab === "settings"
-                  ? "border-cyan-700 text-cyan-700"
-                  : "border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300"
-              } whitespace-nowrap py-4 px-1 border-b-2 font-medium text-sm transition-all duration-200`}
-              onClick={() => setActiveTab("settings")}
-            >
-              Settings
-            </button>
+           
+        
           </nav>
         </div>
 
