@@ -1,0 +1,27 @@
+{
+  "high": [],
+  "medium": [
+    {
+      "data": {
+        "status": "warning",
+        "valeurs": {
+          "temperature": 21.05,
+          "pression": 71.21000000000001,
+          "niveau_eau": 15.925,
+          "humidite": 51.144999999999996,
+          "confiance": "faible",
+          "timestamp": "2025-05-18T10:22:00.335Z",
+          "barrageId": "DAM002",
+          "wilaya": "Blida"
+        }
+      },
+      "metadata": {
+        "timestamp": "2025-05-18T10:22:00.356Z",
+        "attempts": 0,
+        "priority": "medium",
+        "barrageId": "DAM002"
+      }
+    }
+  ],
+  "timestamp": "2025-05-18T10:22:00.357Z"
+}

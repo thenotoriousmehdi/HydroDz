@@ -1,7 +1,7 @@
 const axios = require("axios");
 
 // Choisis ici le mode : "valide" | "moins2valides" | "incoherent"
-const mode = "incoherent"; // 🔁 modifie cette variable pour la démo
+const mode = "valide"; //  modifie cette variable pour la démo
 
 const barrages = [
   { id: "DAM001", wilaya: "Alger", min: 0, max: 100 },

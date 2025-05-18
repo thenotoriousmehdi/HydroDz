@@ -18,7 +18,7 @@ async function start() {
   await consumer.run({
     eachMessage: async ({ message }) => {
       const data = JSON.parse(message.value.toString());
-      console.log("📥 Reçu:", data);
+      console.log("Reçu:", data);
       saveData(data);
     },
   });
