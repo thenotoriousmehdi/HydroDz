@@ -277,10 +277,10 @@ class QueueManager {
       }));
       
       // Envoi à Kafka (implémentation à compléter)
-      // await this.producer.send({
-      //   topic: "barrage-data",
-      //   messages: kafkaMessages
-      // });
+      await this.producer.send({
+        topic: "barrage-data",
+        messages: kafkaMessages
+      });
       
       // Mise à jour des statistiques
       this.status.stats.processed += batch.length;
@@ -444,26 +444,10 @@ async function setupKafka() {
 
 app.post("/filtrer", async (req, res) => {
   saveData(req.body);
-  // try {
-  // //  console.log("Données reçues:", req.body);
-  //  const result = pipeFilter(req.body);
-  //   console.log("Données traitées:", result);
-  //   await producer.send({
-  //     topic: "barrage-data",
-  //     messages: [{ value: JSON.stringify(result) }], 
-  //   });
-
-  //   res.send("Données traitées et envoyées"); 
-
-  // } catch (error) {
-  //   res.status(400).send(" Erreur de traitement : " + error.message);
-  //   console.error("Erreur de traitement:", error);
-  // }
+  
   try {
-    // Pipeline de filtrage existant (votre code actuel)
     const result = pipeFilter(req.body);
     
-    // Au lieu d'envoyer directement à Kafka, passer par le gestionnaire de files
     const queueStatus = queueManager.enqueue(result);
     
     res.json({
