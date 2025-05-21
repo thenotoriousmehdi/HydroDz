@@ -4,7 +4,7 @@ HydroDz is a comprehensive water management system designed to monitor and manag
 
 ## Pictures
 
-![System Overview](./Screenshot 2025-05-18 at 21.04.33.png)
+![System Overview](./DashboardPic.png)
 
 
 ## Features
