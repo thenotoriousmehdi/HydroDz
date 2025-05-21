@@ -3,7 +3,9 @@
 HydroDz is a comprehensive water management system designed to monitor and manage water resources, particularly focusing on dam monitoring and water quality analysis. The system provides real-time monitoring, data visualization, and analysis tools for water management professionals.
 
 ## Pictures
-![Architecture Overview](Screenshot-2025-05-18.png)
+
+![System Overview](./Screenshot 2025-05-18 at 21.04.33.png)
+
 
 ## Features
 
