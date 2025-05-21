@@ -10502,5 +10502,5946 @@
       "barrageId": "DAM005",
       "wilaya": "Annaba"
     }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.479999999999997,
+      "pression": 71.375,
+      "niveau_eau": 16.34,
+      "humidite": 50.989999999999995,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T12:18:05.496Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.805,
+      "pression": 71.19,
+      "niveau_eau": 15.879999999999999,
+      "humidite": 51.405,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:18:10.598Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.265,
+      "pression": 71.01,
+      "niveau_eau": 15.345,
+      "humidite": 50.53,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:18:15.699Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.564999999999998,
+      "pression": 70.985,
+      "niveau_eau": 15.934999999999999,
+      "humidite": 51.305,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:18:20.801Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.535,
+      "pression": 70.715,
+      "niveau_eau": 15.355,
+      "humidite": 51.445,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:18:25.902Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.375,
+      "pression": 71.77000000000001,
+      "niveau_eau": 15.84,
+      "humidite": 51.144999999999996,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:18:31.002Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.424999999999997,
+      "pression": 71.11500000000001,
+      "niveau_eau": 15.415,
+      "humidite": 51.379999999999995,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:18:36.103Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.445,
+      "pression": 70.185,
+      "niveau_eau": 15.445,
+      "humidite": 51.32,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:18:41.203Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.45,
+      "pression": 70.71000000000001,
+      "niveau_eau": 15.41,
+      "humidite": 50.63,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:18:46.305Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.285,
+      "pression": 71.38,
+      "niveau_eau": 16.729999999999997,
+      "humidite": 51.22,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:18:51.406Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.035,
+      "pression": 71.5,
+      "niveau_eau": 16.384999999999998,
+      "humidite": 51,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:18:56.506Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.02,
+      "pression": 71.12,
+      "niveau_eau": 16.47,
+      "humidite": 50.685,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:19:01.607Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.47,
+      "pression": 71.445,
+      "niveau_eau": 15.504999999999999,
+      "humidite": 51.025,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:19:06.708Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.240000000000002,
+      "pression": 71.08,
+      "niveau_eau": 16.525,
+      "humidite": 50.915,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:19:11.809Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.439999999999998,
+      "pression": 71.41,
+      "niveau_eau": 15.82,
+      "humidite": 51.39,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:19:16.910Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.57,
+      "pression": 70.78,
+      "niveau_eau": 16.095,
+      "humidite": 50.945,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:19:22.010Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.17,
+      "pression": 71.215,
+      "niveau_eau": 16.035,
+      "humidite": 51.085,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T12:19:27.110Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.835,
+      "pression": 70.565,
+      "niveau_eau": 15.68,
+      "humidite": 50.64,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:19:32.211Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.67,
+      "pression": 70.82,
+      "niveau_eau": 16.134999999999998,
+      "humidite": 50.805,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T12:19:37.312Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.810000000000002,
+      "pression": 70.94,
+      "niveau_eau": 15.68,
+      "humidite": 50.955,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T12:19:42.412Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.2,
+      "pression": 71.315,
+      "niveau_eau": 16.185000000000002,
+      "humidite": 50.885000000000005,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:19:47.513Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.41,
+      "pression": 71.33000000000001,
+      "niveau_eau": 15.575,
+      "humidite": 51.599999999999994,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:19:52.615Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.365,
+      "pression": 71.4,
+      "niveau_eau": 15.81,
+      "humidite": 50.63,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:19:57.715Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.005000000000003,
+      "pression": 71.085,
+      "niveau_eau": 16.439999999999998,
+      "humidite": 51.135,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:20:02.816Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.87,
+      "pression": 71.13499999999999,
+      "niveau_eau": 15.844999999999999,
+      "humidite": 51,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T12:20:07.918Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.259999999999998,
+      "pression": 70.695,
+      "niveau_eau": 16.32,
+      "humidite": 51.355000000000004,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T12:20:13.018Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.39,
+      "pression": 71.535,
+      "niveau_eau": 15.8,
+      "humidite": 51.295,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T12:20:18.120Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.085,
+      "pression": 70.975,
+      "niveau_eau": 15.355,
+      "humidite": 51.555,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:20:23.221Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.57,
+      "pression": 71.315,
+      "niveau_eau": 16.495,
+      "humidite": 50.445,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:20:28.320Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.880000000000003,
+      "pression": 71.44,
+      "niveau_eau": 16.365000000000002,
+      "humidite": 50.185,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:20:33.421Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.675,
+      "pression": 71.05,
+      "niveau_eau": 15.915,
+      "humidite": 51.33,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T12:20:38.523Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.625,
+      "pression": 71.37,
+      "niveau_eau": 15.55,
+      "humidite": 50.74,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:20:43.624Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.9,
+      "pression": 70.185,
+      "niveau_eau": 16.025000000000002,
+      "humidite": 51.76,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:20:48.724Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.729999999999997,
+      "pression": 70.62,
+      "niveau_eau": 16.115000000000002,
+      "humidite": 51.325,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:20:53.824Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.32,
+      "pression": 70.155,
+      "niveau_eau": 16.255,
+      "humidite": 51.260000000000005,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:20:58.924Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.42,
+      "pression": 71.23,
+      "niveau_eau": 15.780000000000001,
+      "humidite": 50.86,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:21:04.025Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.985,
+      "pression": 70.83000000000001,
+      "niveau_eau": 16.049999999999997,
+      "humidite": 51.61,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:21:09.126Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.755000000000003,
+      "pression": 70.425,
+      "niveau_eau": 15.35,
+      "humidite": 51.81,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:21:14.226Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.475,
+      "pression": 71.07,
+      "niveau_eau": 15.879999999999999,
+      "humidite": 50.855000000000004,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:21:19.326Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.555,
+      "pression": 71.5,
+      "niveau_eau": 15.915,
+      "humidite": 50.89,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:21:24.427Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.365000000000002,
+      "pression": 71.755,
+      "niveau_eau": 16.665,
+      "humidite": 51.325,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:21:29.528Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.685000000000002,
+      "pression": 70.86500000000001,
+      "niveau_eau": 15.67,
+      "humidite": 50.754999999999995,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:21:34.628Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.835,
+      "pression": 71.11500000000001,
+      "niveau_eau": 16.035,
+      "humidite": 50.82,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T12:21:39.730Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.950000000000003,
+      "pression": 70.735,
+      "niveau_eau": 15.865,
+      "humidite": 50.765,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:21:44.831Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.405,
+      "pression": 70.765,
+      "niveau_eau": 15.86,
+      "humidite": 50.765,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:21:49.931Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.115000000000002,
+      "pression": 70.805,
+      "niveau_eau": 16.4,
+      "humidite": 50.995000000000005,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T12:21:55.033Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.060000000000002,
+      "pression": 70.64,
+      "niveau_eau": 16.11,
+      "humidite": 51.405,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:22:00.134Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.82,
+      "pression": 71.11500000000001,
+      "niveau_eau": 16.71,
+      "humidite": 50.849999999999994,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T12:22:05.235Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.25,
+      "pression": 71.375,
+      "niveau_eau": 15.815000000000001,
+      "humidite": 50.41,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:22:10.337Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.685000000000002,
+      "pression": 70.46000000000001,
+      "niveau_eau": 16.33,
+      "humidite": 50.44,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:22:15.439Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.2,
+      "pression": 70.77000000000001,
+      "niveau_eau": 15.815000000000001,
+      "humidite": 51.035,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:22:20.539Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.775,
+      "pression": 70.88,
+      "niveau_eau": 15.945,
+      "humidite": 50.754999999999995,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:22:25.642Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.985,
+      "pression": 71.14,
+      "niveau_eau": 16.525,
+      "humidite": 51.224999999999994,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T12:22:30.743Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.015,
+      "pression": 71.36,
+      "niveau_eau": 16.555,
+      "humidite": 51.265,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:35:15.205Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.060000000000002,
+      "pression": 71.03,
+      "niveau_eau": 16.555,
+      "humidite": 50.334999999999994,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:35:20.306Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.3,
+      "pression": 71.25,
+      "niveau_eau": 16.06,
+      "humidite": 50.545,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:35:25.407Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.775,
+      "pression": 71.215,
+      "niveau_eau": 16.075,
+      "humidite": 51.26,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:35:30.508Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.98,
+      "pression": 70.895,
+      "niveau_eau": 15.375,
+      "humidite": 50.33,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:35:35.610Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.99,
+      "pression": 70.525,
+      "niveau_eau": 15.395,
+      "humidite": 50.71,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:35:40.710Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.115000000000002,
+      "pression": 70.96000000000001,
+      "niveau_eau": 15.884999999999998,
+      "humidite": 51.480000000000004,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:35:45.811Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.445,
+      "pression": 70.855,
+      "niveau_eau": 15.59,
+      "humidite": 50.665,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:35:50.913Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.509999999999998,
+      "pression": 71.45500000000001,
+      "niveau_eau": 15.665,
+      "humidite": 50.44,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:35:56.013Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.130000000000003,
+      "pression": 71.06,
+      "niveau_eau": 15.92,
+      "humidite": 50.83,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:36:01.113Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.15,
+      "pression": 70.5,
+      "niveau_eau": 16.565,
+      "humidite": 50.555,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:36:06.214Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.155,
+      "pression": 70.78999999999999,
+      "niveau_eau": 15.17,
+      "humidite": 51.1,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T12:36:11.315Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.5,
+      "pression": 71.50999999999999,
+      "niveau_eau": 16.884999999999998,
+      "humidite": 50.879999999999995,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:36:16.417Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.134999999999998,
+      "pression": 70.775,
+      "niveau_eau": 15.495,
+      "humidite": 50.445,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:36:21.518Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.93,
+      "pression": 71.65,
+      "niveau_eau": 15.899999999999999,
+      "humidite": 50.955,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:36:26.618Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.255000000000003,
+      "pression": 70.955,
+      "niveau_eau": 16.465,
+      "humidite": 50.66,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:36:31.719Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.95,
+      "pression": 71.495,
+      "niveau_eau": 16.009999999999998,
+      "humidite": 51.72,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:36:36.820Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.9,
+      "pression": 71.345,
+      "niveau_eau": 15.495000000000001,
+      "humidite": 51.205,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:36:41.920Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.855,
+      "pression": 70.65,
+      "niveau_eau": 16.235,
+      "humidite": 50.88,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:36:47.021Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.975,
+      "pression": 70.515,
+      "niveau_eau": 16.299999999999997,
+      "humidite": 50.495,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T12:36:52.122Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.18,
+      "pression": 70.995,
+      "niveau_eau": 15.355,
+      "humidite": 50.900000000000006,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:36:57.223Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.494999999999997,
+      "pression": 71.375,
+      "niveau_eau": 15.985,
+      "humidite": 50.18,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:37:02.324Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.055,
+      "pression": 70.875,
+      "niveau_eau": 15.34,
+      "humidite": 50.605000000000004,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:37:07.425Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.025,
+      "pression": 71.255,
+      "niveau_eau": 16.475,
+      "humidite": 51.185,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:37:12.526Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.115000000000002,
+      "pression": 70.92,
+      "niveau_eau": 15.969999999999999,
+      "humidite": 51.045,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T12:37:17.626Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.18,
+      "pression": 71.11500000000001,
+      "niveau_eau": 15.915,
+      "humidite": 51.185,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:37:22.727Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.695,
+      "pression": 70.745,
+      "niveau_eau": 16.67,
+      "humidite": 50.260000000000005,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:37:27.827Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.335,
+      "pression": 70.89500000000001,
+      "niveau_eau": 15.899999999999999,
+      "humidite": 51.15,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:37:32.928Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.189999999999998,
+      "pression": 70.375,
+      "niveau_eau": 16.15,
+      "humidite": 50.745,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:37:38.029Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.994999999999997,
+      "pression": 71.11500000000001,
+      "niveau_eau": 16.195,
+      "humidite": 51.415,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:37:43.129Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.810000000000002,
+      "pression": 71.43,
+      "niveau_eau": 16.35,
+      "humidite": 50.695,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T12:37:48.230Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.880000000000003,
+      "pression": 70.61500000000001,
+      "niveau_eau": 16.05,
+      "humidite": 51.315,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:37:53.330Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.6,
+      "pression": 70.695,
+      "niveau_eau": 16.27,
+      "humidite": 51.790000000000006,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:37:58.430Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.875,
+      "pression": 70.86500000000001,
+      "niveau_eau": 16.23,
+      "humidite": 51.364999999999995,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:38:03.531Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.835,
+      "pression": 70.84,
+      "niveau_eau": 15.415,
+      "humidite": 50.81,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T12:38:08.632Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.625,
+      "pression": 70.68,
+      "niveau_eau": 16.68,
+      "humidite": 50.985,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:38:13.733Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.854999999999997,
+      "pression": 71.22999999999999,
+      "niveau_eau": 15.879999999999999,
+      "humidite": 51.474999999999994,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:38:18.834Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.79,
+      "pression": 71.21000000000001,
+      "niveau_eau": 16.175,
+      "humidite": 50.74,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:38:23.934Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.435,
+      "pression": 71.785,
+      "niveau_eau": 16.28,
+      "humidite": 51.085,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:38:29.035Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.335,
+      "pression": 70.795,
+      "niveau_eau": 15.57,
+      "humidite": 50.695,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:38:34.136Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.52,
+      "pression": 71.175,
+      "niveau_eau": 15.649999999999999,
+      "humidite": 51.105000000000004,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:38:39.237Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.52,
+      "pression": 71.175,
+      "niveau_eau": 15.649999999999999,
+      "humidite": 51.105000000000004,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:38:39.237Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.445,
+      "pression": 71.21000000000001,
+      "niveau_eau": 16.145,
+      "humidite": 51.2,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:38:44.338Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.505,
+      "pression": 70.845,
+      "niveau_eau": 15.934999999999999,
+      "humidite": 50.855,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:38:49.438Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.255,
+      "pression": 70.88999999999999,
+      "niveau_eau": 16.22,
+      "humidite": 51.56,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:38:54.539Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.82,
+      "pression": 70.83500000000001,
+      "niveau_eau": 16.21,
+      "humidite": 51.275000000000006,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:38:59.640Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.689999999999998,
+      "pression": 71.015,
+      "niveau_eau": 15.645,
+      "humidite": 51.055,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:39:04.740Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.355,
+      "pression": 71.18,
+      "niveau_eau": 16.240000000000002,
+      "humidite": 50.84,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:39:09.841Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.935000000000002,
+      "pression": 71.255,
+      "niveau_eau": 15.600000000000001,
+      "humidite": 51.385,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:39:14.941Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.93,
+      "pression": 71.19,
+      "niveau_eau": 16.11,
+      "humidite": 50.91,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:39:20.042Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.29,
+      "pression": 70.68,
+      "niveau_eau": 15.965,
+      "humidite": 51.185,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T12:39:25.143Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.924999999999997,
+      "pression": 71.515,
+      "niveau_eau": 16.479999999999997,
+      "humidite": 51.285,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T12:39:30.244Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.46,
+      "pression": 71.11,
+      "niveau_eau": 16.25,
+      "humidite": 51.394999999999996,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T12:39:35.345Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.11,
+      "pression": 70.905,
+      "niveau_eau": 15.91,
+      "humidite": 51.724999999999994,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:39:40.446Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.095,
+      "pression": 70.93,
+      "niveau_eau": 16.255000000000003,
+      "humidite": 50.54,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:39:45.546Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.68,
+      "pression": 70.37,
+      "niveau_eau": 15.715,
+      "humidite": 50.27,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:39:50.647Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.700000000000003,
+      "pression": 71.48,
+      "niveau_eau": 16.16,
+      "humidite": 51.36,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:39:55.747Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.395,
+      "pression": 71.32499999999999,
+      "niveau_eau": 15.7,
+      "humidite": 50.62,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:40:00.849Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.995,
+      "pression": 70.635,
+      "niveau_eau": 15.755,
+      "humidite": 51.18,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:40:05.948Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.39,
+      "pression": 70.935,
+      "niveau_eau": 15.925,
+      "humidite": 51.18000000000001,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:40:11.050Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.04,
+      "pression": 70.705,
+      "niveau_eau": 16.45,
+      "humidite": 51.47,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:40:16.150Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.27,
+      "pression": 70.25,
+      "niveau_eau": 16.015,
+      "humidite": 50.83,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:40:21.251Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.355,
+      "pression": 70.60499999999999,
+      "niveau_eau": 16.3,
+      "humidite": 51.129999999999995,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:40:26.353Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.785,
+      "pression": 71.81,
+      "niveau_eau": 16.09,
+      "humidite": 50.765,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:40:31.453Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.240000000000002,
+      "pression": 70.83500000000001,
+      "niveau_eau": 16.03,
+      "humidite": 51.239999999999995,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:40:36.554Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.810000000000002,
+      "pression": 70.29499999999999,
+      "niveau_eau": 16.095,
+      "humidite": 51.345,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:40:41.655Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.765,
+      "pression": 71.045,
+      "niveau_eau": 16.485,
+      "humidite": 51.17,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T12:40:46.756Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.71,
+      "pression": 70.99000000000001,
+      "niveau_eau": 15.475,
+      "humidite": 50.285,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T12:40:51.856Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.535,
+      "pression": 70.74000000000001,
+      "niveau_eau": 16.02,
+      "humidite": 50.3,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:40:56.957Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.27,
+      "pression": 70.97,
+      "niveau_eau": 15.675,
+      "humidite": 51.365,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:41:02.058Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.259999999999998,
+      "pression": 70.79499999999999,
+      "niveau_eau": 15.870000000000001,
+      "humidite": 51.095,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:41:07.159Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.655,
+      "pression": 70.77000000000001,
+      "niveau_eau": 15.98,
+      "humidite": 51.065,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:41:12.260Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.384999999999998,
+      "pression": 70.72999999999999,
+      "niveau_eau": 15.79,
+      "humidite": 50.519999999999996,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:41:17.360Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.189999999999998,
+      "pression": 71.555,
+      "niveau_eau": 15.36,
+      "humidite": 50.76,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:41:22.462Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.735,
+      "pression": 70.625,
+      "niveau_eau": 15.73,
+      "humidite": 50.96,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T12:41:27.564Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.189999999999998,
+      "pression": 71.305,
+      "niveau_eau": 15.535,
+      "humidite": 50.18,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T12:41:32.665Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.82,
+      "pression": 71.045,
+      "niveau_eau": 15.635,
+      "humidite": 51.42,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:41:37.766Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.065,
+      "pression": 71.1,
+      "niveau_eau": 16.36,
+      "humidite": 51.7,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:41:42.868Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.85,
+      "pression": 70.685,
+      "niveau_eau": 16.165,
+      "humidite": 50.53,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T12:41:47.968Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.295,
+      "pression": 70.81,
+      "niveau_eau": 15.18,
+      "humidite": 50.620000000000005,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:41:53.070Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.93,
+      "pression": 70.39,
+      "niveau_eau": 16.405,
+      "humidite": 51.06,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T12:41:58.172Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.235,
+      "pression": 70.77,
+      "niveau_eau": 16.235,
+      "humidite": 50.95,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:42:03.274Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.57,
+      "pression": 71.41499999999999,
+      "niveau_eau": 16.365000000000002,
+      "humidite": 51.375,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:42:08.375Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.775,
+      "pression": 70.765,
+      "niveau_eau": 15.455,
+      "humidite": 51.22,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T12:42:13.476Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.34,
+      "pression": 71.285,
+      "niveau_eau": 15.465,
+      "humidite": 51.295,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:42:18.578Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.060000000000002,
+      "pression": 71.025,
+      "niveau_eau": 15.780000000000001,
+      "humidite": 50.44,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:42:42.018Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.92,
+      "pression": 71.185,
+      "niveau_eau": 15.31,
+      "humidite": 51.01,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:42:47.119Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.235,
+      "pression": 70.82,
+      "niveau_eau": 15.415,
+      "humidite": 51.22,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:42:52.221Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.07,
+      "pression": 71.50999999999999,
+      "niveau_eau": 15.690000000000001,
+      "humidite": 50.715,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T12:42:57.316Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.06,
+      "pression": 71.00999999999999,
+      "niveau_eau": 16.479999999999997,
+      "humidite": 50.59,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T12:43:02.411Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.240000000000002,
+      "pression": 70.875,
+      "niveau_eau": 15.695,
+      "humidite": 51.44,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T12:43:07.507Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.549999999999997,
+      "pression": 71.045,
+      "niveau_eau": 16.62,
+      "humidite": 50.53,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:43:12.606Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.955,
+      "pression": 70.76,
+      "niveau_eau": 15.77,
+      "humidite": 50.980000000000004,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T12:43:17.705Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.64,
+      "pression": 71.11500000000001,
+      "niveau_eau": 16.740000000000002,
+      "humidite": 51.144999999999996,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T13:00:15.268Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.259999999999998,
+      "pression": 70.955,
+      "niveau_eau": 15.58,
+      "humidite": 50.68000000000001,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:02:51.337Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.68,
+      "pression": 71.07,
+      "niveau_eau": 16.39,
+      "humidite": 50.44,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:02:56.437Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.61,
+      "pression": 70.555,
+      "niveau_eau": 15.899999999999999,
+      "humidite": 50.51,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:04:01.470Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.450000000000003,
+      "pression": 71.205,
+      "niveau_eau": 16.03,
+      "humidite": 50.709999999999994,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:04:06.571Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.51,
+      "pression": 70.485,
+      "niveau_eau": 15.46,
+      "humidite": 51.004999999999995,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:04:11.673Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.98,
+      "pression": 71.75,
+      "niveau_eau": 16.479999999999997,
+      "humidite": 51.075,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:04:16.775Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.045,
+      "pression": 70.975,
+      "niveau_eau": 15.805,
+      "humidite": 50.900000000000006,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:05:21.179Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.435000000000002,
+      "pression": 70.61500000000001,
+      "niveau_eau": 15.715,
+      "humidite": 51.035,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:05:26.279Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.65,
+      "pression": 71.53,
+      "niveau_eau": 15.26,
+      "humidite": 51.010000000000005,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T13:06:26.463Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.115000000000002,
+      "pression": 70.92500000000001,
+      "niveau_eau": 15.32,
+      "humidite": 51.3,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:06:31.564Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.73,
+      "pression": 70.77,
+      "niveau_eau": 15.919999999999998,
+      "humidite": 50.584999999999994,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:07:32.462Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.17,
+      "pression": 71.27000000000001,
+      "niveau_eau": 16.385,
+      "humidite": 50.635,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:07:37.563Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.545,
+      "pression": 70.83000000000001,
+      "niveau_eau": 15.830000000000002,
+      "humidite": 51.209999999999994,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:08:38.466Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.35,
+      "pression": 71.555,
+      "niveau_eau": 15.655000000000001,
+      "humidite": 51.465,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:08:43.566Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.689999999999998,
+      "pression": 71.225,
+      "niveau_eau": 15.46,
+      "humidite": 51.67,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:10:02.781Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.25,
+      "pression": 71.295,
+      "niveau_eau": 15.8,
+      "humidite": 50.7,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T13:10:07.882Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.29,
+      "pression": 70.74000000000001,
+      "niveau_eau": 15.26,
+      "humidite": 50.84,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:10:12.983Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.33,
+      "pression": 71.035,
+      "niveau_eau": 15.465,
+      "humidite": 50.72,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:11:14.466Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.09,
+      "pression": 71.065,
+      "niveau_eau": 15.52,
+      "humidite": 51.05,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:11:19.566Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.43,
+      "pression": 71.27,
+      "niveau_eau": 15.530000000000001,
+      "humidite": 51.599999999999994,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T13:11:24.667Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.105,
+      "pression": 70.73,
+      "niveau_eau": 15.585,
+      "humidite": 50.79,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:12:25.454Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.965,
+      "pression": 70.88,
+      "niveau_eau": 15.82,
+      "humidite": 51.144999999999996,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:12:30.556Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.58,
+      "pression": 71.24000000000001,
+      "niveau_eau": 16.240000000000002,
+      "humidite": 51.325,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:13:27.478Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.465,
+      "pression": 70.845,
+      "niveau_eau": 16.259999999999998,
+      "humidite": 50.540000000000006,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:13:32.578Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.55,
+      "pression": 71.215,
+      "niveau_eau": 15.864999999999998,
+      "humidite": 51.239999999999995,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T13:13:57.171Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.5,
+      "pression": 71.07,
+      "niveau_eau": 15.975,
+      "humidite": 51.09,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:14:02.271Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.244999999999997,
+      "pression": 71.18,
+      "niveau_eau": 15.235,
+      "humidite": 51.31999999999999,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:15:49.085Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.725,
+      "pression": 71.11500000000001,
+      "niveau_eau": 15.385,
+      "humidite": 50.870000000000005,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T13:15:54.185Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.619999999999997,
+      "pression": 71.14,
+      "niveau_eau": 16.405,
+      "humidite": 50.405,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:15:59.287Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.615000000000002,
+      "pression": 70.22,
+      "niveau_eau": 15.98,
+      "humidite": 50.80500000000001,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:17:32.744Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.245,
+      "pression": 70.72,
+      "niveau_eau": 16.21,
+      "humidite": 50.8,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:17:37.845Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.675,
+      "pression": 70.665,
+      "niveau_eau": 16.674999999999997,
+      "humidite": 50.715,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T13:17:42.945Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.505000000000003,
+      "pression": 71.325,
+      "niveau_eau": 15.91,
+      "humidite": 51.415,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:18:06.841Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.515,
+      "pression": 70.34,
+      "niveau_eau": 15.945,
+      "humidite": 50.71,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:18:11.943Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.875,
+      "pression": 71.485,
+      "niveau_eau": 16.240000000000002,
+      "humidite": 50.355000000000004,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T13:19:16.368Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.049999999999997,
+      "pression": 70.285,
+      "niveau_eau": 15.98,
+      "humidite": 51.655,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:19:21.470Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.605,
+      "pression": 70.625,
+      "niveau_eau": 16.135,
+      "humidite": 51.055,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:19:26.570Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.86,
+      "pression": 70.85,
+      "niveau_eau": 16.775,
+      "humidite": 50.865,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:21:38.191Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.84,
+      "pression": 71.56,
+      "niveau_eau": 16.215,
+      "humidite": 50.6,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:21:43.292Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.240000000000002,
+      "pression": 71.49000000000001,
+      "niveau_eau": 16.25,
+      "humidite": 50.405,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:30:50.593Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.595,
+      "pression": 71.27,
+      "niveau_eau": 16.634999999999998,
+      "humidite": 50.45,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:30:55.694Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.18,
+      "pression": 71.215,
+      "niveau_eau": 15.745000000000001,
+      "humidite": 50.980000000000004,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:31:00.797Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.615000000000002,
+      "pression": 70.86,
+      "niveau_eau": 15.395,
+      "humidite": 50.99,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:31:05.912Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.34,
+      "pression": 71.60499999999999,
+      "niveau_eau": 16.080000000000002,
+      "humidite": 50.96,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:31:11.023Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.725,
+      "pression": 70.875,
+      "niveau_eau": 16.21,
+      "humidite": 50.64,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:31:16.133Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.705,
+      "pression": 71.065,
+      "niveau_eau": 15.864999999999998,
+      "humidite": 51.015,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:33:52.782Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.845,
+      "pression": 71.1,
+      "niveau_eau": 16.189999999999998,
+      "humidite": 51.075,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:33:57.888Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.305,
+      "pression": 71.15,
+      "niveau_eau": 15.35,
+      "humidite": 50.595,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:34:02.991Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.68,
+      "pression": 71.365,
+      "niveau_eau": 16.48,
+      "humidite": 50.47,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:36:16.433Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.605,
+      "pression": 71.04499999999999,
+      "niveau_eau": 15.815,
+      "humidite": 50.91,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:36:21.537Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.575000000000003,
+      "pression": 70.795,
+      "niveau_eau": 15.965,
+      "humidite": 50.59,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:42:51.720Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.935000000000002,
+      "pression": 71.01,
+      "niveau_eau": 15.785,
+      "humidite": 50.72,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:42:56.823Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.085,
+      "pression": 70.38499999999999,
+      "niveau_eau": 16.235,
+      "humidite": 50.275,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:43:01.925Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.64,
+      "pression": 71.53,
+      "niveau_eau": 16.275,
+      "humidite": 51.345,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:43:07.026Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.75,
+      "pression": 71.39,
+      "niveau_eau": 16.015,
+      "humidite": 51.32,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:43:12.129Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.225,
+      "pression": 71.425,
+      "niveau_eau": 15.44,
+      "humidite": 51.155,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:54:33.748Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.11,
+      "pression": 70.235,
+      "niveau_eau": 15.925,
+      "humidite": 50.565,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T13:54:38.850Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.19,
+      "pression": 70.735,
+      "niveau_eau": 16.81,
+      "humidite": 50.745000000000005,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T13:54:44.031Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.91,
+      "pression": 71.195,
+      "niveau_eau": 15.575,
+      "humidite": 51.195,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:12:14.574Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.735,
+      "pression": 70.39500000000001,
+      "niveau_eau": 15.899999999999999,
+      "humidite": 50.7,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:12:19.674Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.525,
+      "pression": 70.41499999999999,
+      "niveau_eau": 16.195,
+      "humidite": 51.525000000000006,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T14:19:10.918Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.67,
+      "pression": 71.215,
+      "niveau_eau": 16.28,
+      "humidite": 51.345,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:19:16.020Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.205,
+      "pression": 71.03,
+      "niveau_eau": 16.755,
+      "humidite": 51.06,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:19:21.120Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.44,
+      "pression": 71.4,
+      "niveau_eau": 16.54,
+      "humidite": 50.995000000000005,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:20:21.603Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.7,
+      "pression": 70.58500000000001,
+      "niveau_eau": 16.16,
+      "humidite": 50.91,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:20:26.703Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.915,
+      "pression": 71.05000000000001,
+      "niveau_eau": 16.354999999999997,
+      "humidite": 50.975,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:20:31.804Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.415,
+      "pression": 70.73,
+      "niveau_eau": 15.55,
+      "humidite": 51.04,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:20:36.906Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.965,
+      "pression": 70.765,
+      "niveau_eau": 16.12,
+      "humidite": 51.245,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:21:40.582Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.405,
+      "pression": 71.12,
+      "niveau_eau": 16.37,
+      "humidite": 51.18000000000001,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:21:45.682Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.54,
+      "pression": 71.075,
+      "niveau_eau": 16.1,
+      "humidite": 50.96,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:21:50.784Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.27,
+      "pression": 70.525,
+      "niveau_eau": 16.295,
+      "humidite": 51.175,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:22:52.577Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.475,
+      "pression": 70.59,
+      "niveau_eau": 15.809999999999999,
+      "humidite": 50.83,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T14:22:57.679Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.950000000000003,
+      "pression": 70.625,
+      "niveau_eau": 16.195,
+      "humidite": 50.35,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:23:58.578Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.915,
+      "pression": 71.13499999999999,
+      "niveau_eau": 16.615000000000002,
+      "humidite": 50.955,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:24:03.681Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.244999999999997,
+      "pression": 70.985,
+      "niveau_eau": 16.295,
+      "humidite": 51.22,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T14:25:04.580Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.37,
+      "pression": 71.08000000000001,
+      "niveau_eau": 15.87,
+      "humidite": 50.625,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:25:09.682Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.585,
+      "pression": 71.555,
+      "niveau_eau": 16.04,
+      "humidite": 50.269999999999996,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:26:10.584Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.61,
+      "pression": 71.455,
+      "niveau_eau": 15.39,
+      "humidite": 50.66,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:26:15.687Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.62,
+      "pression": 71.01,
+      "niveau_eau": 16.335,
+      "humidite": 50.85,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:27:16.590Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.490000000000002,
+      "pression": 71.535,
+      "niveau_eau": 15.86,
+      "humidite": 50.87,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:27:21.693Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.86,
+      "pression": 71.16999999999999,
+      "niveau_eau": 15.95,
+      "humidite": 51.215,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:28:25.586Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.61,
+      "pression": 70.94,
+      "niveau_eau": 15.254999999999999,
+      "humidite": 51.225,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:28:30.688Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.98,
+      "pression": 70.4,
+      "niveau_eau": 15.985,
+      "humidite": 51.05,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:29:31.580Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.205,
+      "pression": 71.195,
+      "niveau_eau": 15.844999999999999,
+      "humidite": 51.095,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:29:36.681Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.365000000000002,
+      "pression": 70.63,
+      "niveau_eau": 15.585,
+      "humidite": 51.010000000000005,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T14:30:37.581Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.595,
+      "pression": 70.8,
+      "niveau_eau": 15.805,
+      "humidite": 50.95,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:30:42.683Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.54,
+      "pression": 70.62,
+      "niveau_eau": 15.925,
+      "humidite": 50.7,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:31:43.582Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.445,
+      "pression": 71.11500000000001,
+      "niveau_eau": 15.545,
+      "humidite": 51.155,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:31:48.683Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.700000000000003,
+      "pression": 71.075,
+      "niveau_eau": 16.145,
+      "humidite": 51.18,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:31:53.784Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.47,
+      "pression": 70.78999999999999,
+      "niveau_eau": 15.75,
+      "humidite": 51.055,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:32:54.586Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.57,
+      "pression": 70.705,
+      "niveau_eau": 16.545,
+      "humidite": 50.8,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:32:59.688Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.93,
+      "pression": 70.8,
+      "niveau_eau": 15.850000000000001,
+      "humidite": 50.89,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:34:00.579Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.57,
+      "pression": 70.765,
+      "niveau_eau": 15.850000000000001,
+      "humidite": 50.655,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:34:05.681Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.505,
+      "pression": 70.64500000000001,
+      "niveau_eau": 16.525,
+      "humidite": 51.235,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:35:06.588Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.285,
+      "pression": 70.905,
+      "niveau_eau": 16.32,
+      "humidite": 51.415,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:35:11.689Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.47,
+      "pression": 71.365,
+      "niveau_eau": 16.205,
+      "humidite": 50.69,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:35:16.790Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.155,
+      "pression": 70.64,
+      "niveau_eau": 16.490000000000002,
+      "humidite": 50.83,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:35:21.892Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.090000000000003,
+      "pression": 71.465,
+      "niveau_eau": 16.515,
+      "humidite": 50.445,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:36:26.381Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.355,
+      "pression": 70.62,
+      "niveau_eau": 15.84,
+      "humidite": 51.025,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:36:31.481Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.975,
+      "pression": 71.65,
+      "niveau_eau": 15.96,
+      "humidite": 51.285,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:37:31.590Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.83,
+      "pression": 71.58,
+      "niveau_eau": 15.68,
+      "humidite": 51.115,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:37:36.690Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.985,
+      "pression": 70.82,
+      "niveau_eau": 16.415,
+      "humidite": 50.43,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:38:37.589Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.985,
+      "pression": 71.3,
+      "niveau_eau": 15.850000000000001,
+      "humidite": 50.86,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:38:42.689Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.355,
+      "pression": 71.11,
+      "niveau_eau": 16.225,
+      "humidite": 50.675,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:44:16.587Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.72,
+      "pression": 70.77,
+      "niveau_eau": 15.785,
+      "humidite": 50.75,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:44:21.688Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.835,
+      "pression": 71.72999999999999,
+      "niveau_eau": 16.5,
+      "humidite": 50.595,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T14:45:22.588Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.43,
+      "pression": 70.83,
+      "niveau_eau": 16.62,
+      "humidite": 50.400000000000006,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:45:27.690Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.18,
+      "pression": 70.785,
+      "niveau_eau": 16.18,
+      "humidite": 51.425,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:46:28.590Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.299999999999997,
+      "pression": 71.14500000000001,
+      "niveau_eau": 15.91,
+      "humidite": 51.144999999999996,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T14:46:33.693Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.755000000000003,
+      "pression": 70.83,
+      "niveau_eau": 16.04,
+      "humidite": 51.265,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T14:47:34.597Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.285,
+      "pression": 70.325,
+      "niveau_eau": 16.27,
+      "humidite": 51.555,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:47:39.699Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.83,
+      "pression": 71.155,
+      "niveau_eau": 15.95,
+      "humidite": 50.760000000000005,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:48:40.589Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.45,
+      "pression": 70.555,
+      "niveau_eau": 15.719999999999999,
+      "humidite": 51.19,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:48:45.690Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.205,
+      "pression": 71.28,
+      "niveau_eau": 16.490000000000002,
+      "humidite": 50.9,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:48:50.792Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.915,
+      "pression": 70.695,
+      "niveau_eau": 16,
+      "humidite": 51.025,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:48:55.895Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.665,
+      "pression": 70.29499999999999,
+      "niveau_eau": 16.08,
+      "humidite": 50.9,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:50:00.322Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.64,
+      "pression": 71.24000000000001,
+      "niveau_eau": 16.525,
+      "humidite": 51.285,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:50:05.423Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.1,
+      "pression": 71.675,
+      "niveau_eau": 15.73,
+      "humidite": 50.86,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:51:05.598Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.615000000000002,
+      "pression": 70.805,
+      "niveau_eau": 16.54,
+      "humidite": 50.71,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:51:10.700Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.925,
+      "pression": 70.66499999999999,
+      "niveau_eau": 15.33,
+      "humidite": 50.655,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:52:11.586Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.935000000000002,
+      "pression": 71.025,
+      "niveau_eau": 15.54,
+      "humidite": 51.19,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:52:16.687Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.64,
+      "pression": 71.73500000000001,
+      "niveau_eau": 15.265,
+      "humidite": 50.849999999999994,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T14:53:17.596Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.035,
+      "pression": 70.59,
+      "niveau_eau": 15.765,
+      "humidite": 51.115,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:53:22.697Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.31,
+      "pression": 71.235,
+      "niveau_eau": 16.07,
+      "humidite": 50.989999999999995,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:54:23.591Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.095,
+      "pression": 71.005,
+      "niveau_eau": 16.240000000000002,
+      "humidite": 51.394999999999996,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:54:28.692Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.375,
+      "pression": 70.485,
+      "niveau_eau": 16.05,
+      "humidite": 50.71,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T14:55:29.592Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.585,
+      "pression": 70.72999999999999,
+      "niveau_eau": 16.705,
+      "humidite": 50.89,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:55:34.693Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.795,
+      "pression": 71.22999999999999,
+      "niveau_eau": 15.785,
+      "humidite": 50.28,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:56:35.598Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.88,
+      "pression": 70.845,
+      "niveau_eau": 15.65,
+      "humidite": 51.455,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:56:40.700Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.27,
+      "pression": 70.96000000000001,
+      "niveau_eau": 15.34,
+      "humidite": 50.900000000000006,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:57:41.589Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.39,
+      "pression": 70.705,
+      "niveau_eau": 16.27,
+      "humidite": 50.955,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:57:46.690Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.305,
+      "pression": 71.535,
+      "niveau_eau": 15.905,
+      "humidite": 51.22,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:57:51.792Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.79,
+      "pression": 71.36500000000001,
+      "niveau_eau": 15.965,
+      "humidite": 51.175,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:57:56.893Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.55,
+      "pression": 70.74000000000001,
+      "niveau_eau": 15.765,
+      "humidite": 51.695,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:59:01.295Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.78,
+      "pression": 70.945,
+      "niveau_eau": 15.61,
+      "humidite": 51.045,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T14:59:06.396Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.715,
+      "pression": 70.695,
+      "niveau_eau": 16.095,
+      "humidite": 50.56,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:00:06.585Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.98,
+      "pression": 71.18,
+      "niveau_eau": 16.015,
+      "humidite": 51.045,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:00:11.687Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.675,
+      "pression": 70.515,
+      "niveau_eau": 15.66,
+      "humidite": 50.81,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:01:12.599Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.61,
+      "pression": 71.44,
+      "niveau_eau": 15.43,
+      "humidite": 51.325,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:01:17.700Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.810000000000002,
+      "pression": 70.89500000000001,
+      "niveau_eau": 15.41,
+      "humidite": 50.79,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:02:18.600Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.905,
+      "pression": 71.49000000000001,
+      "niveau_eau": 16.049999999999997,
+      "humidite": 51.285,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:02:23.702Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.03,
+      "pression": 70.78999999999999,
+      "niveau_eau": 15.809999999999999,
+      "humidite": 51.379999999999995,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T15:03:24.588Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.955,
+      "pression": 70.305,
+      "niveau_eau": 16.08,
+      "humidite": 51.370000000000005,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:03:29.690Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.009999999999998,
+      "pression": 70.77000000000001,
+      "niveau_eau": 15.64,
+      "humidite": 51.144999999999996,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T15:04:30.605Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.85,
+      "pression": 70.875,
+      "niveau_eau": 15.879999999999999,
+      "humidite": 50.64,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:04:35.707Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.065,
+      "pression": 71.15,
+      "niveau_eau": 16.22,
+      "humidite": 51.58,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T15:05:36.596Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.619999999999997,
+      "pression": 71.6,
+      "niveau_eau": 15.785,
+      "humidite": 51.215,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:05:41.699Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.5,
+      "pression": 70.36500000000001,
+      "niveau_eau": 15.77,
+      "humidite": 50.55,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:06:42.602Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.595,
+      "pression": 71.36000000000001,
+      "niveau_eau": 16.54,
+      "humidite": 50.66,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:06:47.702Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.895,
+      "pression": 70.78999999999999,
+      "niveau_eau": 15.95,
+      "humidite": 50.965,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:06:52.803Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.14,
+      "pression": 70.99000000000001,
+      "niveau_eau": 15.675,
+      "humidite": 51.69,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:06:57.905Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.595,
+      "pression": 71.23,
+      "niveau_eau": 16.02,
+      "humidite": 51.685,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:08:02.354Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.835,
+      "pression": 70.86500000000001,
+      "niveau_eau": 16.355,
+      "humidite": 51.525000000000006,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:08:07.456Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.619999999999997,
+      "pression": 70.9,
+      "niveau_eau": 16.380000000000003,
+      "humidite": 51.28,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:09:07.599Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.145,
+      "pression": 71.4,
+      "niveau_eau": 16.075000000000003,
+      "humidite": 50.735,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:09:12.700Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.595,
+      "pression": 71.245,
+      "niveau_eau": 16.335,
+      "humidite": 50.730000000000004,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:10:13.600Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.21,
+      "pression": 70.875,
+      "niveau_eau": 15.555,
+      "humidite": 50.79,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:10:18.703Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.725,
+      "pression": 70.95,
+      "niveau_eau": 16.395,
+      "humidite": 51.79,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T15:11:19.603Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.785,
+      "pression": 71.3,
+      "niveau_eau": 15.98,
+      "humidite": 51.05,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:11:24.705Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.945,
+      "pression": 71.285,
+      "niveau_eau": 15.99,
+      "humidite": 51.334999999999994,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:12:25.605Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.54,
+      "pression": 70.99000000000001,
+      "niveau_eau": 15.26,
+      "humidite": 51.205,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:12:30.707Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.22,
+      "pression": 70.71000000000001,
+      "niveau_eau": 15.524999999999999,
+      "humidite": 50.36,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T15:13:31.600Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.83,
+      "pression": 70.78999999999999,
+      "niveau_eau": 15.8,
+      "humidite": 50.985,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:13:36.702Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.025,
+      "pression": 71.05000000000001,
+      "niveau_eau": 16.15,
+      "humidite": 50.575,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:14:37.603Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.595,
+      "pression": 70.775,
+      "niveau_eau": 15.965,
+      "humidite": 50.900000000000006,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:14:42.705Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.3,
+      "pression": 71.305,
+      "niveau_eau": 15.530000000000001,
+      "humidite": 50.730000000000004,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:15:43.621Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.875,
+      "pression": 71.455,
+      "niveau_eau": 16.560000000000002,
+      "humidite": 51.519999999999996,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:15:48.722Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.055,
+      "pression": 71.44,
+      "niveau_eau": 16.015,
+      "humidite": 51.165,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:15:53.824Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.365,
+      "pression": 70.775,
+      "niveau_eau": 16.285,
+      "humidite": 50.705,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:15:58.926Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.045,
+      "pression": 71.66499999999999,
+      "niveau_eau": 15.84,
+      "humidite": 51.269999999999996,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:17:03.275Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.97,
+      "pression": 71.07,
+      "niveau_eau": 15.920000000000002,
+      "humidite": 50.59,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:17:08.377Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.29,
+      "pression": 71.07,
+      "niveau_eau": 15.165,
+      "humidite": 51.325,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:18:08.610Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.515,
+      "pression": 71.285,
+      "niveau_eau": 15.75,
+      "humidite": 50.605000000000004,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:18:13.710Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.27,
+      "pression": 71.28,
+      "niveau_eau": 16.225,
+      "humidite": 51.105000000000004,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T15:19:14.607Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.549999999999997,
+      "pression": 70.72,
+      "niveau_eau": 15.48,
+      "humidite": 51.614999999999995,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:19:19.708Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.12,
+      "pression": 70.69,
+      "niveau_eau": 16.4,
+      "humidite": 51.32,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:20:20.602Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.26,
+      "pression": 71.08000000000001,
+      "niveau_eau": 15.780000000000001,
+      "humidite": 50.879999999999995,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:20:25.704Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.45,
+      "pression": 71.19,
+      "niveau_eau": 16.41,
+      "humidite": 51.335,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:21:26.608Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.759999999999998,
+      "pression": 71.355,
+      "niveau_eau": 16.34,
+      "humidite": 51.56,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T15:21:31.709Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.689999999999998,
+      "pression": 70.875,
+      "niveau_eau": 16.475,
+      "humidite": 50.93,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:22:32.604Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.86,
+      "pression": 71.245,
+      "niveau_eau": 15.760000000000002,
+      "humidite": 51.165,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:22:37.706Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.35,
+      "pression": 70.775,
+      "niveau_eau": 16.67,
+      "humidite": 50.28,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:22:42.806Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.3,
+      "pression": 71.485,
+      "niveau_eau": 15.97,
+      "humidite": 51.64,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:23:43.604Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.770000000000003,
+      "pression": 70.97,
+      "niveau_eau": 16.095,
+      "humidite": 50.185,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T15:23:48.704Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.85,
+      "pression": 71.23,
+      "niveau_eau": 16.28,
+      "humidite": 50.36,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:23:53.805Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.314999999999998,
+      "pression": 70.72,
+      "niveau_eau": 15.919999999999998,
+      "humidite": 51.224999999999994,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:24:54.608Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.325000000000003,
+      "pression": 71.14,
+      "niveau_eau": 15.655,
+      "humidite": 50.614999999999995,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:24:59.710Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.535,
+      "pression": 71.33000000000001,
+      "niveau_eau": 15.86,
+      "humidite": 51.85,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:26:00.605Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.91,
+      "pression": 71.525,
+      "niveau_eau": 16.335,
+      "humidite": 51.46,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:26:05.707Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.845,
+      "pression": 70.50999999999999,
+      "niveau_eau": 16.17,
+      "humidite": 50.915,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:27:06.610Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.215,
+      "pression": 70.315,
+      "niveau_eau": 15.965,
+      "humidite": 50.855,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T15:27:11.712Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.005000000000003,
+      "pression": 71.65,
+      "niveau_eau": 15.875,
+      "humidite": 50.769999999999996,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:28:12.605Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.605,
+      "pression": 70.825,
+      "niveau_eau": 15.985,
+      "humidite": 50.89,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:28:17.706Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.384999999999998,
+      "pression": 70.77000000000001,
+      "niveau_eau": 15.364999999999998,
+      "humidite": 50.485,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:29:18.612Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.105,
+      "pression": 70.88,
+      "niveau_eau": 16.09,
+      "humidite": 50.355000000000004,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T15:29:23.712Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.48,
+      "pression": 71.24000000000001,
+      "niveau_eau": 16.755000000000003,
+      "humidite": 50.305,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:30:24.611Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.405,
+      "pression": 71.13499999999999,
+      "niveau_eau": 15.89,
+      "humidite": 51.09,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:30:29.714Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.23,
+      "pression": 71.00999999999999,
+      "niveau_eau": 16.13,
+      "humidite": 50.755,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:31:30.607Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.92,
+      "pression": 71.32,
+      "niveau_eau": 16.155,
+      "humidite": 50.985,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:31:35.706Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.95,
+      "pression": 70.65,
+      "niveau_eau": 16.53,
+      "humidite": 50.33,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:32:36.613Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.295,
+      "pression": 70.86500000000001,
+      "niveau_eau": 16.53,
+      "humidite": 51.125,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:32:41.714Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.73,
+      "pression": 71.785,
+      "niveau_eau": 15.765,
+      "humidite": 50.75,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T15:33:42.608Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.725,
+      "pression": 71.185,
+      "niveau_eau": 15.79,
+      "humidite": 50.985,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:33:47.710Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.44,
+      "pression": 70.84,
+      "niveau_eau": 16.38,
+      "humidite": 51.129999999999995,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:34:48.614Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.15,
+      "pression": 71.31,
+      "niveau_eau": 16.72,
+      "humidite": 51.595,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:34:53.715Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.415,
+      "pression": 71.44999999999999,
+      "niveau_eau": 16.115,
+      "humidite": 51.235,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T15:35:54.605Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.92,
+      "pression": 70.77000000000001,
+      "niveau_eau": 16.085,
+      "humidite": 51.295,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:35:59.707Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.785,
+      "pression": 70.8,
+      "niveau_eau": 16.6,
+      "humidite": 51.495000000000005,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:37:00.614Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.525,
+      "pression": 70.66,
+      "niveau_eau": 16.105,
+      "humidite": 51.545,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:37:05.714Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.165,
+      "pression": 71.38499999999999,
+      "niveau_eau": 15.835,
+      "humidite": 50.790000000000006,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:38:06.609Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.555,
+      "pression": 71.06,
+      "niveau_eau": 16.6,
+      "humidite": 51.325,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:38:11.710Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.259999999999998,
+      "pression": 71,
+      "niveau_eau": 15.4,
+      "humidite": 50.58,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:39:12.611Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.525,
+      "pression": 71.675,
+      "niveau_eau": 15.575,
+      "humidite": 51.16,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:39:17.712Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.115000000000002,
+      "pression": 71.36,
+      "niveau_eau": 16.115000000000002,
+      "humidite": 50.735,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:40:18.611Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.345,
+      "pression": 71.00999999999999,
+      "niveau_eau": 15.600000000000001,
+      "humidite": 51.405,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:40:23.712Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.235,
+      "pression": 70.765,
+      "niveau_eau": 16.035,
+      "humidite": 51.445,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:41:24.604Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.494999999999997,
+      "pression": 71.13,
+      "niveau_eau": 16.13,
+      "humidite": 50.595,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:41:29.705Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.509999999999998,
+      "pression": 71.43,
+      "niveau_eau": 16.24,
+      "humidite": 50.635,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:42:30.612Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.32,
+      "pression": 70.88499999999999,
+      "niveau_eau": 16.705,
+      "humidite": 51.41,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T15:42:35.713Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.990000000000002,
+      "pression": 70.57499999999999,
+      "niveau_eau": 15.605,
+      "humidite": 50.89,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:43:36.609Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.240000000000002,
+      "pression": 70.475,
+      "niveau_eau": 16.485,
+      "humidite": 50.78,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:43:41.709Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.585,
+      "pression": 70.83500000000001,
+      "niveau_eau": 15.594999999999999,
+      "humidite": 51.775,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:44:42.621Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.14,
+      "pression": 70.72,
+      "niveau_eau": 16.299999999999997,
+      "humidite": 51.445,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:44:47.722Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.65,
+      "pression": 70.68,
+      "niveau_eau": 15.835,
+      "humidite": 51.385000000000005,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:44:52.822Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.765,
+      "pression": 71.38499999999999,
+      "niveau_eau": 15.605,
+      "humidite": 50.644999999999996,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:44:57.923Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.91,
+      "pression": 71.39500000000001,
+      "niveau_eau": 15.48,
+      "humidite": 51.665,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:46:02.289Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.6,
+      "pression": 71.06,
+      "niveau_eau": 15.68,
+      "humidite": 51.205,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:46:07.391Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.325,
+      "pression": 70.72999999999999,
+      "niveau_eau": 15.72,
+      "humidite": 50.65,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:47:07.613Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.265,
+      "pression": 70.78,
+      "niveau_eau": 15.79,
+      "humidite": 51.269999999999996,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:47:12.713Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.645,
+      "pression": 71.18,
+      "niveau_eau": 15.89,
+      "humidite": 50.665,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T15:48:13.619Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.27,
+      "pression": 70.525,
+      "niveau_eau": 15.84,
+      "humidite": 50.915,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:48:18.720Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.245,
+      "pression": 70.905,
+      "niveau_eau": 15.760000000000002,
+      "humidite": 51.4,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:49:55.518Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.43,
+      "pression": 71.305,
+      "niveau_eau": 16.285,
+      "humidite": 50.82,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:50:00.619Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.775,
+      "pression": 71.22,
+      "niveau_eau": 15.72,
+      "humidite": 50.825,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:50:05.720Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.744999999999997,
+      "pression": 71,
+      "niveau_eau": 16.47,
+      "humidite": 50.535,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:55:00.323Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.814999999999998,
+      "pression": 71.31,
+      "niveau_eau": 16.695,
+      "humidite": 51.035,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T15:55:05.424Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.665,
+      "pression": 71.13,
+      "niveau_eau": 15.885000000000002,
+      "humidite": 50.74,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T16:11:07.080Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.72,
+      "pression": 70.91499999999999,
+      "niveau_eau": 15.655000000000001,
+      "humidite": 51.25,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T16:27:42.854Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.455,
+      "pression": 71.47,
+      "niveau_eau": 16.21,
+      "humidite": 50.855000000000004,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T16:37:48.872Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.1,
+      "pression": 70.58500000000001,
+      "niveau_eau": 15.795,
+      "humidite": 51.025,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T16:37:53.974Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.475,
+      "pression": 70.935,
+      "niveau_eau": 16.335,
+      "humidite": 51.315,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T16:43:42.043Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.615000000000002,
+      "pression": 70.62,
+      "niveau_eau": 15.82,
+      "humidite": 50.905,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T16:43:47.144Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.31,
+      "pression": 70.985,
+      "niveau_eau": 15.46,
+      "humidite": 50.290000000000006,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T16:45:42.824Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.195,
+      "pression": 70.76499999999999,
+      "niveau_eau": 15.275,
+      "humidite": 50.985,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T16:45:47.919Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.795,
+      "pression": 70.295,
+      "niveau_eau": 16.64,
+      "humidite": 50.71,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T17:01:46.641Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.975,
+      "pression": 71.605,
+      "niveau_eau": 15.875,
+      "humidite": 51.265,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T17:01:51.734Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.28,
+      "pression": 71.33,
+      "niveau_eau": 15.565000000000001,
+      "humidite": 50.655,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T17:06:16.483Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.985,
+      "pression": 71.28,
+      "niveau_eau": 16.42,
+      "humidite": 51.015,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T17:06:21.576Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.189999999999998,
+      "pression": 70.91499999999999,
+      "niveau_eau": 16.305,
+      "humidite": 51.30500000000001,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T17:06:26.672Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.71,
+      "pression": 71.13,
+      "niveau_eau": 15.825,
+      "humidite": 51.1,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T17:15:00.621Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.6,
+      "pression": 70.625,
+      "niveau_eau": 15.835,
+      "humidite": 50.705,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T17:15:05.719Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.09,
+      "pression": 70.965,
+      "niveau_eau": 15.754999999999999,
+      "humidite": 51.57,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T17:19:42.766Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.045,
+      "pression": 70.975,
+      "niveau_eau": 15.59,
+      "humidite": 50.99,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T17:19:47.867Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.625,
+      "pression": 71.4,
+      "niveau_eau": 15.575,
+      "humidite": 50.55,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T17:24:42.642Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.585,
+      "pression": 71.19999999999999,
+      "niveau_eau": 16.189999999999998,
+      "humidite": 50.84,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T17:24:47.743Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.255000000000003,
+      "pression": 71.46000000000001,
+      "niveau_eau": 16.115000000000002,
+      "humidite": 51.08,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T17:29:32.920Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.6,
+      "pression": 70.99000000000001,
+      "niveau_eau": 16.23,
+      "humidite": 51.76,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T17:29:38.021Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.625,
+      "pression": 70.305,
+      "niveau_eau": 15.695,
+      "humidite": 51.31,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T17:34:27.929Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.035,
+      "pression": 71.005,
+      "niveau_eau": 15.27,
+      "humidite": 51.195,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T17:34:33.031Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.049999999999997,
+      "pression": 71.35,
+      "niveau_eau": 15.64,
+      "humidite": 51.085,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T17:39:08.311Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.564999999999998,
+      "pression": 70.78999999999999,
+      "niveau_eau": 16.520000000000003,
+      "humidite": 51.54,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T17:39:13.409Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.795,
+      "pression": 70.89,
+      "niveau_eau": 15.695,
+      "humidite": 50.785,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T17:43:42.931Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.875,
+      "pression": 70.42,
+      "niveau_eau": 16.325,
+      "humidite": 51.105000000000004,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T17:43:48.031Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.439999999999998,
+      "pression": 71.815,
+      "niveau_eau": 15.715,
+      "humidite": 51.09,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T17:46:42.616Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.36,
+      "pression": 70.78,
+      "niveau_eau": 16.125,
+      "humidite": 50.68,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T17:46:47.714Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.125,
+      "pression": 70.3,
+      "niveau_eau": 16.655,
+      "humidite": 51.175,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T17:51:26.913Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.64,
+      "pression": 70.47999999999999,
+      "niveau_eau": 16.189999999999998,
+      "humidite": 50.19,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T17:51:32.015Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.185,
+      "pression": 71.05,
+      "niveau_eau": 16.060000000000002,
+      "humidite": 51.155,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T17:51:37.114Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.189999999999998,
+      "pression": 70.905,
+      "niveau_eau": 16.515,
+      "humidite": 51.019999999999996,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T17:51:42.215Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.72,
+      "pression": 71.08500000000001,
+      "niveau_eau": 16.134999999999998,
+      "humidite": 51.010000000000005,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T17:51:47.314Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.130000000000003,
+      "pression": 71.27000000000001,
+      "niveau_eau": 16.155,
+      "humidite": 50.58,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T17:54:36.185Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.295,
+      "pression": 70.56,
+      "niveau_eau": 16.575,
+      "humidite": 51.230000000000004,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T17:54:41.285Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.455,
+      "pression": 71.005,
+      "niveau_eau": 16.189999999999998,
+      "humidite": 50.345,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T18:06:46.352Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.515,
+      "pression": 71.16499999999999,
+      "niveau_eau": 16.41,
+      "humidite": 51.625,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T18:06:51.453Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.495,
+      "pression": 70.83,
+      "niveau_eau": 15.765,
+      "humidite": 50.955,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T18:06:57.474Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.064999999999998,
+      "pression": 70.53999999999999,
+      "niveau_eau": 16.105,
+      "humidite": 50.565,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T18:07:02.575Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.65,
+      "pression": 70.925,
+      "niveau_eau": 15.84,
+      "humidite": 51.06,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T18:07:34.683Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.595,
+      "pression": 70.28,
+      "niveau_eau": 16.025,
+      "humidite": 50.875,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T18:07:39.784Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.71,
+      "pression": 70.565,
+      "niveau_eau": 15.535,
+      "humidite": 50.555,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T18:09:21.181Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.07,
+      "pression": 70.91999999999999,
+      "niveau_eau": 16.195,
+      "humidite": 50.349999999999994,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T18:09:26.281Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.07,
+      "pression": 70.94,
+      "niveau_eau": 15.7,
+      "humidite": 51.03,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T18:09:31.381Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.515,
+      "pression": 70.41,
+      "niveau_eau": 15.524999999999999,
+      "humidite": 51.035,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T18:09:36.483Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.68,
+      "pression": 71.315,
+      "niveau_eau": 16.009999999999998,
+      "humidite": 51.015,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T18:11:14.341Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.325000000000003,
+      "pression": 70.63499999999999,
+      "niveau_eau": 16.515,
+      "humidite": 50.84,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T18:11:19.451Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.36,
+      "pression": 71.005,
+      "niveau_eau": 15.985,
+      "humidite": 50.935,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T18:11:24.559Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.68,
+      "pression": 71.24000000000001,
+      "niveau_eau": 16.39,
+      "humidite": 50.75,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T18:11:52.758Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.335,
+      "pression": 71.015,
+      "niveau_eau": 15.745000000000001,
+      "humidite": 51.04,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T18:11:57.865Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.975,
+      "pression": 71.125,
+      "niveau_eau": 16.119999999999997,
+      "humidite": 51.355000000000004,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T18:12:02.971Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.375,
+      "pression": 70.91499999999999,
+      "niveau_eau": 15.620000000000001,
+      "humidite": 51.06,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T18:13:56.781Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.17,
+      "pression": 71.065,
+      "niveau_eau": 16.025,
+      "humidite": 51.47,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T18:14:01.885Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.97,
+      "pression": 71.31,
+      "niveau_eau": 16.625,
+      "humidite": 50.730000000000004,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T18:31:55.648Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.259999999999998,
+      "pression": 71.25,
+      "niveau_eau": 15.695,
+      "humidite": 50.705,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T18:32:00.750Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.225,
+      "pression": 71.21000000000001,
+      "niveau_eau": 16.4,
+      "humidite": 50.54,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T18:33:11.897Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.990000000000002,
+      "pression": 71.20500000000001,
+      "niveau_eau": 16.04,
+      "humidite": 51.33,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T18:33:16.998Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.325,
+      "pression": 71.03999999999999,
+      "niveau_eau": 15.94,
+      "humidite": 50.97,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T18:33:23.019Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.775,
+      "pression": 70.615,
+      "niveau_eau": 16.19,
+      "humidite": 50.519999999999996,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T18:33:53.459Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.1,
+      "pression": 70.29499999999999,
+      "niveau_eau": 16.21,
+      "humidite": 51.315,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T18:33:58.560Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.770000000000003,
+      "pression": 70.72,
+      "niveau_eau": 15.99,
+      "humidite": 50.535,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T18:47:42.658Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.405,
+      "pression": 70.535,
+      "niveau_eau": 15.385000000000002,
+      "humidite": 51.035,
+      "confiance": "forte",
+      "timestamp": "2025-05-18T18:47:47.757Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.67,
+      "pression": 70.91499999999999,
+      "niveau_eau": 15.605,
+      "humidite": 51.045,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T19:02:56.654Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.115000000000002,
+      "pression": 70.50999999999999,
+      "niveau_eau": 16.07,
+      "humidite": 51.405,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T19:03:01.756Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 21.065,
+      "pression": 71.11,
+      "niveau_eau": 16.465,
+      "humidite": 50.515,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T19:18:05.675Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.69,
+      "pression": 71.425,
+      "niveau_eau": 16.060000000000002,
+      "humidite": 51.515,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T19:18:10.725Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.17,
+      "pression": 71.535,
+      "niveau_eau": 16.115000000000002,
+      "humidite": 51.745000000000005,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T19:35:59.619Z",
+      "barrageId": "DAM001",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.055,
+      "pression": 71.28,
+      "niveau_eau": 15.86,
+      "humidite": 51.575,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T19:36:04.721Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 21.174999999999997,
+      "pression": 71.33500000000001,
+      "niveau_eau": 15.665,
+      "humidite": 51.224999999999994,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T19:48:42.618Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.87,
+      "pression": 70.795,
+      "niveau_eau": 15.870000000000001,
+      "humidite": 50.894999999999996,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T19:48:47.720Z",
+      "barrageId": "DAM003",
+      "wilaya": "Tizi Ouzou"
+    }
+  },
+  {
+    "status": "normal",
+    "valeurs": {
+      "temperature": 20.645,
+      "pression": 70.995,
+      "niveau_eau": 16.29,
+      "humidite": 50.795,
+      "confiance": "moyenne",
+      "timestamp": "2025-05-18T19:48:52.823Z",
+      "barrageId": "DAM005",
+      "wilaya": "Annaba"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.89,
+      "pression": 71.575,
+      "niveau_eau": 15.89,
+      "humidite": 50.925,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T20:02:31.859Z",
+      "barrageId": "DAM002",
+      "wilaya": "Blida"
+    }
+  },
+  {
+    "status": "warning",
+    "valeurs": {
+      "temperature": 20.445,
+      "pression": 70.765,
+      "niveau_eau": 15.73,
+      "humidite": 50.59,
+      "confiance": "faible",
+      "timestamp": "2025-05-18T20:02:36.964Z",
+      "barrageId": "DAM004",
+      "wilaya": "Oran"
+    }
   }
 ]

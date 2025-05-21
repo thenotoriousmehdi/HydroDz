@@ -1,7 +1,7 @@
 const axios = require("axios");
 
-// Choisis ici le mode : "valide" | "moins2valides" | "incoherent"
-const mode = "valide"; //  modifie cette variable pour la démo
+
+const mode = "valide"; 
 
 const barrages = [
   { id: "DAM001", wilaya: "Alger", min: 0, max: 100 },
@@ -43,7 +43,7 @@ function generateCapteurs(mode, capteurIds) {
             humidite: 58.2,
           };
         } else {
-          // les autres rejetés (valeurs aberrantes)
+         
           return {
             id,
             temperature: -999,

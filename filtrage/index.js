@@ -7,7 +7,6 @@ const fs = require("fs");
 const path = require("path");
 const {pipeFilter} = require("./pipeFilter.js");
 
-// Enable CORS for all routes
 app.use(cors());
 app.use(bodyParser.json());
 
@@ -17,8 +16,8 @@ class QueueManager {
     // Files d'attente par priorité
     this.queues = {
       high: [],    
-      medium: [],  // Warnings et états incertains
-      low: []      // Données normales de routine
+      medium: [],  
+      low: []     
     };
     
     // Configuration

@@ -1,0 +1,27 @@
+{
+  "high": [],
+  "medium": [
+    {
+      "data": {
+        "status": "warning",
+        "valeurs": {
+          "temperature": 21.35,
+          "pression": 70.75,
+          "niveau_eau": 16,
+          "humidite": 50.92,
+          "confiance": "faible",
+          "timestamp": "2025-05-18T20:02:47.174Z",
+          "barrageId": "DAM001",
+          "wilaya": "Alger"
+        }
+      },
+      "metadata": {
+        "timestamp": "2025-05-18T20:02:47.188Z",
+        "attempts": 0,
+        "priority": "medium",
+        "barrageId": "DAM001"
+      }
+    }
+  ],
+  "timestamp": "2025-05-18T20:02:47.188Z"
+}
