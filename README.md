@@ -28,22 +28,28 @@ HydroDz is a comprehensive water management system designed to monitor and manag
 HydroDz/
 ├── FrontEnd/
 │   ├── src/
+│   │   ├── assets/
 │   │   ├── components/
 │   │   ├── pages/
-│   │   └── App.jsx
-├── BackEnd/
-│   ├── filtrage/
-│   ├── queue/
-│   └── server.js
-└── README.md
+│   │   ├── routes/
+│   │   ├── utils/
+│   │   ├── App.jsx
+│   │   └── main.jsx
+│   ├── public/
+│   └── package.json
+├── api/
+├── consumer/
+├── filtrage/
+├── Security/
+├── simulateur/
+└── docker-compose.yml
 ```
 
 ## Prerequisites
 
 - Node.js (v14 or higher)
 - npm or yarn
-- MongoDB
-- Python 3.x (for backend processing)
+- Docker (for running services)
 
 ## Installation
 
@@ -59,51 +65,32 @@ cd FrontEnd
 npm install
 ```
 
-3. Install Backend dependencies:
-```bash
-cd ../BackEnd
-npm install
-```
-
-4. Set up environment variables:
-Create a `.env` file in the BackEnd directory with the following variables:
-```
-PORT=5000
-MONGODB_URI=your_mongodb_connection_string
-```
+3. Set up environment variables:
+Create a `.env` file in the FrontEnd directory with the necessary environment variables.
 
 ## Running the Application
 
-1. Start the Backend server:
+1. Start the services using Docker Compose:
 ```bash
-cd BackEnd
-npm start
+docker-compose up -d
 ```
 
 2. Start the Frontend development server:
 ```bash
 cd FrontEnd
-npm start
+npm run dev
 ```
 
-The application will be available at `http://localhost:3000`
+The application will be available at `http://localhost:5173`
 
-## API Endpoints
+## Project Components
 
-### Dam Monitoring
-- `GET /api/dam/status` - Get current dam status
-- `GET /api/dam/history` - Get historical dam data
-- `POST /api/dam/update` - Update dam measurements
-
-### Water Quality
-- `GET /api/quality/current` - Get current water quality metrics
-- `GET /api/quality/history` - Get historical water quality data
-- `POST /api/quality/update` - Update water quality measurements
-
-### Queue Management
-- `GET /api/queue/status` - Get current queue status
-- `GET /api/queue/history` - Get queue history
-- `POST /api/queue/update` - Update queue status
+- **FrontEnd**: React-based web application for user interface
+- **api**: Backend API services
+- **consumer**: Message queue consumer service
+- **filtrage**: Data filtering and processing service
+- **Security**: Security-related components
+- **simulateur**: Simulation service for testing
 
 ## Contributing
 
@@ -117,7 +104,4 @@ The application will be available at `http://localhost:3000`
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contact
-
-Your Name - your.email@example.com
 Project Link: https://github.com/yourusername/HydroDz 
